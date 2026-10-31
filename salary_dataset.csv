@@ -1,0 +1,3216 @@
+Age,Gender,Education_Level,Job_Title,Years_of_Experience,Location,Annual_Salary
+31.0,Female,Bachelor's,Product Manager,4.0,Mumbai,2465200.0
+26.0,Female,Bachelor's,Full Stack Developer,4.1,Hyderabad,1464100.0
+22.0,Male,Bachelor's,UI/UX Designer,0.9,Bangalore,910000.0
+30.0,Male,Bachelor's,UI/UX Designer,9.3,Chennai,1766700.0
+33.0,Female,PhD,Product Manager,7.7,Bangalore,3426400.0
+26.0,Male,Bachelor's,UI/UX Designer,2.4,Bangalore,1184800.0
+26.0,Male,Bachelor's,DevOps Engineer,2.3,Bangalore,1480500.0
+25.0,Female,Bachelor's,Full Stack Developer,4.4,Pune,1544300.0
+23.0,Male,Bachelor's,Business Analyst,2.6,Chennai,1050000.0
+28.0,Female,Bachelor's,Full Stack Developer,5.8,Bangalore,1767500.0
+31.0,Male,Master's,Cloud Architect,4.8,Delhi-NCR,2640100.0
+24.0,Female,Bachelor's,Data Scientist,1.5,Pune,1392200.0
+28.0,Male,Bachelor's,Business Analyst,6.4,Bangalore,1647700.0
+26.0,Male,Master's,Data Analyst,3.2,Pune,1223700.0
+34.0,Female,Bachelor's,Product Manager,9.1,Bangalore,3310700.0
+25.0,Female,Master's,UI/UX Designer,1.9,Bangalore,1291600.0
+26.0,Female,Bachelor's,Software Engineer,3.3,Bangalore,1502800.0
+25.0,Male,Bachelor's,Machine Learning Engineer,1.4,Mumbai,1538600.0
+27.0,Male,Bachelor's,Software Engineer,4.4,Bangalore,1595300.0
+30.0,Male,PhD,Software Engineer,1.8,Bangalore,1668500.0
+34.0,Female,Bachelor's,Senior Software Engineer,7.5,Pune,2656100.0
+30.0,Female,Bachelor's,DevOps Engineer,6.3,Hyderabad,2012700.0
+28.0,Female,High School,QA Engineer,5.0,Bangalore,1250700.0
+27.0,Female,Bachelor's,Data Analyst,5.7,Pune,1394800.0
+37.0,Female,PhD,Cloud Architect,9.8,Bangalore,3876800.0
+25.0,Female,Master's,Software Engineer,4.2,Bangalore,1836700.0
+22.0,Female,Bachelor's,Data Scientist,1.7,Delhi-NCR,1392000.0
+29.0,Female,Bachelor's,Senior Software Engineer,4.6,Bangalore,2151500.0
+27.0,Female,Master's,Full Stack Developer,3.8,Pune,1742800.0
+32.0,Male,PhD,DevOps Engineer,4.3,Bangalore,2042600.0
+25.0,Male,Bachelor's,Software Engineer,2.1,Pune,1340700.0
+29.0,Male,Bachelor's,Software Engineer,5.0,Chennai,1729800.0
+24.0,Male,Bachelor's,Data Scientist,3.7,Chennai,1654800.0
+31.0,Female,Master's,Cloud Architect,5.1,Hyderabad,2754300.0
+31.0,Male,Master's,Senior Software Engineer,4.0,Hyderabad,2324800.0
+26.0,Male,Bachelor's,Data Scientist,2.5,Bangalore,1633100.0
+30.0,Female,High School,UI/UX Designer,7.7,Delhi-NCR,1620900.0
+24.0,Male,High School,DevOps Engineer,2.6,Pune,1172600.0
+26.0,Female,Bachelor's,Full Stack Developer,,Mumbai,1625200.0
+23.0,Female,Master's,Data Scientist,1.4,Pune,1453000.0
+25.0,Male,Bachelor's,Data Scientist,2.7,Hyderabad,1681800.0
+26.0,Male,Bachelor's,Software Engineer,2.4,Bangalore,1381600.0
+34.0,Male,Bachelor's,Machine Learning Engineer,13.4,Pune,3722900.0
+26.0,Female,High School,UI/UX Designer,2.1,Bangalore,990800.0
+30.0,Female,Bachelor's,Machine Learning Engineer,7.6,Hyderabad,2816200.0
+33.0,Female,PhD,Data Analyst,4.1,Pune,1644900.0
+36.0,Female,Bachelor's,Senior Software Engineer,8.7,Pune,2955100.0
+24.0,Male,Bachelor's,Business Analyst,3.6,Bangalore,1308300.0
+25.0,Female,Bachelor's,Software Engineer,2.5,Pune,1262100.0
+29.0,Male,PhD,Machine Learning Engineer,3.0,Hyderabad,2030100.0
+30.0,Female,Bachelor's,Cloud Architect,5.0,Pune,2506500.0
+29.0,Female,Master's,Machine Learning Engineer,7.9,Bangalore,2870800.0
+34.0,Male,Master's,Cloud Architect,9.8,Hyderabad,3673300.0
+33.0,Female,PhD,UI/UX Designer,7.1,Chennai,2016600.0
+23.0,Female,Master's,Data Analyst,2.1,Pune,1158600.0
+31.0,Female,Bachelor's,QA Engineer,10.2,Bangalore,1741200.0
+29.0,Female,Master's,Full Stack Developer,8.0,Bangalore,2278000.0
+25.0,Female,Bachelor's,Software Engineer,1.2,Delhi-NCR,1097300.0
+26.0,Female,Bachelor's,UI/UX Designer,,Pune,1150700.0
+24.0,Female,Master's,Business Analyst,1.1,Mumbai,1192000.0
+28.0,Male,Master's,UI/UX Designer,4.1,Bangalore,1511500.0
+33.0,Female,PhD,Machine Learning Engineer,5.0,Bangalore,2564600.0
+35.0,Other,Bachelor's,Cloud Architect,8.2,Bangalore,3286800.0
+31.0,Female,Bachelor's,UI/UX Designer,7.1,Hyderabad,1592200.0
+32.0,Male,Bachelor's,Cloud Architect,7.0,Bangalore,3064100.0
+34.0,Female,PhD,Data Scientist,7.1,Delhi-NCR,2756900.0
+25.0,Other,Master's,Full Stack Developer,4.4,Hyderabad,1624000.0
+30.0,Male,Master's,QA Engineer,9.1,Delhi-NCR,1800800.0
+33.0,Female,Bachelor's,Machine Learning Engineer,11.5,Chennai,3275200.0
+29.0,Female,PhD,Cloud Architect,4.8,Bangalore,2698900.0
+25.0,Female,Master's,Data Scientist,,Pune,1832900.0
+37.0,Female,Bachelor's,Product Manager,11.5,Mumbai,3792700.0
+34.0,Male,Bachelor's,Senior Software Engineer,6.7,Pune,2442600.0
+33.0,Female,Bachelor's,UI/UX Designer,11.7,Bangalore,2200500.0
+28.0,Female,High School,UI/UX Designer,6.4,Bangalore,1415200.0
+30.0,Female,Bachelor's,Data Scientist,6.0,Pune,2133400.0
+26.0,Male,Master's,Full Stack Developer,5.3,Hyderabad,1762000.0
+24.0,Male,Bachelor's,DevOps Engineer,2.2,Bangalore,1370600.0
+24.0,Female,Master's,QA Engineer,2.1,Bangalore,1127900.0
+24.0,Female,Master's,Software Engineer,1.7,Bangalore,1452500.0
+27.0,Female,Bachelor's,Business Analyst,4.1,Mumbai,1418300.0
+31.0,Male,Bachelor's,Product Manager,4.0,Hyderabad,2229400.0
+31.0,Male,High School,Product Manager,5.9,Hyderabad,2446100.0
+28.0,Female,Bachelor's,Data Analyst,4.5,Hyderabad,1424800.0
+31.0,Male,Bachelor's,Full Stack Developer,,Pune,2011700.0
+32.0,Female,Bachelor's,Full Stack Developer,11.5,Hyderabad,2509700.0
+23.0,Female,Bachelor's,Data Analyst,2.5,Delhi-NCR,1048700.0
+30.0,Female,PhD,Full Stack Developer,2.1,Mumbai,1663900.0
+27.0,Female,Master's,Software Engineer,4.7,Hyderabad,1705000.0
+34.0,Female,PhD,UI/UX Designer,5.5,Bangalore,1891700.0
+24.0,Male,Bachelor's,Business Analyst,3.1,Mumbai,1177600.0
+34.0,Female,Bachelor's,Senior Software Engineer,6.7,Hyderabad,2545400.0
+29.0,Male,Bachelor's,Machine Learning Engineer,6.3,Bangalore,2443500.0
+27.0,Female,Bachelor's,UI/UX Designer,3.4,Chennai,1232400.0
+27.0,Female,Master's,DevOps Engineer,3.4,Bangalore,1753300.0
+25.0,Female,Bachelor's,Machine Learning Engineer,3.1,Bangalore,1832100.0
+32.0,Female,Master's,Product Manager,5.4,Mumbai,2653300.0
+26.0,Male,Bachelor's,Software Engineer,3.9,Hyderabad,1430400.0
+31.0,Female,Bachelor's,Data Analyst,7.8,Mumbai,1720100.0
+27.0,Female,Bachelor's,Software Engineer,6.1,Bangalore,1917200.0
+22.0,Male,Bachelor's,Data Analyst,1.9,Hyderabad,1006700.0
+31.0,Female,Bachelor's,Senior Software Engineer,4.1,Bangalore,2108700.0
+25.0,Male,Bachelor's,Business Analyst,2.7,Hyderabad,1165200.0
+32.0,Female,High School,Senior Software Engineer,4.0,Pune,1977800.0
+38.0,Female,Master's,Cloud Architect,11.3,Hyderabad,4015100.0
+25.0,Female,Bachelor's,Business Analyst,2.8,Delhi-NCR,1213000.0
+31.0,Female,Bachelor's,Cloud Architect,4.0,Mumbai,2471400.0
+24.0,Male,Bachelor's,QA Engineer,2.8,Delhi-NCR,1022400.0
+29.0,Male,Bachelor's,Full Stack Developer,7.4,Pune,1897600.0
+36.0,Female,Bachelor's,UI/UX Designer,13.6,Bangalore,2328100.0
+26.0,Male,Bachelor's,Full Stack Developer,2.2,Hyderabad,1261800.0
+30.0,Female,Bachelor's,Software Engineer,8.9,Bangalore,2177600.0
+27.0,Male,Bachelor's,DevOps Engineer,4.2,Mumbai,1711000.0
+36.0,Male,High School,Senior Software Engineer,9.8,Hyderabad,3110700.0
+25.0,Male,Master's,Data Scientist,4.2,Bangalore,2042500.0
+30.0,Male,Bachelor's,UI/UX Designer,6.1,Bangalore,1609400.0
+23.0,Male,Bachelor's,Data Analyst,0.9,Pune,978200.0
+23.0,Male,Bachelor's,Machine Learning Engineer,1.1,Hyderabad,1336400.0
+33.0,Female,Bachelor's,Cloud Architect,5.0,Hyderabad,2618900.0
+34.0,Male,Master's,QA Engineer,12.9,Delhi-NCR,2189200.0
+29.0,Male,PhD,DevOps Engineer,2.6,Delhi-NCR,1786400.0
+24.0,Male,Bachelor's,Machine Learning Engineer,3.7,Mumbai,1674400.0
+23.0,Male,Bachelor's,Business Analyst,2.0,Bangalore,1157900.0
+31.0,Male,Master's,Product Manager,5.3,Pune,2771100.0
+30.0,Female,Bachelor's,QA Engineer,6.5,Bangalore,1424400.0
+26.0,Female,Bachelor's,Data Scientist,3.8,Chennai,1682300.0
+26.0,Female,Master's,Data Analyst,2.8,Bangalore,1451400.0
+26.0,Female,Master's,Software Engineer,2.1,Hyderabad,1420600.0
+28.0,Male,High School,UI/UX Designer,7.1,Chennai,1459900.0
+32.0,Male,Bachelor's,Business Analyst,8.4,Mumbai,1935800.0
+27.0,Female,Master's,DevOps Engineer,3.2,Chennai,1675900.0
+28.0,Female,PhD,Business Analyst,0.7,Pune,1291800.0
+35.0,Male,Bachelor's,Cloud Architect,8.7,Bangalore,3443000.0
+36.0,Female,Master's,Senior Software Engineer,9.7,Pune,3120700.0
+30.0,Male,Bachelor's,Machine Learning Engineer,8.6,Pune,2809700.0
+31.0,Male,Bachelor's,Cloud Architect,5.9,Mumbai,2851200.0
+29.0,Female,Bachelor's,QA Engineer,8.1,Delhi-NCR,1478100.0
+23.0,Other,Master's,UI/UX Designer,2.8,Pune,1346500.0
+22.0,Male,Bachelor's,Software Engineer,1.8,Bangalore,1164700.0
+22.0,Male,High School,Software Engineer,1.9,Delhi-NCR,1104600.0
+24.0,Female,Bachelor's,Machine Learning Engineer,3.8,Bangalore,1919900.0
+36.0,Female,Bachelor's,Product Manager,10.7,Chennai,3665900.0
+25.0,Male,Bachelor's,QA Engineer,2.4,Bangalore,1106300.0
+31.0,Other,PhD,Product Manager,5.5,Delhi-NCR,2867200.0
+26.0,Male,Master's,Software Engineer,4.5,Bangalore,1730000.0
+28.0,Male,Master's,Machine Learning Engineer,5.5,Bangalore,2473400.0
+34.0,Male,Bachelor's,Senior Software Engineer,6.4,Hyderabad,2651600.0
+39.0,Male,Master's,UI/UX Designer,15.2,Bangalore,2760500.0
+25.0,Male,Bachelor's,Full Stack Developer,4.6,Pune,1540900.0
+29.0,Female,Master's,QA Engineer,7.5,Delhi-NCR,1707500.0
+26.0,Female,Master's,UI/UX Designer,3.0,Bangalore,1316800.0
+34.0,Male,Master's,Senior Software Engineer,7.1,Mumbai,2853500.0
+35.0,Female,Bachelor's,Senior Software Engineer,7.4,Pune,2674900.0
+30.0,Female,Bachelor's,Senior Software Engineer,5.3,Hyderabad,2322100.0
+26.0,Male,Bachelor's,UI/UX Designer,2.8,Bangalore,1198300.0
+25.0,Female,Bachelor's,UI/UX Designer,3.6,Mumbai,1115700.0
+31.0,Other,Bachelor's,Product Manager,4.0,Hyderabad,2143100.0
+25.0,Female,Bachelor's,QA Engineer,1.4,Bangalore,1000700.0
+29.0,Male,PhD,Full Stack Developer,1.5,Hyderabad,1624400.0
+25.0,Male,Master's,QA Engineer,1.4,Hyderabad,1142800.0
+30.0,Female,Bachelor's,QA Engineer,6.1,Chennai,1370500.0
+32.0,Male,Bachelor's,Product Manager,7.1,Pune,2906600.0
+32.0,Male,Master's,Product Manager,6.4,Bangalore,2863000.0
+27.0,Male,Master's,Machine Learning Engineer,3.2,Bangalore,1953300.0
+37.0,Male,Bachelor's,Senior Software Engineer,9.2,Hyderabad,3057700.0
+36.0,Male,Bachelor's,QA Engineer,14.4,Hyderabad,2113500.0
+27.0,Male,Bachelor's,Full Stack Developer,3.3,Bangalore,1388200.0
+30.0,Female,Bachelor's,Business Analyst,7.2,Hyderabad,1737500.0
+28.0,Female,Bachelor's,UI/UX Designer,4.1,Bangalore,1306400.0
+26.0,Male,Master's,Full Stack Developer,4.2,Mumbai,1749800.0
+26.0,Male,Bachelor's,Data Scientist,5.9,Bangalore,2309900.0
+33.0,Male,PhD,Data Scientist,5.5,Bangalore,2535700.0
+22.0,Male,Master's,UI/UX Designer,1.6,Pune,1151700.0
+29.0,Male,Bachelor's,DevOps Engineer,5.1,Bangalore,1941600.0
+25.0,Other,Bachelor's,Machine Learning Engineer,1.1,Hyderabad,1449100.0
+29.0,Male,Master's,Data Analyst,5.9,Delhi-NCR,1492000.0
+28.0,Female,Bachelor's,Data Scientist,5.1,Pune,1976400.0
+32.0,Male,PhD,Business Analyst,3.8,Bangalore,1836200.0
+24.0,Male,Master's,Full Stack Developer,1.3,Pune,1294200.0
+23.0,Female,Bachelor's,Machine Learning Engineer,1.2,Bangalore,1335100.0
+26.0,Male,Bachelor's,Data Scientist,2.0,Hyderabad,1478600.0
+32.0,Male,Bachelor's,QA Engineer,8.9,Chennai,1479100.0
+28.0,Male,Master's,Machine Learning Engineer,4.4,Mumbai,2249800.0
+32.0,Male,Bachelor's,Senior Software Engineer,7.0,Chennai,2561000.0
+25.0,Female,Bachelor's,Machine Learning Engineer,2.0,Bangalore,1650000.0
+24.0,Female,Bachelor's,QA Engineer,1.1,Bangalore,940200.0
+25.0,Male,Bachelor's,UI/UX Designer,2.3,Pune,1094400.0
+29.0,Female,Bachelor's,Full Stack Developer,6.4,Bangalore,1793800.0
+26.0,Female,Bachelor's,Business Analyst,5.0,Bangalore,1499000.0
+34.0,Female,Bachelor's,Data Analyst,10.0,Pune,1774500.0
+35.0,Female,High School,Senior Software Engineer,10.1,Chennai,3030100.0
+31.0,Female,Master's,Cloud Architect,6.2,Bangalore,3069900.0
+35.0,Male,Master's,Cloud Architect,10.0,Hyderabad,3663200.0
+36.0,Male,Bachelor's,UI/UX Designer,13.2,Pune,2399300.0
+29.0,Male,Bachelor's,UI/UX Designer,8.3,Bangalore,1845900.0
+28.0,Female,Master's,Business Analyst,4.1,Chennai,1397200.0
+29.0,Female,Master's,QA Engineer,6.3,Mumbai,1567800.0
+32.0,Male,PhD,Data Scientist,3.8,Bangalore,2194200.0
+25.0,Female,Bachelor's,QA Engineer,4.6,Delhi-NCR,1149800.0
+27.0,Male,Bachelor's,Data Analyst,4.8,Delhi-NCR,1333700.0
+26.0,Female,Bachelor's,Full Stack Developer,2.1,Mumbai,1234700.0
+26.0,Male,Bachelor's,Full Stack Developer,4.6,Pune,1678300.0
+34.0,Male,Bachelor's,Cloud Architect,7.1,Pune,3020800.0
+29.0,Female,Master's,Machine Learning Engineer,7.3,Hyderabad,2738000.0
+25.0,Male,Bachelor's,Software Engineer,3.7,Hyderabad,1557600.0
+24.0,Female,Bachelor's,Machine Learning Engineer,2.6,Pune,1494000.0
+29.0,Female,Bachelor's,Cloud Architect,4.0,Chennai,2209600.0
+27.0,Male,Bachelor's,QA Engineer,5.6,Chennai,1353800.0
+25.0,Male,Master's,Data Analyst,1.7,Bangalore,1140300.0
+24.0,Male,Master's,Software Engineer,1.3,Delhi-NCR,1361100.0
+26.0,Male,Bachelor's,DevOps Engineer,3.5,Bangalore,1584100.0
+37.0,Female,Bachelor's,Senior Software Engineer,11.4,Hyderabad,3438100.0
+33.0,Male,High School,Cloud Architect,6.5,Delhi-NCR,2840400.0
+26.0,Female,High School,UI/UX Designer,2.2,Chennai,1013300.0
+25.0,Female,Master's,DevOps Engineer,,Bangalore,2051800.0
+23.0,Male,Bachelor's,Data Analyst,0.8,Hyderabad,897000.0
+26.0,Female,Bachelor's,Business Analyst,4.6,Pune,1356900.0
+28.0,Female,Bachelor's,UI/UX Designer,6.9,Delhi-NCR,1588600.0
+23.0,Male,Bachelor's,Data Scientist,1.5,Mumbai,1345100.0
+26.0,Female,PhD,Data Analyst,0.7,Pune,1223300.0
+26.0,Female,Bachelor's,DevOps Engineer,5.4,Delhi-NCR,1942900.0
+32.0,Male,Bachelor's,Senior Software Engineer,5.4,Hyderabad,2367600.0
+28.0,Female,Bachelor's,Data Analyst,5.5,Hyderabad,1282100.0
+33.0,Male,Bachelor's,Data Scientist,10.1,Pune,2969500.0
+32.0,Male,Bachelor's,Cloud Architect,4.6,Hyderabad,2559500.0
+26.0,Male,Bachelor's,UI/UX Designer,2.3,Pune,1026900.0
+33.0,Female,Master's,UI/UX Designer,10.4,Delhi-NCR,2121100.0
+24.0,Male,Bachelor's,UI/UX Designer,3.3,Hyderabad,1097500.0
+27.0,Female,Bachelor's,Business Analyst,6.9,Mumbai,1638900.0
+37.0,Male,High School,Senior Software Engineer,9.3,Bangalore,2926500.0
+34.0,Female,Bachelor's,Product Manager,9.0,Bangalore,3218500.0
+29.0,Female,Bachelor's,Data Analyst,5.3,Delhi-NCR,1388300.0
+35.0,Female,High School,Software Engineer,12.9,Delhi-NCR,2821100.0
+22.0,Male,Bachelor's,DevOps Engineer,1.5,Pune,1203600.0
+33.0,Male,High School,Product Manager,5.5,Mumbai,2547500.0
+24.0,Male,Master's,Software Engineer,1.8,Chennai,1253700.0
+30.0,Male,Bachelor's,Data Scientist,8.0,Bangalore,2676700.0
+26.0,Male,Master's,UI/UX Designer,3.4,Delhi-NCR,1370400.0
+34.0,Male,Bachelor's,Senior Software Engineer,6.4,Hyderabad,2469000.0
+24.0,Male,High School,UI/UX Designer,2.1,Bangalore,1017600.0
+25.0,Male,Bachelor's,UI/UX Designer,4.5,Hyderabad,1335800.0
+24.0,Male,Master's,Full Stack Developer,3.0,Chennai,1479700.0
+31.0,Female,Master's,Machine Learning Engineer,7.7,Chennai,2727000.0
+34.0,Male,Master's,Senior Software Engineer,6.5,Bangalore,2801400.0
+28.0,Male,Bachelor's,DevOps Engineer,5.6,Pune,1786600.0
+24.0,Male,Master's,UI/UX Designer,3.3,Pune,1314200.0
+26.0,Male,Bachelor's,Data Scientist,2.6,Chennai,1577300.0
+38.0,Male,Master's,Product Manager,12.8,Pune,4311600.0
+29.0,Female,High School,DevOps Engineer,6.3,Delhi-NCR,2033400.0
+38.0,Male,Bachelor's,Product Manager,12.5,Hyderabad,3854200.0
+23.0,Male,Master's,Data Scientist,2.9,Bangalore,1768200.0
+33.0,Female,Bachelor's,Product Manager,5.9,Delhi-NCR,2658900.0
+25.0,Male,Master's,Full Stack Developer,3.9,Pune,1671800.0
+28.0,Female,Master's,Full Stack Developer,4.1,Hyderabad,1752500.0
+34.0,Male,Bachelor's,Product Manager,9.2,Mumbai,3378300.0
+27.0,Male,Bachelor's,Software Engineer,6.6,Pune,1975900.0
+35.0,Male,PhD,Cloud Architect,9.0,Pune,3853900.0
+26.0,Male,Master's,Software Engineer,2.9,Delhi-NCR,1595900.0
+29.0,Female,Bachelor's,Machine Learning Engineer,6.8,Hyderabad,2538800.0
+30.0,Male,Master's,Senior Software Engineer,5.7,Delhi-NCR,2490500.0
+30.0,Male,Bachelor's,Data Analyst,6.8,Bangalore,1521000.0
+26.0,Male,Master's,DevOps Engineer,4.4,Hyderabad,1852000.0
+27.0,Male,Bachelor's,Business Analyst,3.5,Pune,1254200.0
+29.0,Female,Bachelor's,Full Stack Developer,7.9,Pune,1986000.0
+31.0,Male,PhD,Cloud Architect,4.3,Hyderabad,2834200.0
+29.0,Male,PhD,Cloud Architect,4.3,Chennai,2741800.0
+31.0,Male,Bachelor's,Software Engineer,9.1,Chennai,2329100.0
+27.0,Male,Master's,DevOps Engineer,5.1,Bangalore,1980000.0
+36.0,Female,Bachelor's,Senior Software Engineer,9.8,Delhi-NCR,3093200.0
+30.0,Male,Master's,Business Analyst,6.6,Chennai,1747400.0
+25.0,Female,Bachelor's,Data Analyst,3.2,Hyderabad,1012400.0
+26.0,Male,Bachelor's,Software Engineer,4.1,Bangalore,1667800.0
+34.0,Male,Master's,Product Manager,6.9,Pune,2912000.0
+35.0,Female,Bachelor's,Cloud Architect,9.1,Pune,3392000.0
+24.0,Male,Master's,UI/UX Designer,3.1,Mumbai,1318300.0
+25.0,Female,Bachelor's,UI/UX Designer,4.9,Delhi-NCR,1329200.0
+31.0,Male,Master's,Product Manager,4.3,Bangalore,2580100.0
+25.0,Male,Master's,Software Engineer,4.7,Bangalore,1841600.0
+23.0,Female,Bachelor's,Data Analyst,1.3,Delhi-NCR,1001900.0
+25.0,Male,Bachelor's,Data Scientist,2.5,Delhi-NCR,1656700.0
+37.0,Female,Master's,Senior Software Engineer,10.0,Mumbai,3333900.0
+31.0,Female,Bachelor's,QA Engineer,8.0,Pune,1433100.0
+27.0,Female,Bachelor's,DevOps Engineer,6.7,Delhi-NCR,2003000.0
+30.0,Female,Bachelor's,DevOps Engineer,9.2,Hyderabad,2457500.0
+36.0,Female,High School,Product Manager,9.5,Mumbai,3331000.0
+24.0,Male,Bachelor's,QA Engineer,1.9,Hyderabad,900800.0
+26.0,Female,High School,QA Engineer,3.3,Hyderabad,998900.0
+28.0,Female,Master's,Data Scientist,4.0,Delhi-NCR,2023000.0
+30.0,Male,Bachelor's,Product Manager,5.4,Pune,2505700.0
+30.0,Male,Bachelor's,Cloud Architect,4.0,Bangalore,2470700.0
+36.0,Female,Master's,Cloud Architect,9.8,Bangalore,3888200.0
+29.0,Male,Master's,Product Manager,4.0,Pune,2381800.0
+28.0,Female,Master's,Machine Learning Engineer,4.6,Bangalore,2273700.0
+26.0,Male,Master's,Software Engineer,3.7,Bangalore,1769400.0
+32.0,Female,Bachelor's,Business Analyst,9.1,Bangalore,1965400.0
+33.0,Female,Bachelor's,Product Manager,5.9,Bangalore,2600800.0
+33.0,Male,Master's,Product Manager,6.9,Hyderabad,2974000.0
+26.0,Male,Bachelor's,UI/UX Designer,2.6,Hyderabad,1262100.0
+23.0,Female,Bachelor's,Full Stack Developer,2.8,Pune,1306400.0
+27.0,Male,Bachelor's,Software Engineer,6.5,Bangalore,1931700.0
+24.0,Female,Master's,Full Stack Developer,3.7,Pune,1510100.0
+22.0,Female,Master's,Software Engineer,1.5,Hyderabad,1348800.0
+25.0,Male,Master's,Business Analyst,2.8,Chennai,1307500.0
+25.0,Male,Master's,Software Engineer,2.1,Pune,1260900.0
+28.0,Male,Master's,UI/UX Designer,7.7,Pune,1768700.0
+31.0,Female,Master's,Cloud Architect,4.0,Pune,2526400.0
+25.0,Female,Bachelor's,UI/UX Designer,4.2,Bangalore,1215700.0
+25.0,Female,Bachelor's,Software Engineer,2.4,Bangalore,1435300.0
+29.0,Female,Bachelor's,Cloud Architect,4.2,Bangalore,2386600.0
+25.0,Male,Bachelor's,Business Analyst,1.7,Pune,1018300.0
+30.0,Male,High School,Full Stack Developer,6.5,Delhi-NCR,1708400.0
+32.0,Male,Master's,Full Stack Developer,9.3,Bangalore,2542700.0
+32.0,Female,Master's,QA Engineer,8.9,Hyderabad,1657600.0
+30.0,Male,Bachelor's,Data Analyst,8.3,Pune,1612700.0
+26.0,Male,Bachelor's,QA Engineer,3.9,Pune,1031100.0
+31.0,Male,Bachelor's,Senior Software Engineer,5.5,Hyderabad,2398800.0
+25.0,Male,Bachelor's,Data Analyst,3.1,Chennai,984400.0
+23.0,Female,Bachelor's,DevOps Engineer,1.1,Pune,1191200.0
+24.0,Male,Bachelor's,Data Scientist,2.7,Hyderabad,1482500.0
+29.0,Female,Bachelor's,QA Engineer,6.2,Pune,1352100.0
+29.0,Female,PhD,Data Analyst,3.0,Hyderabad,1486700.0
+38.0,Male,High School,Product Manager,11.9,Hyderabad,3751300.0
+31.0,Female,Bachelor's,Senior Software Engineer,4.0,Mumbai,2101900.0
+27.0,Female,Master's,Full Stack Developer,4.1,Bangalore,1641400.0
+25.0,Male,Bachelor's,Data Analyst,4.0,Delhi-NCR,1092000.0
+33.0,Female,Bachelor's,QA Engineer,11.6,Hyderabad,1701000.0
+21.0,Other,Bachelor's,Data Analyst,0.9,Mumbai,967300.0
+25.0,Male,Master's,Full Stack Developer,3.4,Bangalore,1631000.0
+30.0,Female,Master's,Senior Software Engineer,4.3,Hyderabad,2397200.0
+31.0,Male,Bachelor's,UI/UX Designer,8.5,Mumbai,1907100.0
+27.0,Female,PhD,Machine Learning Engineer,1.2,Bangalore,1797800.0
+30.0,Male,Master's,Full Stack Developer,7.5,Hyderabad,2125100.0
+25.0,Female,Bachelor's,Data Scientist,2.6,Pune,1414900.0
+26.0,Male,Master's,Full Stack Developer,4.5,Bangalore,1733000.0
+25.0,Male,Bachelor's,UI/UX Designer,2.3,Delhi-NCR,1073400.0
+28.0,Male,Bachelor's,Machine Learning Engineer,5.8,Delhi-NCR,2353400.0
+25.0,Female,Master's,DevOps Engineer,1.4,Bangalore,1399800.0
+33.0,Female,Master's,Senior Software Engineer,7.1,Bangalore,2789000.0
+26.0,Male,Bachelor's,QA Engineer,4.4,Mumbai,1231200.0
+35.0,Male,Bachelor's,Cloud Architect,9.3,Mumbai,3538600.0
+30.0,Male,Master's,Software Engineer,9.8,Bangalore,2630000.0
+32.0,Female,Bachelor's,Cloud Architect,7.0,Delhi-NCR,2869800.0
+22.0,Female,Bachelor's,Full Stack Developer,1.5,Chennai,1004700.0
+26.0,Female,Master's,Machine Learning Engineer,5.1,Mumbai,2315900.0
+32.0,Female,Master's,Cloud Architect,7.0,Bangalore,3029400.0
+31.0,Female,Bachelor's,Cloud Architect,6.4,Hyderabad,2924300.0
+30.0,Male,Master's,Senior Software Engineer,5.6,Bangalore,2616100.0
+35.0,Male,PhD,Senior Software Engineer,9.1,Hyderabad,3274200.0
+31.0,Male,Bachelor's,Full Stack Developer,10.1,Hyderabad,2226100.0
+25.0,Female,Bachelor's,Machine Learning Engineer,4.2,Mumbai,1933100.0
+29.0,Female,Bachelor's,Cloud Architect,4.0,Mumbai,2429000.0
+24.0,Male,Master's,UI/UX Designer,3.8,Hyderabad,1406500.0
+25.0,Male,Bachelor's,QA Engineer,4.0,Pune,1163800.0
+23.0,Female,Master's,Business Analyst,2.2,Bangalore,1295700.0
+28.0,Female,Master's,Data Scientist,4.0,Bangalore,2017300.0
+25.0,Male,Bachelor's,Full Stack Developer,2.9,Bangalore,1367700.0
+29.0,Female,PhD,Data Analyst,2.8,Chennai,1514600.0
+33.0,Male,Bachelor's,DevOps Engineer,11.9,Hyderabad,2912600.0
+30.0,Female,Master's,Data Scientist,6.7,Bangalore,2629000.0
+27.0,Female,Master's,Data Analyst,5.4,Hyderabad,1434200.0
+32.0,Male,Master's,Senior Software Engineer,6.1,Hyderabad,2611100.0
+26.0,Male,Bachelor's,DevOps Engineer,3.0,Mumbai,1513000.0
+21.0,Male,Master's,UI/UX Designer,0.4,Delhi-NCR,1046900.0
+30.0,Female,PhD,Data Analyst,4.0,Chennai,1606600.0
+32.0,Female,Bachelor's,Senior Software Engineer,7.9,Pune,2751700.0
+32.0,Male,Master's,Business Analyst,8.9,Hyderabad,2142400.0
+30.0,Male,Bachelor's,Senior Software Engineer,4.0,Mumbai,2174300.0
+32.0,Male,Bachelor's,Product Manager,6.5,Mumbai,2767900.0
+23.0,Female,Bachelor's,Data Analyst,2.4,Bangalore,1156900.0
+29.0,Male,Bachelor's,Data Scientist,8.2,Bangalore,2530400.0
+30.0,Female,Master's,Senior Software Engineer,4.4,Delhi-NCR,2389500.0
+36.0,Male,Bachelor's,Senior Software Engineer,8.1,Pune,2938100.0
+33.0,Male,Bachelor's,Business Analyst,9.0,Delhi-NCR,1913200.0
+34.0,Male,Bachelor's,Senior Software Engineer,9.6,Bangalore,3090700.0
+34.0,Male,PhD,QA Engineer,,Bangalore,1965500.0
+21.0,Female,Master's,Data Analyst,0.8,Mumbai,1062800.0
+25.0,Male,High School,Machine Learning Engineer,2.4,Mumbai,1518200.0
+37.0,Male,Bachelor's,Product Manager,10.9,Hyderabad,3681800.0
+25.0,Female,Bachelor's,Business Analyst,2.8,Hyderabad,1188000.0
+24.0,Female,Bachelor's,DevOps Engineer,1.5,Hyderabad,1240700.0
+26.0,Female,Bachelor's,Business Analyst,5.6,Mumbai,1523800.0
+24.0,Female,Bachelor's,Software Engineer,3.0,Pune,1380300.0
+33.0,Female,PhD,Data Scientist,7.5,Hyderabad,2942700.0
+30.0,Male,Master's,Product Manager,5.5,Bangalore,2737600.0
+32.0,Female,Master's,Data Scientist,10.0,Bangalore,3032700.0
+26.0,Male,Master's,Data Analyst,3.7,Mumbai,1402100.0
+24.0,Female,Bachelor's,Data Scientist,0.8,Mumbai,1210400.0
+27.0,Female,Bachelor's,Data Scientist,5.6,Chennai,2155700.0
+28.0,Male,Bachelor's,Full Stack Developer,5.1,Mumbai,1659600.0
+23.0,Male,Bachelor's,Data Scientist,1.5,Pune,1289700.0
+23.0,Female,Master's,Software Engineer,2.3,Hyderabad,1338400.0
+,Male,Bachelor's,Data Scientist,4.4,Pune,1881400.0
+31.0,Female,Bachelor's,Product Manager,5.7,Bangalore,2621200.0
+31.0,Male,Bachelor's,Cloud Architect,5.9,Chennai,2666400.0
+26.0,Male,Bachelor's,Data Analyst,2.1,Hyderabad,977400.0
+30.0,Female,Master's,Senior Software Engineer,4.6,Bangalore,2420500.0
+31.0,Female,Bachelor's,Data Analyst,9.4,Bangalore,1905100.0
+30.0,Female,Bachelor's,DevOps Engineer,6.5,Chennai,2152500.0
+25.0,Female,Master's,QA Engineer,3.4,Pune,1227000.0
+32.0,Male,Bachelor's,Cloud Architect,6.7,Bangalore,3015500.0
+28.0,Female,Bachelor's,Data Analyst,5.9,Mumbai,1370900.0
+27.0,Male,Master's,DevOps Engineer,4.9,Hyderabad,1970900.0
+39.0,Male,PhD,Cloud Architect,14.5,Hyderabad,4906600.0
+22.0,Male,Master's,Full Stack Developer,1.8,Pune,1148000.0
+26.0,Male,Bachelor's,QA Engineer,3.2,Pune,1101000.0
+26.0,Female,Bachelor's,Full Stack Developer,4.3,Bangalore,1667800.0
+23.0,Female,Bachelor's,Software Engineer,2.2,Delhi-NCR,1177200.0
+37.0,Female,Bachelor's,Senior Software Engineer,9.4,Mumbai,3036900.0
+30.0,Male,PhD,Senior Software Engineer,5.0,Pune,2665900.0
+28.0,Male,Bachelor's,Data Analyst,7.1,Pune,1442100.0
+29.0,Male,Bachelor's,Software Engineer,6.6,Delhi-NCR,2033300.0
+32.0,Female,High School,Data Scientist,11.2,Mumbai,2993900.0
+24.0,Male,Master's,Business Analyst,1.6,Delhi-NCR,1106400.0
+23.0,Male,Master's,Software Engineer,2.8,Hyderabad,1561200.0
+26.0,Male,Bachelor's,Business Analyst,3.4,Delhi-NCR,1252600.0
+23.0,Male,Master's,Machine Learning Engineer,2.9,Hyderabad,1806300.0
+33.0,Male,Bachelor's,DevOps Engineer,10.6,Pune,2684900.0
+24.0,Male,Bachelor's,UI/UX Designer,1.4,Pune,946500.0
+23.0,Female,Master's,Data Scientist,2.5,Hyderabad,1564900.0
+22.0,Female,Bachelor's,Data Scientist,0.7,Pune,1229000.0
+30.0,Female,PhD,Senior Software Engineer,5.8,Bangalore,2748800.0
+24.0,Female,Bachelor's,Business Analyst,2.9,Hyderabad,983500.0
+25.0,Female,Master's,Software Engineer,4.6,Pune,1862200.0
+28.0,Female,Master's,UI/UX Designer,7.2,Delhi-NCR,1822500.0
+27.0,Female,Bachelor's,Data Scientist,4.9,Bangalore,1987000.0
+32.0,Male,Master's,Cloud Architect,6.3,Mumbai,2948500.0
+25.0,Female,Bachelor's,Full Stack Developer,3.7,Chennai,1408500.0
+25.0,Male,Bachelor's,Data Analyst,3.9,Chennai,1206300.0
+39.0,Female,Bachelor's,Product Manager,12.2,Hyderabad,3879100.0
+33.0,Male,Bachelor's,Senior Software Engineer,8.7,Pune,2785600.0
+32.0,Female,Master's,Business Analyst,11.0,Mumbai,2284900.0
+32.0,Female,Master's,UI/UX Designer,9.4,Bangalore,2027000.0
+33.0,Female,Bachelor's,Business Analyst,11.9,Delhi-NCR,2373600.0
+24.0,Female,Bachelor's,Full Stack Developer,2.4,Pune,1214000.0
+28.0,Male,Bachelor's,Software Engineer,6.8,Pune,1916200.0
+28.0,Female,Bachelor's,DevOps Engineer,6.6,Pune,2002900.0
+23.0,Female,Master's,Business Analyst,2.5,Bangalore,1353900.0
+33.0,Female,Master's,Product Manager,8.6,Chennai,3269100.0
+27.0,Male,Master's,DevOps Engineer,3.7,Bangalore,1844700.0
+36.0,Male,Master's,Cloud Architect,8.1,Delhi-NCR,3367000.0
+28.0,Male,Bachelor's,Full Stack Developer,4.7,Bangalore,1671700.0
+28.0,Male,Bachelor's,Data Scientist,7.4,Chennai,2405800.0
+29.0,Male,Bachelor's,UI/UX Designer,7.6,Pune,1594900.0
+35.0,Female,Bachelor's,Product Manager,10.5,Delhi-NCR,3445100.0
+24.0,Male,Master's,Data Analyst,1.2,Chennai,1160400.0
+41.0,Male,PhD,Product Manager,14.0,Delhi-NCR,4462400.0
+31.0,Female,Master's,Senior Software Engineer,4.0,Pune,2317000.0
+26.0,Male,Bachelor's,Full Stack Developer,3.0,Chennai,1410500.0
+34.0,Female,Bachelor's,Product Manager,7.7,Pune,3034900.0
+34.0,Female,Master's,Senior Software Engineer,6.3,Bangalore,2857400.0
+23.0,Male,Bachelor's,DevOps Engineer,2.8,Pune,1440900.0
+31.0,Male,Bachelor's,DevOps Engineer,7.4,Pune,2226400.0
+36.0,Male,Master's,Product Manager,9.0,Delhi-NCR,3380200.0
+38.0,Other,Master's,Product Manager,12.2,Bangalore,4151300.0
+39.0,Male,Master's,Cloud Architect,12.7,Hyderabad,4189500.0
+28.0,Male,PhD,Software Engineer,1.4,Delhi-NCR,1488400.0
+24.0,Male,Bachelor's,QA Engineer,3.2,Hyderabad,1052700.0
+32.0,Male,Bachelor's,Cloud Architect,6.6,Chennai,2792300.0
+29.0,Male,Bachelor's,Full Stack Developer,5.7,Bangalore,1791500.0
+27.0,Male,Bachelor's,DevOps Engineer,4.7,Delhi-NCR,1835800.0
+33.0,Male,Master's,Machine Learning Engineer,9.4,Hyderabad,3137800.0
+26.0,Male,PhD,Software Engineer,0.8,Hyderabad,1359900.0
+31.0,Female,Master's,Cloud Architect,4.0,Pune,2624600.0
+27.0,Male,Bachelor's,Full Stack Developer,4.9,Hyderabad,1713300.0
+29.0,Male,Master's,UI/UX Designer,5.7,Hyderabad,1660700.0
+26.0,Male,PhD,Full Stack Developer,0.3,Bangalore,1447800.0
+26.0,Male,Bachelor's,DevOps Engineer,4.0,Bangalore,1711100.0
+27.0,Male,Master's,Data Scientist,3.3,Bangalore,1778200.0
+27.0,Male,Master's,DevOps Engineer,6.9,Hyderabad,2295300.0
+32.0,Male,Master's,Machine Learning Engineer,10.0,Bangalore,3466400.0
+26.0,Female,Master's,Data Analyst,5.8,Bangalore,1537100.0
+23.0,Male,Bachelor's,Software Engineer,2.0,Hyderabad,1227200.0
+26.0,Male,Master's,QA Engineer,5.6,Bangalore,1528200.0
+30.0,Other,Bachelor's,DevOps Engineer,9.5,Hyderabad,2523400.0
+35.0,Male,Bachelor's,QA Engineer,11.2,Bangalore,1862500.0
+36.0,Male,High School,UI/UX Designer,12.1,Hyderabad,2173700.0
+37.0,Female,Bachelor's,Cloud Architect,9.1,Hyderabad,3383600.0
+25.0,Male,Bachelor's,Software Engineer,2.6,Pune,1269500.0
+32.0,Male,PhD,Machine Learning Engineer,6.3,Pune,2705900.0
+32.0,Male,Bachelor's,Full Stack Developer,9.7,Mumbai,2415000.0
+33.0,Female,Bachelor's,DevOps Engineer,10.4,Pune,2557400.0
+30.0,Male,PhD,Software Engineer,4.2,Bangalore,1976100.0
+21.0,Male,Bachelor's,Data Scientist,0.7,Hyderabad,1183400.0
+33.0,Male,PhD,Full Stack Developer,4.0,Hyderabad,1831900.0
+35.0,Male,Bachelor's,Product Manager,9.8,Chennai,3297600.0
+29.0,Female,Master's,Data Scientist,6.6,Delhi-NCR,2563900.0
+26.0,Female,Bachelor's,UI/UX Designer,3.6,Hyderabad,1151200.0
+25.0,Female,Master's,Software Engineer,1.7,Hyderabad,1371400.0
+36.0,Male,PhD,DevOps Engineer,10.4,Mumbai,3202200.0
+26.0,Female,Master's,UI/UX Designer,4.2,Mumbai,1605300.0
+25.0,Male,Bachelor's,Full Stack Developer,4.5,Hyderabad,1501800.0
+25.0,Other,Bachelor's,Machine Learning Engineer,4.4,Hyderabad,1958400.0
+26.0,Female,Master's,Full Stack Developer,4.6,Bangalore,1801000.0
+30.0,Male,Master's,DevOps Engineer,6.4,Hyderabad,2189000.0
+24.0,Male,Bachelor's,Data Analyst,3.5,Bangalore,1218100.0
+25.0,Male,Master's,DevOps Engineer,1.1,Delhi-NCR,1435500.0
+23.0,Female,Bachelor's,Software Engineer,2.7,Pune,1280200.0
+26.0,Male,Master's,Full Stack Developer,5.6,Mumbai,1842300.0
+33.0,Male,High School,Product Manager,7.2,Pune,2877200.0
+32.0,Male,Master's,Data Analyst,9.5,Pune,2040300.0
+26.0,Male,Master's,UI/UX Designer,4.1,Mumbai,1497700.0
+32.0,Male,PhD,Software Engineer,5.1,Delhi-NCR,2221700.0
+30.0,Female,High School,Data Analyst,8.4,Pune,1464600.0
+27.0,Male,Bachelor's,Full Stack Developer,4.8,Chennai,1649100.0
+32.0,Male,Bachelor's,Data Scientist,9.0,Bangalore,2882400.0
+36.0,Female,Bachelor's,Product Manager,8.4,Delhi-NCR,3175200.0
+33.0,Male,Bachelor's,Business Analyst,9.8,Delhi-NCR,2058000.0
+24.0,Female,Master's,Data Scientist,3.3,Delhi-NCR,1786800.0
+31.0,Male,Bachelor's,DevOps Engineer,8.4,Delhi-NCR,2402800.0
+31.0,Male,Bachelor's,Product Manager,5.6,Hyderabad,2497900.0
+29.0,Male,Bachelor's,Data Analyst,5.6,Pune,1466400.0
+25.0,Male,Bachelor's,Business Analyst,3.2,Bangalore,1227100.0
+24.0,Female,High School,Business Analyst,1.9,Bangalore,954200.0
+29.0,Male,Bachelor's,Senior Software Engineer,4.0,Delhi-NCR,2059100.0
+,Female,Bachelor's,Business Analyst,7.4,Pune,1866900.0
+32.0,Female,Bachelor's,Full Stack Developer,8.5,Delhi-NCR,2079000.0
+27.0,Female,Master's,Software Engineer,3.1,Bangalore,1645700.0
+26.0,Female,Bachelor's,Machine Learning Engineer,2.7,Bangalore,1741300.0
+27.0,Male,Bachelor's,Data Analyst,6.9,Mumbai,1488100.0
+27.0,Male,Bachelor's,Data Analyst,5.2,Mumbai,1467900.0
+26.0,Female,Bachelor's,QA Engineer,2.0,Pune,997100.0
+34.0,Male,Bachelor's,Cloud Architect,7.6,Bangalore,3115300.0
+36.0,Male,PhD,Business Analyst,8.6,Bangalore,2371300.0
+37.0,Other,Bachelor's,Cloud Architect,10.5,Hyderabad,3609700.0
+23.0,Female,Bachelor's,UI/UX Designer,0.7,Pune,931800.0
+33.0,Male,Bachelor's,Product Manager,8.3,Bangalore,3096600.0
+25.0,Male,Bachelor's,Business Analyst,2.4,Mumbai,1124500.0
+33.0,Female,PhD,Business Analyst,6.8,Delhi-NCR,1958300.0
+33.0,Female,Bachelor's,Cloud Architect,5.1,Bangalore,2615000.0
+29.0,Male,Bachelor's,Machine Learning Engineer,6.1,Pune,2248000.0
+30.0,Male,Bachelor's,Business Analyst,8.2,Pune,1784900.0
+25.0,Female,Master's,Data Analyst,3.1,Hyderabad,1330000.0
+32.0,Female,Master's,Senior Software Engineer,4.0,Bangalore,2378600.0
+24.0,Female,Bachelor's,Machine Learning Engineer,0.6,Pune,1260300.0
+28.0,Female,Bachelor's,Data Analyst,6.1,Pune,1355200.0
+26.0,Male,Bachelor's,Data Analyst,2.3,Hyderabad,1115200.0
+32.0,Female,Master's,Product Manager,4.0,Bangalore,2462600.0
+25.0,Male,Bachelor's,Data Analyst,4.7,Pune,1186900.0
+32.0,Female,Bachelor's,Data Scientist,8.7,Bangalore,2817500.0
+26.0,Female,Bachelor's,DevOps Engineer,2.6,Mumbai,1376500.0
+32.0,Female,Master's,Product Manager,4.4,Bangalore,2574000.0
+31.0,Male,Bachelor's,Data Scientist,10.2,Mumbai,2960500.0
+27.0,Female,Master's,Data Scientist,4.4,Hyderabad,1989500.0
+35.0,Male,PhD,Data Analyst,6.0,Hyderabad,1921300.0
+27.0,Male,Master's,Data Analyst,4.7,Hyderabad,1340800.0
+30.0,Female,Bachelor's,Business Analyst,7.3,Bangalore,1793200.0
+32.0,Female,Bachelor's,Product Manager,6.5,Bangalore,2776200.0
+28.0,Female,Bachelor's,Data Analyst,4.9,Hyderabad,1392100.0
+33.0,Male,Bachelor's,Product Manager,8.2,Pune,3191800.0
+28.0,Male,Bachelor's,Machine Learning Engineer,6.3,Bangalore,2460700.0
+29.0,Male,Master's,Data Analyst,6.0,Hyderabad,1575100.0
+32.0,Male,PhD,Senior Software Engineer,6.0,Pune,2764900.0
+30.0,Male,PhD,Data Scientist,1.6,Pune,1663300.0
+41.0,Female,Bachelor's,Cloud Architect,14.6,Hyderabad,4502300.0
+31.0,Female,Master's,Cloud Architect,6.3,Chennai,2886800.0
+31.0,Male,Bachelor's,Senior Software Engineer,4.0,Hyderabad,2082700.0
+27.0,Female,Bachelor's,DevOps Engineer,4.5,Bangalore,1851300.0
+27.0,Female,Bachelor's,Data Analyst,3.4,Pune,1197300.0
+27.0,Female,Bachelor's,Data Scientist,5.4,Bangalore,2225800.0
+23.0,Female,Bachelor's,DevOps Engineer,2.3,Hyderabad,1402900.0
+30.0,Male,Bachelor's,Business Analyst,8.3,Chennai,1826300.0
+27.0,Male,Master's,Machine Learning Engineer,5.5,Bangalore,2475300.0
+32.0,Female,Bachelor's,Machine Learning Engineer,8.0,Bangalore,2658000.0
+27.0,Male,Bachelor's,DevOps Engineer,4.9,Bangalore,1861200.0
+25.0,Male,Bachelor's,Business Analyst,2.2,Hyderabad,1092400.0
+29.0,Male,Bachelor's,DevOps Engineer,5.6,Hyderabad,1896800.0
+26.0,Male,Bachelor's,UI/UX Designer,5.2,Bangalore,1469800.0
+25.0,Male,Master's,QA Engineer,1.5,Bangalore,1098800.0
+27.0,Male,Bachelor's,Data Scientist,3.1,Bangalore,1783600.0
+39.0,Female,Bachelor's,Data Scientist,16.7,Delhi-NCR,4299500.0
+27.0,Male,Master's,DevOps Engineer,5.5,Pune,1900300.0
+29.0,Male,Bachelor's,Senior Software Engineer,4.0,Bangalore,2210900.0
+37.0,Female,Bachelor's,Cloud Architect,9.7,Bangalore,3683100.0
+30.0,Male,High School,Cloud Architect,4.6,Hyderabad,2426400.0
+33.0,Male,Bachelor's,Product Manager,6.7,Hyderabad,2833800.0
+31.0,Male,Master's,Senior Software Engineer,4.0,Hyderabad,2298700.0
+25.0,Female,Bachelor's,DevOps Engineer,3.0,Mumbai,1547500.0
+33.0,Female,Bachelor's,Senior Software Engineer,5.0,Mumbai,2355100.0
+26.0,Female,Master's,Software Engineer,4.7,Chennai,1815200.0
+21.0,Female,Bachelor's,DevOps Engineer,0.9,Bangalore,1282900.0
+28.0,Female,Bachelor's,Software Engineer,6.2,Hyderabad,1989800.0
+31.0,Male,Master's,Product Manager,4.0,Bangalore,2454600.0
+22.0,Male,Bachelor's,Full Stack Developer,1.7,Bangalore,1241200.0
+23.0,Male,Bachelor's,Machine Learning Engineer,2.9,Mumbai,1639200.0
+21.0,Male,Bachelor's,UI/UX Designer,0.8,Hyderabad,867900.0
+28.0,Male,PhD,QA Engineer,2.0,Pune,1319000.0
+26.0,Female,Bachelor's,Data Analyst,4.5,Hyderabad,1318300.0
+26.0,Male,Bachelor's,Data Scientist,2.1,Mumbai,1432900.0
+30.0,Male,Bachelor's,UI/UX Designer,9.9,Mumbai,2073700.0
+23.0,Male,Bachelor's,QA Engineer,2.3,Bangalore,938800.0
+35.0,Female,Master's,Data Analyst,13.7,Pune,2275300.0
+27.0,Male,Master's,Data Analyst,4.9,Chennai,1422700.0
+25.0,Male,Master's,Machine Learning Engineer,1.6,Bangalore,1678300.0
+32.0,Male,Bachelor's,Product Manager,6.6,Hyderabad,2785200.0
+25.0,Female,Master's,Business Analyst,3.7,Mumbai,1484100.0
+30.0,Male,Bachelor's,Cloud Architect,4.0,Mumbai,2408100.0
+26.0,Male,Bachelor's,Data Analyst,2.1,Mumbai,1019000.0
+32.0,Female,Master's,Cloud Architect,5.6,Hyderabad,2883100.0
+24.0,Male,Master's,Data Scientist,3.0,Mumbai,1971700.0
+32.0,Male,Master's,Product Manager,7.6,Delhi-NCR,3152200.0
+31.0,Male,Master's,Product Manager,5.5,Hyderabad,2676200.0
+30.0,Female,Bachelor's,Data Scientist,6.2,Chennai,2269400.0
+29.0,Female,Bachelor's,DevOps Engineer,6.6,Delhi-NCR,2171800.0
+29.0,Female,High School,Data Scientist,8.0,Bangalore,2523600.0
+27.0,Male,Bachelor's,QA Engineer,4.1,Delhi-NCR,1277900.0
+28.0,Female,PhD,Machine Learning Engineer,2.2,Chennai,1745200.0
+24.0,Female,Bachelor's,Software Engineer,1.7,Hyderabad,1107300.0
+34.0,Male,Bachelor's,Senior Software Engineer,6.1,Pune,2495500.0
+28.0,Male,PhD,Data Analyst,1.3,Pune,1235000.0
+34.0,Male,Bachelor's,Product Manager,6.0,Delhi-NCR,2702100.0
+26.0,Male,Master's,Data Analyst,5.4,Hyderabad,1563500.0
+28.0,Female,PhD,Business Analyst,2.1,Bangalore,1600400.0
+30.0,Female,Bachelor's,Data Analyst,7.7,Bangalore,1647200.0
+29.0,Female,Bachelor's,Data Analyst,6.5,Hyderabad,1530000.0
+24.0,Male,Master's,Software Engineer,3.7,Bangalore,1687200.0
+27.0,Female,Master's,UI/UX Designer,3.3,Bangalore,1388900.0
+27.0,Male,Bachelor's,Full Stack Developer,6.7,Pune,1899000.0
+33.0,Female,High School,Senior Software Engineer,7.4,Delhi-NCR,2617600.0
+34.0,Female,Bachelor's,Product Manager,7.4,Mumbai,2951400.0
+26.0,Male,Bachelor's,UI/UX Designer,4.2,Chennai,1189400.0
+31.0,Male,Bachelor's,Cloud Architect,4.0,Bangalore,2425400.0
+36.0,Male,Bachelor's,Senior Software Engineer,8.0,Bangalore,2840200.0
+33.0,Female,Bachelor's,Product Manager,8.1,Bangalore,3091100.0
+28.0,Female,Bachelor's,Software Engineer,4.6,Chennai,1614400.0
+29.0,Female,PhD,UI/UX Designer,2.4,Mumbai,1468100.0
+25.0,Female,Bachelor's,Data Analyst,1.9,Mumbai,1070400.0
+25.0,Female,Bachelor's,DevOps Engineer,3.3,Pune,1450100.0
+24.0,Female,Bachelor's,Software Engineer,3.6,Bangalore,1542800.0
+32.0,Male,PhD,Product Manager,5.4,Hyderabad,2933500.0
+31.0,Female,Bachelor's,Business Analyst,9.6,Mumbai,1850700.0
+34.0,Female,Master's,Senior Software Engineer,8.3,Delhi-NCR,3042600.0
+35.0,Male,Bachelor's,Senior Software Engineer,8.0,Mumbai,2845300.0
+24.0,Male,Master's,UI/UX Designer,2.7,Pune,1287200.0
+31.0,Female,Bachelor's,Business Analyst,8.4,Bangalore,1823000.0
+26.0,Female,High School,Business Analyst,2.5,Hyderabad,956100.0
+25.0,Female,Bachelor's,Full Stack Developer,1.2,Pune,1024300.0
+22.0,Female,Bachelor's,Software Engineer,1.9,Bangalore,1299500.0
+28.0,Female,Master's,Full Stack Developer,6.5,Bangalore,1930800.0
+31.0,Male,High School,Software Engineer,10.2,Bangalore,2574400.0
+27.0,Female,Bachelor's,QA Engineer,3.5,Hyderabad,1140700.0
+25.0,Male,Bachelor's,Software Engineer,4.3,Hyderabad,1628700.0
+31.0,Female,Bachelor's,Full Stack Developer,8.0,Hyderabad,2019900.0
+25.0,Male,Master's,Data Analyst,3.6,Mumbai,1315000.0
+27.0,Female,Bachelor's,Full Stack Developer,5.7,Mumbai,1693600.0
+32.0,Male,High School,Product Manager,6.8,Hyderabad,2662100.0
+23.0,Male,Master's,UI/UX Designer,1.8,Hyderabad,1212100.0
+31.0,Male,High School,Machine Learning Engineer,7.0,Bangalore,2501100.0
+22.0,Female,Bachelor's,Data Analyst,0.8,Mumbai,949200.0
+25.0,Female,Bachelor's,Data Analyst,1.0,Bangalore,1057900.0
+29.0,Male,Master's,Data Scientist,5.5,Hyderabad,2301800.0
+22.0,Female,Master's,Data Scientist,1.6,Bangalore,1583800.0
+24.0,Female,Bachelor's,Full Stack Developer,2.3,Hyderabad,1332400.0
+27.0,Male,Bachelor's,Business Analyst,3.0,Delhi-NCR,1176200.0
+33.0,Male,Bachelor's,Product Manager,7.6,Pune,2969600.0
+28.0,Male,Bachelor's,UI/UX Designer,7.7,Mumbai,1809500.0
+33.0,Male,Bachelor's,Senior Software Engineer,8.4,Pune,2808400.0
+28.0,Male,Master's,Business Analyst,5.2,Hyderabad,1504400.0
+24.0,Male,Bachelor's,Data Analyst,3.1,Delhi-NCR,1074600.0
+31.0,Male,PhD,Data Scientist,4.4,Bangalore,2253600.0
+31.0,Female,Bachelor's,Senior Software Engineer,4.0,Bangalore,2207700.0
+26.0,Male,Bachelor's,Business Analyst,2.6,Bangalore,1078200.0
+30.0,Male,Master's,Product Manager,4.0,Hyderabad,2500000.0
+25.0,Female,Bachelor's,DevOps Engineer,4.8,Pune,1758100.0
+24.0,Male,Bachelor's,QA Engineer,3.1,Delhi-NCR,1098500.0
+25.0,Male,Bachelor's,Machine Learning Engineer,1.2,Bangalore,1449800.0
+27.0,Male,Bachelor's,Machine Learning Engineer,3.8,Bangalore,1954500.0
+30.0,Female,Master's,UI/UX Designer,7.5,Delhi-NCR,1831600.0
+22.0,Male,Master's,Full Stack Developer,1.3,Mumbai,1263300.0
+24.0,Male,Master's,Machine Learning Engineer,1.9,Hyderabad,1729100.0
+26.0,Male,Bachelor's,Data Analyst,2.8,Mumbai,1134400.0
+29.0,Male,Bachelor's,Software Engineer,5.8,Chennai,1769600.0
+24.0,Male,High School,Machine Learning Engineer,0.3,Hyderabad,1075200.0
+30.0,Male,PhD,Full Stack Developer,2.5,Bangalore,1529500.0
+29.0,Male,Bachelor's,Business Analyst,6.0,Hyderabad,1567100.0
+31.0,Male,Bachelor's,Cloud Architect,4.5,Bangalore,2486600.0
+33.0,Male,Bachelor's,Senior Software Engineer,8.7,Bangalore,2872800.0
+35.0,Female,Bachelor's,Senior Software Engineer,8.7,Mumbai,2863800.0
+31.0,Male,Bachelor's,Senior Software Engineer,5.8,Mumbai,2320100.0
+31.0,Female,High School,Software Engineer,10.3,Hyderabad,2484500.0
+30.0,Male,Bachelor's,QA Engineer,7.5,Hyderabad,1545200.0
+21.0,Female,Bachelor's,Full Stack Developer,0.5,Hyderabad,900200.0
+26.0,Male,Bachelor's,QA Engineer,2.2,Hyderabad,965800.0
+23.0,Female,Bachelor's,Data Analyst,2.4,Delhi-NCR,1041500.0
+25.0,Female,Bachelor's,Machine Learning Engineer,1.9,Bangalore,1486700.0
+23.0,Male,Bachelor's,Data Analyst,2.8,Mumbai,1031200.0
+34.0,Male,Bachelor's,Product Manager,6.2,Chennai,2769400.0
+,Female,Bachelor's,Data Scientist,8.4,Pune,2668500.0
+25.0,Male,Bachelor's,Machine Learning Engineer,3.7,Bangalore,1915100.0
+27.0,Female,Bachelor's,Software Engineer,4.1,Bangalore,1513100.0
+33.0,Male,PhD,Business Analyst,7.1,Hyderabad,2086700.0
+35.0,Female,PhD,Senior Software Engineer,8.8,Hyderabad,3408600.0
+38.0,Male,Master's,Cloud Architect,13.7,Hyderabad,4489000.0
+26.0,Female,High School,Software Engineer,3.1,Delhi-NCR,1342100.0
+24.0,Female,Bachelor's,Data Analyst,3.7,Mumbai,1180900.0
+32.0,Male,Master's,Senior Software Engineer,7.5,Bangalore,2931900.0
+33.0,Male,High School,UI/UX Designer,9.1,Bangalore,1842900.0
+25.0,Male,Master's,Software Engineer,3.2,Bangalore,1607100.0
+37.0,Female,Bachelor's,Senior Software Engineer,9.5,Delhi-NCR,3122600.0
+23.0,Male,Master's,DevOps Engineer,2.9,Delhi-NCR,1577900.0
+32.0,Male,PhD,Full Stack Developer,6.3,Chennai,2158500.0
+31.0,Female,Bachelor's,UI/UX Designer,7.0,Hyderabad,1572500.0
+28.0,Male,Master's,Full Stack Developer,4.1,Bangalore,1722400.0
+29.0,Male,Master's,UI/UX Designer,8.0,Hyderabad,1912500.0
+26.0,Female,Bachelor's,Data Scientist,4.3,Pune,1812200.0
+30.0,Female,High School,Senior Software Engineer,4.0,Delhi-NCR,2011400.0
+29.0,Male,Bachelor's,Data Scientist,6.5,Bangalore,2491100.0
+25.0,Male,Bachelor's,Full Stack Developer,1.8,Bangalore,1253700.0
+30.0,Female,PhD,DevOps Engineer,1.6,Chennai,1595000.0
+24.0,Female,High School,Data Analyst,2.6,Mumbai,953100.0
+33.0,Male,Bachelor's,Cloud Architect,6.0,Mumbai,2898400.0
+31.0,Female,PhD,Data Scientist,4.3,Mumbai,2260000.0
+32.0,Female,Bachelor's,Software Engineer,10.8,Hyderabad,2602600.0
+23.0,Male,Bachelor's,Business Analyst,0.8,Mumbai,926700.0
+27.0,Male,Bachelor's,Data Analyst,5.1,Hyderabad,1363000.0
+31.0,Male,Master's,DevOps Engineer,7.3,Mumbai,2436500.0
+25.0,Male,Bachelor's,Software Engineer,2.4,Hyderabad,1312500.0
+25.0,Other,Bachelor's,Business Analyst,3.2,Bangalore,1244100.0
+27.0,Male,Master's,UI/UX Designer,3.6,Pune,1435200.0
+26.0,Female,Bachelor's,Full Stack Developer,3.2,Pune,1247500.0
+29.0,Female,Master's,DevOps Engineer,5.3,Hyderabad,1837500.0
+23.0,Other,Bachelor's,DevOps Engineer,2.0,Pune,1225300.0
+31.0,Female,Master's,DevOps Engineer,8.6,Mumbai,2694900.0
+27.0,Male,Master's,UI/UX Designer,3.6,Chennai,1345000.0
+26.0,Male,Bachelor's,Business Analyst,4.5,Bangalore,1450600.0
+26.0,Male,PhD,Machine Learning Engineer,0.5,Bangalore,1609200.0
+25.0,Male,Bachelor's,Business Analyst,4.9,Mumbai,1374100.0
+24.0,Male,Master's,Data Scientist,2.1,Delhi-NCR,1622000.0
+27.0,Female,Bachelor's,Business Analyst,3.1,Bangalore,1300500.0
+27.0,Female,Master's,DevOps Engineer,3.4,Bangalore,1850600.0
+31.0,Female,Master's,Cloud Architect,5.1,Bangalore,2773200.0
+31.0,Male,Master's,Product Manager,6.8,Pune,2915400.0
+35.0,Male,Bachelor's,Cloud Architect,10.8,Hyderabad,3866200.0
+26.0,Male,Bachelor's,Business Analyst,5.0,Bangalore,1413700.0
+33.0,Male,Bachelor's,Product Manager,7.6,Pune,3047400.0
+26.0,Male,Master's,Business Analyst,5.8,Mumbai,1728200.0
+29.0,Male,PhD,Software Engineer,1.5,Hyderabad,1590100.0
+26.0,Female,Bachelor's,Full Stack Developer,2.8,Bangalore,1329700.0
+25.0,Female,Bachelor's,Data Analyst,2.5,Delhi-NCR,1037700.0
+27.0,Male,Bachelor's,Software Engineer,4.5,Mumbai,1661600.0
+30.0,Male,Bachelor's,Cloud Architect,5.9,Hyderabad,2760200.0
+33.0,Female,Bachelor's,Senior Software Engineer,8.7,Delhi-NCR,2919000.0
+30.0,Male,Bachelor's,UI/UX Designer,8.7,Bangalore,1830500.0
+24.0,Male,Bachelor's,Full Stack Developer,2.7,Pune,1323300.0
+34.0,Female,Master's,Senior Software Engineer,9.9,Pune,3255300.0
+24.0,Female,Master's,Software Engineer,1.7,Bangalore,1452100.0
+31.0,Male,Master's,Cloud Architect,4.0,Mumbai,2702400.0
+30.0,Female,PhD,Machine Learning Engineer,4.3,Mumbai,2374500.0
+32.0,Female,Bachelor's,Data Analyst,8.9,Bangalore,1842100.0
+26.0,Female,Bachelor's,Business Analyst,4.7,Bangalore,1413200.0
+26.0,Male,Bachelor's,Data Scientist,2.6,Hyderabad,1671500.0
+25.0,Female,Bachelor's,Data Analyst,2.1,Delhi-NCR,996500.0
+24.0,Male,Bachelor's,Software Engineer,3.4,Bangalore,1460400.0
+33.0,Male,Bachelor's,Senior Software Engineer,5.8,Chennai,2487100.0
+35.0,Male,Bachelor's,Senior Software Engineer,9.6,Bangalore,3079000.0
+35.0,Male,Bachelor's,Cloud Architect,8.3,Mumbai,3298000.0
+25.0,Female,Master's,Full Stack Developer,4.3,Hyderabad,1587000.0
+35.0,Male,Bachelor's,Senior Software Engineer,9.4,Hyderabad,3015700.0
+21.0,Male,Bachelor's,QA Engineer,0.9,Mumbai,882400.0
+26.0,Male,Master's,Data Scientist,2.0,Hyderabad,1547800.0
+34.0,Male,High School,Data Scientist,11.9,Hyderabad,3207400.0
+33.0,Male,Bachelor's,Product Manager,8.5,Hyderabad,3120500.0
+30.0,Female,High School,DevOps Engineer,8.0,Mumbai,2289000.0
+30.0,Male,Bachelor's,Product Manager,4.0,Hyderabad,2260300.0
+30.0,Female,Master's,Full Stack Developer,8.9,Pune,2334800.0
+26.0,Female,Bachelor's,DevOps Engineer,3.5,Hyderabad,1543000.0
+29.0,Male,Bachelor's,Senior Software Engineer,4.1,Delhi-NCR,2099500.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.0,Mumbai,2132100.0
+30.0,Male,Bachelor's,Software Engineer,7.0,Mumbai,2113500.0
+22.0,Male,High School,Machine Learning Engineer,1.9,Chennai,1251700.0
+25.0,Female,Master's,Full Stack Developer,2.2,Hyderabad,1340500.0
+27.0,Male,Bachelor's,Business Analyst,4.2,Delhi-NCR,1415800.0
+26.0,Female,Master's,Business Analyst,5.5,Chennai,1508800.0
+36.0,Male,Bachelor's,Cloud Architect,9.9,Pune,3663000.0
+25.0,Female,Master's,Data Analyst,2.8,Bangalore,1322900.0
+31.0,Male,PhD,Full Stack Developer,5.5,Pune,2223700.0
+32.0,Male,Bachelor's,Machine Learning Engineer,8.0,Chennai,2734000.0
+34.0,Female,Bachelor's,Product Manager,6.9,Pune,2794200.0
+33.0,Male,Master's,Senior Software Engineer,6.5,Bangalore,2687500.0
+26.0,Female,Bachelor's,Data Scientist,5.3,Pune,1932900.0
+36.0,Female,Master's,Cloud Architect,8.4,Mumbai,3529700.0
+26.0,Male,Bachelor's,Full Stack Developer,5.1,Pune,1606900.0
+27.0,Male,Master's,UI/UX Designer,4.4,Bangalore,1547800.0
+26.0,Female,Bachelor's,Software Engineer,5.7,Pune,1692500.0
+23.0,Male,Bachelor's,Machine Learning Engineer,0.8,Bangalore,1311500.0
+34.0,Male,PhD,Software Engineer,7.6,Mumbai,2712200.0
+29.0,Male,Bachelor's,Machine Learning Engineer,6.7,Hyderabad,2566000.0
+32.0,Female,Bachelor's,DevOps Engineer,8.5,Pune,2419400.0
+27.0,Male,Bachelor's,Full Stack Developer,4.0,Chennai,1495200.0
+23.0,Male,Bachelor's,Data Scientist,1.8,Pune,1293700.0
+29.0,Female,Bachelor's,Cloud Architect,4.1,Hyderabad,2369800.0
+26.0,Female,Master's,DevOps Engineer,3.1,Bangalore,1736500.0
+25.0,Male,Bachelor's,Business Analyst,3.3,Hyderabad,1158000.0
+30.0,Male,PhD,Full Stack Developer,3.9,Chennai,1633400.0
+25.0,Male,Master's,Full Stack Developer,2.9,Bangalore,1587900.0
+26.0,Male,Bachelor's,Software Engineer,3.0,Mumbai,1366200.0
+34.0,Female,Bachelor's,Senior Software Engineer,8.5,Bangalore,2948600.0
+28.0,Other,Bachelor's,Business Analyst,5.7,Pune,1463500.0
+36.0,Other,Bachelor's,Senior Software Engineer,8.1,Bangalore,2851100.0
+27.0,Female,High School,Full Stack Developer,4.1,Bangalore,1445100.0
+34.0,Male,Bachelor's,Data Analyst,12.5,Hyderabad,2004700.0
+27.0,Male,Bachelor's,Data Scientist,3.3,Bangalore,1682800.0
+24.0,Male,Bachelor's,DevOps Engineer,2.9,Pune,1442600.0
+39.0,Male,Bachelor's,Product Manager,13.6,Bangalore,4156600.0
+32.0,Male,Bachelor's,Senior Software Engineer,5.4,Bangalore,2347600.0
+28.0,Female,Bachelor's,Software Engineer,5.3,Delhi-NCR,1820200.0
+25.0,Female,Master's,DevOps Engineer,3.5,Bangalore,1730500.0
+24.0,Male,Master's,Business Analyst,3.6,Delhi-NCR,1386900.0
+35.0,Female,High School,Product Manager,7.7,Pune,2882200.0
+25.0,Female,Bachelor's,UI/UX Designer,1.6,Bangalore,1139600.0
+25.0,Male,Bachelor's,UI/UX Designer,2.9,Bangalore,1124100.0
+31.0,Male,Bachelor's,Product Manager,6.5,Pune,2853300.0
+25.0,Female,Bachelor's,Business Analyst,3.1,Bangalore,1284600.0
+24.0,Female,Bachelor's,Data Analyst,2.8,Pune,1090300.0
+34.0,Female,PhD,DevOps Engineer,5.0,Bangalore,2299000.0
+27.0,Female,Bachelor's,UI/UX Designer,4.1,Pune,1225200.0
+28.0,Female,Bachelor's,Full Stack Developer,5.3,Bangalore,1683800.0
+25.0,Female,Bachelor's,Software Engineer,3.4,Mumbai,1551900.0
+37.0,Female,Bachelor's,Cloud Architect,9.3,Bangalore,3505000.0
+29.0,Male,Bachelor's,Product Manager,4.0,Mumbai,2331000.0
+31.0,Female,Bachelor's,QA Engineer,10.7,Bangalore,1792400.0
+25.0,Male,Bachelor's,UI/UX Designer,4.6,Bangalore,1331500.0
+23.0,Male,Bachelor's,Software Engineer,1.5,Bangalore,1273500.0
+33.0,Male,PhD,Cloud Architect,5.0,Bangalore,2904100.0
+24.0,Female,Master's,Full Stack Developer,2.3,Hyderabad,1389300.0
+34.0,Female,Master's,QA Engineer,10.3,Mumbai,1897000.0
+24.0,Male,High School,QA Engineer,3.2,Bangalore,1092900.0
+43.0,Male,Bachelor's,Cloud Architect,15.6,Delhi-NCR,4835400.0
+28.0,Male,Bachelor's,QA Engineer,4.5,Pune,1223500.0
+30.0,Female,Master's,QA Engineer,7.4,Pune,1692600.0
+32.0,Male,PhD,DevOps Engineer,3.2,Hyderabad,2021500.0
+31.0,Male,Bachelor's,QA Engineer,7.8,Pune,1502200.0
+29.0,Female,Bachelor's,Business Analyst,5.4,Hyderabad,1494000.0
+25.0,Male,Bachelor's,Full Stack Developer,2.2,Bangalore,1305500.0
+28.0,Female,Bachelor's,Software Engineer,6.2,Bangalore,1993200.0
+26.0,Male,Bachelor's,Business Analyst,2.0,Delhi-NCR,1113600.0
+23.0,Male,Bachelor's,Full Stack Developer,2.0,Mumbai,1253200.0
+31.0,Male,Master's,UI/UX Designer,7.3,Pune,1877700.0
+25.0,Other,Bachelor's,Data Scientist,1.6,Bangalore,1550600.0
+42.0,Male,Bachelor's,Senior Software Engineer,17.6,Bangalore,4524600.0
+29.0,Other,Master's,Data Scientist,6.1,Bangalore,2459800.0
+24.0,Male,Master's,Data Analyst,2.0,Mumbai,1235800.0
+30.0,Female,Master's,QA Engineer,6.2,Pune,1646000.0
+27.0,Male,Bachelor's,Data Scientist,3.7,Pune,1644000.0
+26.0,Female,Bachelor's,Software Engineer,2.5,Bangalore,1288700.0
+28.0,Male,Bachelor's,Full Stack Developer,4.2,Hyderabad,1538500.0
+21.0,Male,Master's,QA Engineer,0.9,Bangalore,1047500.0
+36.0,Male,Master's,Product Manager,11.5,Bangalore,3989800.0
+25.0,Male,Bachelor's,QA Engineer,4.1,Mumbai,1173500.0
+24.0,Male,Bachelor's,UI/UX Designer,2.9,Mumbai,1198300.0
+25.0,Female,Bachelor's,Business Analyst,3.6,Bangalore,1365300.0
+30.0,Male,PhD,DevOps Engineer,2.0,Mumbai,1774300.0
+37.0,Male,Bachelor's,DevOps Engineer,15.3,Bangalore,3610800.0
+31.0,Male,Bachelor's,Cloud Architect,4.5,Mumbai,2440200.0
+23.0,Female,Bachelor's,DevOps Engineer,0.6,Bangalore,1206900.0
+35.0,Female,Bachelor's,Product Manager,7.2,Bangalore,2948000.0
+21.0,Female,Bachelor's,UI/UX Designer,0.2,Delhi-NCR,832500.0
+26.0,Male,Bachelor's,Software Engineer,5.5,Bangalore,1754400.0
+25.0,Male,Bachelor's,Data Scientist,4.3,Bangalore,1959100.0
+36.0,Male,Master's,Product Manager,9.0,Hyderabad,3430000.0
+25.0,Male,Bachelor's,QA Engineer,4.7,Mumbai,1176500.0
+29.0,Male,Bachelor's,Business Analyst,7.9,Bangalore,1859700.0
+25.0,Male,Bachelor's,Data Analyst,2.9,Bangalore,1245100.0
+40.0,Male,PhD,Software Engineer,13.3,Delhi-NCR,3365800.0
+23.0,Female,Bachelor's,UI/UX Designer,2.6,Pune,1088400.0
+22.0,Female,Bachelor's,Data Analyst,1.3,Mumbai,920400.0
+28.0,Male,Bachelor's,Full Stack Developer,5.2,Hyderabad,1753700.0
+39.0,Male,Master's,Senior Software Engineer,11.3,Hyderabad,3528100.0
+26.0,Male,Bachelor's,Data Analyst,4.9,Bangalore,1404400.0
+31.0,Male,Master's,Senior Software Engineer,5.4,Pune,2537900.0
+30.0,Female,Bachelor's,DevOps Engineer,6.0,Hyderabad,1924800.0
+25.0,Male,Master's,Business Analyst,2.5,Mumbai,1384200.0
+42.0,Male,Bachelor's,Product Manager,14.7,Hyderabad,4423000.0
+31.0,Female,Master's,Cloud Architect,5.8,Bangalore,3012300.0
+35.0,Female,Bachelor's,Product Manager,7.5,Hyderabad,3009200.0
+26.0,Female,High School,Business Analyst,3.7,Mumbai,1292700.0
+32.0,Female,Bachelor's,Cloud Architect,4.3,Hyderabad,2481900.0
+35.0,Female,Master's,Senior Software Engineer,9.9,Bangalore,3363500.0
+25.0,Other,Master's,Machine Learning Engineer,2.6,Hyderabad,1786000.0
+32.0,Male,PhD,Product Manager,4.6,Bangalore,2819300.0
+35.0,Female,PhD,DevOps Engineer,6.9,Bangalore,2781800.0
+26.0,Female,Bachelor's,Business Analyst,4.2,Bangalore,1342300.0
+26.0,Female,Bachelor's,Business Analyst,3.3,Bangalore,1208900.0
+24.0,Female,Bachelor's,Data Analyst,0.6,Bangalore,1004100.0
+25.0,Male,Master's,Software Engineer,3.0,Bangalore,1578700.0
+29.0,Female,Bachelor's,QA Engineer,5.6,Pune,1314100.0
+26.0,Male,Bachelor's,Machine Learning Engineer,4.3,Pune,1900800.0
+30.0,Female,Bachelor's,Machine Learning Engineer,8.3,Bangalore,2822700.0
+25.0,Male,Master's,QA Engineer,4.0,Mumbai,1263700.0
+28.0,Male,Master's,Machine Learning Engineer,5.3,Bangalore,2352800.0
+23.0,Female,Bachelor's,DevOps Engineer,1.3,Pune,1037900.0
+36.0,Female,PhD,Data Analyst,7.6,Bangalore,1972000.0
+22.0,Female,Bachelor's,QA Engineer,0.7,Pune,806700.0
+35.0,Male,PhD,Senior Software Engineer,7.2,Pune,2981000.0
+23.0,Male,Bachelor's,QA Engineer,2.2,Hyderabad,992000.0
+22.0,Female,Bachelor's,Business Analyst,1.8,Hyderabad,989200.0
+35.0,Male,PhD,Cloud Architect,9.9,Delhi-NCR,3949200.0
+22.0,Male,Bachelor's,Business Analyst,1.4,Hyderabad,1022600.0
+27.0,Male,Master's,Data Analyst,4.9,Mumbai,1493600.0
+28.0,Male,Bachelor's,Machine Learning Engineer,4.5,Bangalore,2102800.0
+24.0,Female,Bachelor's,QA Engineer,3.6,Bangalore,1088700.0
+22.0,Male,Bachelor's,Business Analyst,0.7,Hyderabad,876500.0
+27.0,Female,Bachelor's,DevOps Engineer,5.9,Hyderabad,1923400.0
+30.0,Male,Master's,QA Engineer,7.2,Chennai,1571700.0
+31.0,Male,Bachelor's,Machine Learning Engineer,10.6,Bangalore,3198800.0
+35.0,Female,Bachelor's,Product Manager,10.0,Bangalore,3521000.0
+,Female,Bachelor's,Cloud Architect,13.7,Hyderabad,4349100.0
+30.0,Male,Master's,Senior Software Engineer,5.1,Hyderabad,2513000.0
+31.0,Female,Bachelor's,Software Engineer,10.9,Bangalore,2707300.0
+33.0,Male,High School,Product Manager,8.2,Pune,3025700.0
+27.0,Female,Bachelor's,Data Scientist,4.9,Delhi-NCR,1930000.0
+25.0,Male,Master's,Machine Learning Engineer,3.3,Bangalore,1974300.0
+23.0,Male,Bachelor's,Data Scientist,1.7,Mumbai,1381000.0
+23.0,Male,Bachelor's,Data Analyst,2.7,Pune,1081900.0
+26.0,Male,Bachelor's,Data Analyst,4.5,Bangalore,1270000.0
+25.0,Female,Bachelor's,Software Engineer,3.1,Bangalore,1331700.0
+31.0,Female,Bachelor's,Senior Software Engineer,4.0,Delhi-NCR,1975500.0
+23.0,Male,Bachelor's,UI/UX Designer,1.7,Hyderabad,883200.0
+27.0,Male,High School,Data Scientist,3.5,Pune,1633600.0
+23.0,Female,High School,UI/UX Designer,0.8,Bangalore,870100.0
+24.0,Male,Master's,UI/UX Designer,3.7,Hyderabad,1355400.0
+32.0,Female,Bachelor's,Senior Software Engineer,6.1,Pune,2325200.0
+32.0,Male,Bachelor's,Product Manager,4.2,Mumbai,2405300.0
+26.0,Female,High School,Data Analyst,4.7,Hyderabad,1152600.0
+25.0,Female,Bachelor's,Full Stack Developer,3.8,Pune,1362900.0
+35.0,Male,Bachelor's,Product Manager,8.8,Delhi-NCR,3314600.0
+27.0,Female,Bachelor's,Data Analyst,3.9,Bangalore,1321900.0
+26.0,Male,Bachelor's,Data Analyst,4.8,Pune,1347600.0
+31.0,Female,Bachelor's,DevOps Engineer,10.7,Hyderabad,2655100.0
+28.0,Female,Bachelor's,QA Engineer,5.3,Pune,1226000.0
+28.0,Male,Bachelor's,Data Scientist,4.2,Mumbai,1929500.0
+31.0,Male,PhD,Business Analyst,3.5,Hyderabad,1532000.0
+29.0,Female,Bachelor's,Senior Software Engineer,4.8,Hyderabad,2399600.0
+31.0,Male,Bachelor's,Product Manager,4.0,Delhi-NCR,2289700.0
+26.0,Female,Bachelor's,Business Analyst,3.7,Delhi-NCR,1166000.0
+28.0,Male,Bachelor's,Data Analyst,4.1,Mumbai,1159000.0
+24.0,Female,Master's,QA Engineer,2.6,Pune,1105500.0
+24.0,Male,Master's,UI/UX Designer,3.6,Chennai,1376800.0
+42.0,Male,Bachelor's,Product Manager,16.5,Bangalore,4738600.0
+32.0,Female,Master's,Cloud Architect,6.8,Hyderabad,3025700.0
+24.0,Male,Bachelor's,QA Engineer,2.5,Hyderabad,849400.0
+29.0,Male,Bachelor's,DevOps Engineer,7.2,Pune,2124400.0
+22.0,Male,Bachelor's,Full Stack Developer,0.6,Mumbai,874300.0
+25.0,Male,Bachelor's,Data Analyst,4.5,Bangalore,1256000.0
+32.0,Male,Master's,Software Engineer,8.5,Chennai,2406700.0
+25.0,Male,Bachelor's,Full Stack Developer,4.0,Chennai,1465200.0
+32.0,Male,Bachelor's,Business Analyst,8.9,Chennai,1797900.0
+27.0,Male,Master's,Data Analyst,6.7,Hyderabad,1564200.0
+29.0,Female,Bachelor's,Senior Software Engineer,4.1,Bangalore,2172600.0
+26.0,Male,Bachelor's,DevOps Engineer,5.6,Bangalore,1909200.0
+22.0,Female,Bachelor's,Business Analyst,1.3,Bangalore,1029900.0
+29.0,Male,High School,Machine Learning Engineer,5.2,Bangalore,2243400.0
+26.0,Male,Bachelor's,DevOps Engineer,3.1,Mumbai,1431100.0
+26.0,Male,Master's,Data Scientist,4.5,Pune,2016500.0
+25.0,Male,Bachelor's,DevOps Engineer,1.6,Mumbai,1402300.0
+28.0,Male,Master's,DevOps Engineer,4.8,Bangalore,1960100.0
+25.0,Male,Bachelor's,QA Engineer,2.9,Hyderabad,948500.0
+34.0,Female,Bachelor's,Cloud Architect,7.4,Mumbai,3187400.0
+24.0,Male,High School,Software Engineer,2.9,Delhi-NCR,1303300.0
+28.0,Male,Master's,UI/UX Designer,6.9,Mumbai,1692200.0
+23.0,Male,Bachelor's,DevOps Engineer,0.6,Hyderabad,1077500.0
+30.0,Male,Bachelor's,Business Analyst,7.5,Hyderabad,1656700.0
+25.0,Male,Master's,Software Engineer,2.0,Bangalore,1557200.0
+31.0,Male,Bachelor's,Machine Learning Engineer,8.2,Hyderabad,2813800.0
+31.0,Female,Master's,Machine Learning Engineer,7.8,Hyderabad,2822200.0
+26.0,Female,Bachelor's,Business Analyst,5.3,Mumbai,1524100.0
+26.0,Male,Master's,QA Engineer,3.8,Bangalore,1451500.0
+28.0,Male,PhD,UI/UX Designer,2.8,Chennai,1504200.0
+31.0,Female,Master's,DevOps Engineer,7.3,Delhi-NCR,2352800.0
+34.0,Female,Master's,Cloud Architect,7.0,Pune,3070800.0
+32.0,Male,Master's,Senior Software Engineer,4.0,Bangalore,2386600.0
+29.0,Female,Master's,Machine Learning Engineer,5.2,Chennai,2333700.0
+32.0,Male,Bachelor's,Senior Software Engineer,7.1,Bangalore,2516500.0
+29.0,Female,Bachelor's,Machine Learning Engineer,5.4,Mumbai,2198700.0
+25.0,Female,Bachelor's,Data Analyst,3.7,Bangalore,1318500.0
+28.0,Male,Master's,UI/UX Designer,6.8,Mumbai,1859700.0
+22.0,Female,Bachelor's,Data Scientist,1.0,Mumbai,1233100.0
+23.0,Female,Master's,DevOps Engineer,2.5,Hyderabad,1611300.0
+35.0,Female,Bachelor's,Cloud Architect,8.9,Bangalore,3396200.0
+29.0,Male,Master's,Senior Software Engineer,4.4,Hyderabad,2446800.0
+25.0,Female,Master's,Data Analyst,2.2,Pune,1190200.0
+26.0,Male,Master's,UI/UX Designer,2.8,Hyderabad,1311600.0
+34.0,Male,High School,Software Engineer,10.1,Mumbai,2504000.0
+28.0,Male,Bachelor's,Software Engineer,4.2,Pune,1514600.0
+32.0,Male,Bachelor's,Senior Software Engineer,6.9,Delhi-NCR,2624500.0
+29.0,Male,Bachelor's,Cloud Architect,4.7,Mumbai,2597400.0
+35.0,Female,Master's,Cloud Architect,7.9,Delhi-NCR,3442100.0
+32.0,Male,Bachelor's,Cloud Architect,5.2,Delhi-NCR,2650500.0
+32.0,Male,Master's,Cloud Architect,4.3,Bangalore,2744000.0
+24.0,Male,Bachelor's,UI/UX Designer,2.7,Bangalore,1163200.0
+28.0,Female,Master's,Data Scientist,7.0,Delhi-NCR,2561900.0
+32.0,Female,Bachelor's,Senior Software Engineer,4.3,Hyderabad,2187100.0
+39.0,Female,High School,Senior Software Engineer,11.3,Mumbai,3367400.0
+26.0,Male,Master's,Data Analyst,5.3,Bangalore,1586100.0
+27.0,Male,Master's,Software Engineer,6.3,Hyderabad,2078900.0
+28.0,Female,Bachelor's,Full Stack Developer,4.0,Pune,1520000.0
+23.0,Female,Master's,Data Scientist,1.6,Bangalore,1489900.0
+26.0,Female,Bachelor's,UI/UX Designer,4.4,Delhi-NCR,1352400.0
+27.0,Male,Master's,Data Analyst,4.1,Bangalore,1404600.0
+24.0,Male,High School,Data Analyst,2.4,Hyderabad,814900.0
+23.0,Male,Master's,Machine Learning Engineer,2.7,Bangalore,1826200.0
+26.0,Female,Bachelor's,Full Stack Developer,3.6,Bangalore,1421400.0
+22.0,Female,Bachelor's,QA Engineer,1.0,Mumbai,788100.0
+28.0,Female,Master's,Machine Learning Engineer,5.3,Hyderabad,2249400.0
+30.0,Male,Bachelor's,Full Stack Developer,8.5,Chennai,2077800.0
+32.0,Female,Master's,Software Engineer,8.0,Pune,2471900.0
+32.0,Female,PhD,Full Stack Developer,4.0,Pune,1900900.0
+32.0,Male,Bachelor's,Cloud Architect,5.3,Pune,2680700.0
+37.0,Female,Bachelor's,Product Manager,9.0,Mumbai,3310200.0
+35.0,Male,Bachelor's,Cloud Architect,10.3,Pune,3618600.0
+29.0,Female,Bachelor's,Software Engineer,5.9,Hyderabad,1859700.0
+28.0,Male,Master's,DevOps Engineer,6.6,Delhi-NCR,2204300.0
+36.0,Male,PhD,UI/UX Designer,8.1,Hyderabad,2163000.0
+30.0,Male,Bachelor's,Software Engineer,7.7,Pune,1994900.0
+31.0,Male,Bachelor's,QA Engineer,9.8,Pune,1619200.0
+24.0,Female,Bachelor's,UI/UX Designer,1.3,Chennai,909800.0
+21.0,Female,Master's,Software Engineer,0.3,Bangalore,1112400.0
+26.0,Female,Master's,Data Scientist,5.3,Bangalore,2236500.0
+26.0,Male,Master's,Data Analyst,4.0,Bangalore,1497700.0
+32.0,Male,Bachelor's,Product Manager,5.0,Bangalore,2465700.0
+32.0,Female,High School,Senior Software Engineer,6.8,Delhi-NCR,2572300.0
+26.0,Male,Bachelor's,Data Analyst,3.0,Bangalore,1176200.0
+39.0,Female,Bachelor's,DevOps Engineer,16.2,Mumbai,3670400.0
+29.0,Male,Master's,Product Manager,4.0,Bangalore,2363900.0
+26.0,Male,Master's,Data Scientist,3.7,Mumbai,1943300.0
+30.0,Female,Master's,Product Manager,5.2,Bangalore,2818300.0
+41.0,Male,Bachelor's,Cloud Architect,13.5,Mumbai,4309300.0
+28.0,Male,PhD,DevOps Engineer,2.5,Bangalore,1877900.0
+32.0,Male,Bachelor's,Product Manager,6.6,Pune,2699300.0
+25.0,Female,Master's,Full Stack Developer,3.0,Hyderabad,1403700.0
+30.0,Male,PhD,UI/UX Designer,2.5,Mumbai,1556600.0
+35.0,Male,PhD,Senior Software Engineer,8.1,Delhi-NCR,3301400.0
+27.0,Male,Bachelor's,Data Analyst,6.8,Delhi-NCR,1602500.0
+22.0,Male,Bachelor's,QA Engineer,1.7,Bangalore,821700.0
+26.0,Female,Bachelor's,DevOps Engineer,3.1,Bangalore,1461900.0
+27.0,Male,Master's,Data Scientist,5.6,Bangalore,2341700.0
+36.0,Male,Bachelor's,Cloud Architect,10.2,Chennai,3552200.0
+29.0,Male,PhD,Business Analyst,2.4,Hyderabad,1508800.0
+27.0,Female,High School,Full Stack Developer,3.1,Pune,1322700.0
+32.0,Male,Master's,Product Manager,4.2,Hyderabad,2537400.0
+29.0,Female,Bachelor's,Data Analyst,5.8,Pune,1429400.0
+33.0,Female,Master's,Senior Software Engineer,7.9,Hyderabad,2965600.0
+27.0,Male,High School,Business Analyst,4.7,Pune,1259900.0
+27.0,Male,Master's,Data Scientist,4.9,Hyderabad,2102400.0
+40.0,Male,Bachelor's,UI/UX Designer,16.9,Hyderabad,2702000.0
+24.0,Female,Bachelor's,Data Analyst,3.9,Chennai,1127200.0
+28.0,Male,Bachelor's,Data Analyst,6.8,Pune,1552100.0
+21.0,Male,Bachelor's,Business Analyst,0.7,Pune,863400.0
+32.0,Female,Master's,Senior Software Engineer,6.0,Bangalore,2733400.0
+26.0,Male,Master's,Business Analyst,3.3,Pune,1287100.0
+27.0,Male,Bachelor's,Business Analyst,5.2,Chennai,1506400.0
+24.0,Male,Master's,Data Analyst,1.9,Mumbai,1291800.0
+34.0,Male,Bachelor's,Cloud Architect,9.6,Bangalore,3462800.0
+27.0,Male,High School,Data Analyst,6.2,Bangalore,1340100.0
+33.0,Male,Bachelor's,Machine Learning Engineer,9.5,Mumbai,3103500.0
+33.0,Male,Bachelor's,Business Analyst,10.8,Hyderabad,2154400.0
+25.0,Male,Bachelor's,Full Stack Developer,1.7,Mumbai,1218000.0
+28.0,Female,Bachelor's,Full Stack Developer,5.0,Mumbai,1607000.0
+31.0,Female,Master's,Senior Software Engineer,6.2,Hyderabad,2635200.0
+27.0,Male,Bachelor's,Data Analyst,6.0,Pune,1408900.0
+26.0,Female,High School,Data Scientist,2.4,Bangalore,1412500.0
+30.0,Male,Bachelor's,Product Manager,4.6,Bangalore,2464600.0
+26.0,Female,Bachelor's,Full Stack Developer,5.9,Pune,1698400.0
+26.0,Male,Bachelor's,Business Analyst,2.1,Bangalore,1115600.0
+25.0,Male,Master's,Machine Learning Engineer,4.8,Delhi-NCR,2158900.0
+23.0,Male,Master's,Business Analyst,2.2,Delhi-NCR,1170500.0
+24.0,Male,Master's,Business Analyst,0.6,Chennai,1064900.0
+29.0,Female,Master's,Machine Learning Engineer,5.3,Mumbai,2310200.0
+36.0,Female,Bachelor's,Senior Software Engineer,8.0,Hyderabad,2731900.0
+32.0,Male,PhD,Product Manager,4.0,Delhi-NCR,2793100.0
+24.0,Female,Bachelor's,Software Engineer,1.5,Chennai,1229100.0
+28.0,Male,Bachelor's,Data Analyst,5.7,Hyderabad,1549600.0
+26.0,Male,Bachelor's,Full Stack Developer,3.0,Hyderabad,1378500.0
+24.0,Female,Master's,UI/UX Designer,0.6,Delhi-NCR,949800.0
+25.0,Female,Master's,Machine Learning Engineer,4.1,Pune,2047700.0
+34.0,Male,Bachelor's,Product Manager,7.3,Hyderabad,2864800.0
+25.0,Female,Master's,Data Scientist,3.4,Mumbai,1934400.0
+26.0,Male,Bachelor's,UI/UX Designer,5.6,Bangalore,1351900.0
+25.0,Female,Master's,Data Scientist,3.2,Pune,1724400.0
+38.0,Male,Bachelor's,Senior Software Engineer,10.3,Hyderabad,3117500.0
+26.0,Male,High School,UI/UX Designer,5.8,Bangalore,1440000.0
+23.0,Female,Bachelor's,QA Engineer,2.8,Delhi-NCR,1072000.0
+35.0,Female,PhD,DevOps Engineer,9.2,Pune,2954600.0
+33.0,Male,Bachelor's,UI/UX Designer,11.7,Delhi-NCR,2150500.0
+22.0,Male,Bachelor's,Data Scientist,1.4,Hyderabad,1299100.0
+26.0,Male,Master's,Full Stack Developer,5.2,Pune,1772500.0
+29.0,Male,Bachelor's,UI/UX Designer,6.0,Bangalore,1621600.0
+25.0,Male,Bachelor's,Full Stack Developer,4.4,Mumbai,1555500.0
+27.0,Male,Bachelor's,Data Analyst,3.9,Delhi-NCR,1216600.0
+28.0,Male,Bachelor's,Data Scientist,5.0,Hyderabad,2107600.0
+31.0,Female,Bachelor's,Machine Learning Engineer,8.9,Hyderabad,2841000.0
+24.0,Male,Master's,Machine Learning Engineer,3.8,Bangalore,1922700.0
+28.0,Female,Master's,Data Scientist,4.2,Hyderabad,2017100.0
+29.0,Male,Bachelor's,Cloud Architect,4.4,Bangalore,2425800.0
+30.0,Male,PhD,Data Scientist,1.4,Hyderabad,1846900.0
+35.0,Female,Master's,Product Manager,8.0,Mumbai,3278800.0
+34.0,Male,PhD,QA Engineer,7.0,Pune,1890500.0
+26.0,Male,Bachelor's,Machine Learning Engineer,3.4,Bangalore,1761100.0
+26.0,Male,Master's,UI/UX Designer,4.1,Bangalore,1490900.0
+28.0,Male,Bachelor's,QA Engineer,4.3,Bangalore,1293100.0
+24.0,Female,Master's,Business Analyst,3.1,Pune,1275000.0
+25.0,Female,Bachelor's,Machine Learning Engineer,2.7,Delhi-NCR,1474500.0
+26.0,Female,Bachelor's,Machine Learning Engineer,2.2,Bangalore,1614100.0
+30.0,Female,Bachelor's,Cloud Architect,4.0,Pune,2244500.0
+26.0,Male,Master's,UI/UX Designer,4.5,Bangalore,1592400.0
+26.0,Male,Bachelor's,Full Stack Developer,2.7,Pune,1353300.0
+25.0,Male,Bachelor's,QA Engineer,2.8,Pune,1010700.0
+36.0,Female,Bachelor's,Product Manager,9.3,Delhi-NCR,3363100.0
+26.0,Male,Master's,Machine Learning Engineer,2.3,Delhi-NCR,1640100.0
+38.0,Male,PhD,Senior Software Engineer,10.8,Bangalore,3637000.0
+28.0,Male,Bachelor's,Business Analyst,5.0,Bangalore,1456400.0
+25.0,Male,High School,Data Scientist,4.6,Delhi-NCR,1864400.0
+32.0,Female,Bachelor's,Software Engineer,10.1,Hyderabad,2450600.0
+29.0,Female,Bachelor's,Full Stack Developer,6.2,Hyderabad,1706500.0
+36.0,Male,PhD,Product Manager,10.9,Delhi-NCR,3998100.0
+32.0,Female,Bachelor's,Cloud Architect,4.0,Delhi-NCR,2451700.0
+30.0,Male,Master's,Data Scientist,9.6,Mumbai,3165200.0
+27.0,Male,Bachelor's,Machine Learning Engineer,5.2,Pune,2096400.0
+25.0,Female,Master's,UI/UX Designer,1.8,Pune,1168900.0
+24.0,Female,Bachelor's,Data Analyst,0.7,Bangalore,824200.0
+26.0,Female,Bachelor's,Data Scientist,2.6,Pune,1502200.0
+27.0,Male,Bachelor's,Business Analyst,3.5,Bangalore,1283700.0
+24.0,Male,Bachelor's,Software Engineer,2.8,Pune,1365000.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.8,Pune,2202300.0
+29.0,Male,High School,Software Engineer,5.2,Bangalore,1719600.0
+27.0,Female,PhD,UI/UX Designer,1.6,Pune,1320900.0
+28.0,Male,,QA Engineer,4.2,Delhi-NCR,1487400.0
+29.0,Male,Master's,Machine Learning Engineer,7.8,Mumbai,2904400.0
+28.0,Female,Bachelor's,UI/UX Designer,5.8,Delhi-NCR,1417700.0
+26.0,Female,Bachelor's,Full Stack Developer,3.5,Mumbai,1315900.0
+25.0,Male,Bachelor's,Full Stack Developer,1.9,Hyderabad,1116300.0
+33.0,Male,Bachelor's,Cloud Architect,7.3,Bangalore,3042000.0
+31.0,Female,PhD,Software Engineer,2.3,Bangalore,1691300.0
+34.0,Male,Master's,Product Manager,8.4,Bangalore,3386700.0
+29.0,Male,Bachelor's,Cloud Architect,4.0,Bangalore,2496100.0
+28.0,Female,Bachelor's,Business Analyst,7.6,Bangalore,1740000.0
+27.0,Male,High School,Data Scientist,3.7,Hyderabad,1673600.0
+28.0,Male,Bachelor's,Software Engineer,4.1,Hyderabad,1568700.0
+29.0,Male,Master's,Senior Software Engineer,4.0,Pune,2206100.0
+24.0,Male,Bachelor's,QA Engineer,1.4,Bangalore,998500.0
+26.0,Male,Bachelor's,Data Scientist,2.2,Bangalore,1569200.0
+27.0,Male,Bachelor's,DevOps Engineer,6.0,Delhi-NCR,2055100.0
+27.0,Male,Master's,Machine Learning Engineer,5.5,Mumbai,2260900.0
+29.0,Female,PhD,Data Analyst,2.6,Mumbai,1496000.0
+31.0,Male,PhD,Product Manager,4.3,Bangalore,2771800.0
+30.0,Female,Master's,Business Analyst,6.4,Delhi-NCR,1823100.0
+31.0,Male,Master's,Product Manager,4.0,Pune,2449200.0
+27.0,Female,PhD,Software Engineer,0.6,Delhi-NCR,1482700.0
+25.0,Male,Bachelor's,UI/UX Designer,1.5,Hyderabad,963000.0
+32.0,Male,Bachelor's,Product Manager,6.7,Pune,2831600.0
+27.0,Female,Bachelor's,QA Engineer,5.0,Bangalore,1321700.0
+27.0,Male,Bachelor's,Business Analyst,3.3,Hyderabad,1250000.0
+28.0,Female,Bachelor's,Software Engineer,5.2,Mumbai,1841400.0
+25.0,Female,Bachelor's,Software Engineer,2.1,Bangalore,1290500.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.0,Bangalore,2265300.0
+23.0,Female,Bachelor's,UI/UX Designer,2.0,Bangalore,1027400.0
+26.0,Male,Bachelor's,UI/UX Designer,5.4,Pune,1355800.0
+30.0,Male,Bachelor's,Data Analyst,7.8,Bangalore,1619600.0
+33.0,Female,PhD,Cloud Architect,7.0,Pune,3423800.0
+25.0,Female,Master's,QA Engineer,1.1,Pune,969900.0
+28.0,Male,Master's,Data Analyst,6.7,Pune,1577500.0
+,Female,Bachelor's,QA Engineer,5.4,Pune,1310000.0
+23.0,Female,Master's,Software Engineer,2.2,Pune,1412800.0
+30.0,Male,Bachelor's,Software Engineer,6.5,Hyderabad,1976600.0
+34.0,Male,Bachelor's,Software Engineer,12.2,Hyderabad,2783300.0
+31.0,Female,Bachelor's,QA Engineer,7.3,Mumbai,1421800.0
+39.0,Female,Bachelor's,Product Manager,11.7,Pune,3790700.0
+34.0,Male,Master's,Product Manager,6.0,Hyderabad,2930100.0
+24.0,Male,Master's,DevOps Engineer,2.9,Delhi-NCR,1573800.0
+28.0,Male,Bachelor's,UI/UX Designer,4.4,Pune,1313500.0
+31.0,Other,Master's,Product Manager,4.1,Bangalore,2430600.0
+35.0,Female,PhD,Product Manager,9.5,Pune,3755500.0
+32.0,Male,PhD,Senior Software Engineer,5.3,Bangalore,2789600.0
+23.0,Female,Master's,DevOps Engineer,2.5,Pune,1527500.0
+38.0,Female,Master's,Product Manager,12.9,Mumbai,4182400.0
+31.0,Male,High School,Machine Learning Engineer,7.1,Mumbai,2492200.0
+27.0,Male,,UI/UX Designer,4.3,Delhi-NCR,1584400.0
+27.0,Female,Bachelor's,Business Analyst,3.1,Bangalore,1356600.0
+34.0,Male,Master's,Product Manager,6.9,Mumbai,3026900.0
+25.0,Male,Bachelor's,Data Scientist,1.3,Pune,1178800.0
+29.0,Female,Master's,Software Engineer,5.0,Delhi-NCR,1909900.0
+32.0,Male,Master's,Machine Learning Engineer,8.6,Mumbai,3046400.0
+26.0,Male,Bachelor's,QA Engineer,3.9,Pune,1139100.0
+34.0,Male,Bachelor's,Full Stack Developer,12.1,Hyderabad,2776400.0
+25.0,Male,Bachelor's,Data Analyst,4.3,Hyderabad,1261500.0
+32.0,Female,Bachelor's,Senior Software Engineer,7.8,Delhi-NCR,2756500.0
+29.0,Male,Bachelor's,QA Engineer,6.0,Bangalore,1350200.0
+25.0,Male,Bachelor's,Software Engineer,4.7,Bangalore,1776000.0
+35.0,Female,Bachelor's,Cloud Architect,10.3,Hyderabad,3711300.0
+35.0,Female,Master's,Cloud Architect,7.9,Chennai,3346600.0
+26.0,Male,Bachelor's,Data Analyst,4.0,Bangalore,1325600.0
+35.0,Male,PhD,Senior Software Engineer,7.6,Mumbai,3042400.0
+25.0,Male,Bachelor's,Data Scientist,1.0,Pune,1230000.0
+27.0,Male,Bachelor's,Business Analyst,6.8,Pune,1595300.0
+39.0,Female,Bachelor's,Cloud Architect,13.1,Hyderabad,4217000.0
+30.0,Female,Bachelor's,Data Analyst,8.2,Bangalore,1630300.0
+25.0,Male,Master's,UI/UX Designer,1.3,Hyderabad,1111600.0
+25.0,Male,Bachelor's,UI/UX Designer,2.3,Pune,1134400.0
+35.0,Male,Bachelor's,QA Engineer,11.8,Mumbai,1927800.0
+23.0,Male,Bachelor's,Software Engineer,2.8,Bangalore,1339900.0
+31.0,Female,Bachelor's,Product Manager,4.0,Pune,2212400.0
+26.0,Female,Bachelor's,Data Analyst,2.8,Bangalore,1157900.0
+39.0,Male,Bachelor's,Data Analyst,18.0,Delhi-NCR,2741100.0
+27.0,Female,Master's,DevOps Engineer,3.8,Delhi-NCR,1688000.0
+26.0,Male,Bachelor's,Full Stack Developer,2.2,Mumbai,1291400.0
+22.0,Male,Master's,Machine Learning Engineer,1.9,Hyderabad,1606200.0
+27.0,Male,Master's,Full Stack Developer,4.7,Pune,1774700.0
+31.0,Male,Master's,DevOps Engineer,7.4,Chennai,2326900.0
+27.0,Male,Master's,Software Engineer,5.6,Hyderabad,1864500.0
+28.0,Female,Master's,DevOps Engineer,5.3,Hyderabad,2064100.0
+30.0,Female,Master's,QA Engineer,6.6,Mumbai,1563800.0
+28.0,Male,Master's,Machine Learning Engineer,5.2,Mumbai,2385200.0
+50.0,Male,Bachelor's,Cloud Architect,22.3,Hyderabad,6188600.0
+25.0,Male,Master's,Business Analyst,3.6,Pune,1384000.0
+28.0,Male,Bachelor's,QA Engineer,6.0,Delhi-NCR,1221500.0
+41.0,Male,Master's,Product Manager,16.2,Delhi-NCR,4718400.0
+34.0,Male,Bachelor's,Product Manager,7.3,Bangalore,3086300.0
+24.0,Female,Bachelor's,Data Scientist,2.0,Mumbai,1435400.0
+27.0,Male,Bachelor's,Software Engineer,5.3,Pune,1670400.0
+32.0,Female,Bachelor's,Product Manager,7.2,Hyderabad,2777500.0
+28.0,Male,Bachelor's,Full Stack Developer,6.3,Pune,1752000.0
+22.0,Female,,Machine Learning Engineer,1.8,Delhi-NCR,1370300.0
+25.0,Female,High School,Data Analyst,2.5,Bangalore,924900.0
+24.0,Male,Master's,UI/UX Designer,2.6,Chennai,1108500.0
+24.0,Female,Bachelor's,QA Engineer,2.6,Hyderabad,1038600.0
+21.0,Male,Bachelor's,Business Analyst,0.9,Pune,876000.0
+26.0,Male,Master's,Data Analyst,2.5,Bangalore,1297100.0
+26.0,Male,,DevOps Engineer,3.4,Pune,1653700.0
+36.0,Female,High School,Full Stack Developer,13.5,Bangalore,2822000.0
+23.0,Female,Master's,Machine Learning Engineer,1.3,Bangalore,1575600.0
+27.0,Female,Bachelor's,Machine Learning Engineer,4.0,Pune,1906400.0
+30.0,Female,High School,Product Manager,5.3,Bangalore,2429000.0
+25.0,Male,Master's,QA Engineer,2.3,Bangalore,1127800.0
+32.0,Male,Bachelor's,Product Manager,7.8,Delhi-NCR,3018100.0
+31.0,Male,PhD,Cloud Architect,4.6,Mumbai,2846600.0
+37.0,Male,Bachelor's,Cloud Architect,9.8,Pune,3518100.0
+30.0,Male,High School,Machine Learning Engineer,8.9,Bangalore,2906500.0
+28.0,Female,Master's,Data Analyst,4.9,Hyderabad,1593100.0
+25.0,Male,Master's,Business Analyst,3.0,Pune,1407600.0
+29.0,Male,Bachelor's,Software Engineer,7.1,Bangalore,2135200.0
+26.0,Male,Bachelor's,Machine Learning Engineer,3.3,Hyderabad,1674000.0
+23.0,Female,Master's,DevOps Engineer,1.1,Hyderabad,1299500.0
+32.0,Male,Bachelor's,Product Manager,5.0,Hyderabad,2389100.0
+27.0,Female,High School,Full Stack Developer,5.9,Bangalore,1730000.0
+34.0,Male,Master's,Product Manager,7.8,Mumbai,3233000.0
+24.0,Male,Bachelor's,UI/UX Designer,2.4,Hyderabad,1164200.0
+31.0,Female,PhD,DevOps Engineer,5.3,Bangalore,2368800.0
+39.0,Female,Master's,Product Manager,11.2,Bangalore,3948900.0
+24.0,Male,Bachelor's,Software Engineer,3.2,Pune,1317000.0
+34.0,Male,Bachelor's,Product Manager,6.4,Hyderabad,2802900.0
+27.0,Female,Master's,Business Analyst,3.5,Hyderabad,1434900.0
+25.0,Male,Bachelor's,QA Engineer,3.6,Hyderabad,1035700.0
+26.0,Male,Master's,Data Scientist,3.1,Hyderabad,1736100.0
+26.0,Male,Bachelor's,UI/UX Designer,2.8,Bangalore,1190500.0
+23.0,Male,Bachelor's,UI/UX Designer,2.0,Pune,909800.0
+33.0,Female,Bachelor's,Data Scientist,9.5,Hyderabad,2739200.0
+27.0,Female,Master's,Data Scientist,6.1,Pune,2289900.0
+27.0,Female,PhD,DevOps Engineer,1.6,Chennai,1620000.0
+25.0,Male,Bachelor's,DevOps Engineer,4.4,Hyderabad,1649700.0
+26.0,Male,Master's,Business Analyst,2.6,Mumbai,1312700.0
+26.0,Female,Bachelor's,QA Engineer,5.8,Mumbai,1408600.0
+30.0,Male,Bachelor's,Cloud Architect,4.0,Hyderabad,2422700.0
+40.0,Male,Bachelor's,Cloud Architect,12.6,Delhi-NCR,4168900.0
+35.0,Male,PhD,Data Scientist,6.3,Bangalore,2747700.0
+38.0,Male,Master's,Product Manager,11.3,Chennai,3896900.0
+32.0,Male,Bachelor's,Full Stack Developer,8.7,Mumbai,2177800.0
+29.0,Male,Bachelor's,Product Manager,4.8,Bangalore,2460800.0
+28.0,Male,High School,Data Analyst,4.1,Pune,1123300.0
+30.0,Female,Bachelor's,Cloud Architect,4.0,Hyderabad,2481900.0
+37.0,Female,Bachelor's,Cloud Architect,11.8,Bangalore,4037100.0
+27.0,Female,Bachelor's,Data Analyst,6.0,Bangalore,1432900.0
+29.0,Female,Bachelor's,Data Scientist,6.0,Hyderabad,2231300.0
+23.0,Female,Master's,Data Scientist,0.9,Chennai,1278800.0
+32.0,Female,Bachelor's,Product Manager,4.9,Mumbai,2581000.0
+,Female,Bachelor's,Data Scientist,7.4,Mumbai,2527400.0
+36.0,Female,Bachelor's,Product Manager,10.3,Pune,3510700.0
+34.0,Male,Bachelor's,Senior Software Engineer,6.8,Pune,2668600.0
+25.0,Male,High School,Business Analyst,,Mumbai,1031700.0
+25.0,Male,Bachelor's,DevOps Engineer,3.5,Bangalore,1571400.0
+29.0,Female,Bachelor's,Software Engineer,6.1,Delhi-NCR,1837800.0
+26.0,Male,Bachelor's,Data Analyst,5.8,Bangalore,1476800.0
+26.0,Female,Bachelor's,Business Analyst,2.6,Pune,1236900.0
+28.0,Female,Bachelor's,Machine Learning Engineer,4.6,Delhi-NCR,2084900.0
+25.0,Female,Bachelor's,Full Stack Developer,1.5,Bangalore,1161200.0
+24.0,Male,Master's,Software Engineer,3.0,Hyderabad,1536300.0
+28.0,Female,Bachelor's,Business Analyst,7.4,Bangalore,1798300.0
+32.0,Female,Master's,Software Engineer,8.4,Chennai,2351700.0
+30.0,Male,Master's,Product Manager,4.0,Delhi-NCR,2441200.0
+37.0,Female,PhD,Senior Software Engineer,10.7,Pune,3590600.0
+29.0,Female,Master's,Business Analyst,5.5,Mumbai,1725000.0
+24.0,Male,Bachelor's,UI/UX Designer,1.7,Mumbai,955500.0
+31.0,Female,Master's,Senior Software Engineer,4.0,Delhi-NCR,2244600.0
+35.0,Female,Bachelor's,Product Manager,8.5,Bangalore,3212300.0
+34.0,Male,Bachelor's,Product Manager,6.0,Hyderabad,2699400.0
+30.0,Male,Bachelor's,Cloud Architect,4.0,Chennai,2271900.0
+31.0,Male,Master's,QA Engineer,8.3,Hyderabad,1746100.0
+30.0,Male,PhD,DevOps Engineer,3.1,Mumbai,1945600.0
+25.0,Male,Bachelor's,Machine Learning Engineer,4.8,Bangalore,2126900.0
+29.0,Female,Bachelor's,Software Engineer,7.4,Chennai,1998900.0
+28.0,Female,Bachelor's,Software Engineer,5.7,Bangalore,1952000.0
+37.0,Female,PhD,Product Manager,9.7,Mumbai,3800700.0
+24.0,Female,Bachelor's,Data Analyst,0.7,Hyderabad,884200.0
+37.0,Male,Bachelor's,Product Manager,11.4,Pune,3783500.0
+36.0,Female,PhD,Data Scientist,7.1,Delhi-NCR,2930500.0
+34.0,Male,High School,Software Engineer,11.2,Delhi-NCR,2608900.0
+27.0,Male,Master's,Software Engineer,3.0,Hyderabad,1554700.0
+21.0,Female,Bachelor's,QA Engineer,0.5,Delhi-NCR,804200.0
+30.0,Male,PhD,Product Manager,4.0,Pune,2659700.0
+23.0,Male,Bachelor's,Data Scientist,0.6,Hyderabad,1170200.0
+33.0,Female,Bachelor's,Senior Software Engineer,5.8,Bangalore,2550200.0
+30.0,Male,Master's,QA Engineer,8.8,Bangalore,1731400.0
+42.0,Male,Bachelor's,Senior Software Engineer,14.4,Bangalore,4070400.0
+26.0,Male,Bachelor's,Full Stack Developer,5.1,Bangalore,1771400.0
+24.0,Female,Master's,UI/UX Designer,1.3,Delhi-NCR,1083400.0
+24.0,Male,Bachelor's,Data Analyst,1.9,Hyderabad,1117400.0
+30.0,Male,Bachelor's,UI/UX Designer,7.1,Hyderabad,1628800.0
+22.0,Male,High School,DevOps Engineer,0.5,Hyderabad,937500.0
+30.0,Male,Bachelor's,Full Stack Developer,9.4,Hyderabad,2330500.0
+22.0,Male,Bachelor's,Data Analyst,1.4,Bangalore,871300.0
+28.0,Male,Bachelor's,Data Analyst,7.0,Pune,1451300.0
+29.0,Male,Bachelor's,Data Scientist,5.8,Mumbai,2180500.0
+23.0,Male,Master's,QA Engineer,2.7,Pune,1076900.0
+33.0,Female,PhD,Senior Software Engineer,5.5,Delhi-NCR,2698200.0
+31.0,Female,Bachelor's,Product Manager,6.8,Bangalore,2976700.0
+29.0,Male,Bachelor's,QA Engineer,5.1,Pune,1232100.0
+28.0,Male,Bachelor's,DevOps Engineer,7.8,Chennai,2254900.0
+22.0,Male,Master's,UI/UX Designer,0.9,Hyderabad,1094400.0
+31.0,Male,Master's,Senior Software Engineer,6.1,Bangalore,2742500.0
+33.0,Male,PhD,Software Engineer,7.9,Mumbai,2478500.0
+26.0,Female,Master's,UI/UX Designer,2.0,Pune,1352000.0
+26.0,Female,Master's,Business Analyst,3.0,Pune,1283200.0
+25.0,Female,Master's,DevOps Engineer,3.5,Bangalore,1794700.0
+26.0,Male,Bachelor's,Data Analyst,3.9,Pune,1168300.0
+27.0,Male,Master's,DevOps Engineer,4.4,Bangalore,1911300.0
+29.0,Male,Master's,UI/UX Designer,5.7,Bangalore,1569700.0
+37.0,Male,Master's,UI/UX Designer,15.8,Bangalore,2795000.0
+26.0,Female,Bachelor's,Business Analyst,2.3,Mumbai,1100200.0
+35.0,Female,Bachelor's,Senior Software Engineer,7.0,Bangalore,2760200.0
+29.0,Male,PhD,DevOps Engineer,3.0,Mumbai,1885900.0
+24.0,Female,Bachelor's,Business Analyst,0.2,Bangalore,867000.0
+25.0,Male,Master's,DevOps Engineer,3.6,Pune,1793500.0
+23.0,Male,Bachelor's,Data Analyst,2.9,Pune,1037100.0
+27.0,Male,Bachelor's,QA Engineer,3.4,Hyderabad,1029500.0
+28.0,Male,Bachelor's,QA Engineer,4.2,Delhi-NCR,1244900.0
+25.0,Male,Master's,UI/UX Designer,4.0,Bangalore,1608500.0
+28.0,Male,Bachelor's,DevOps Engineer,5.8,Bangalore,1895600.0
+33.0,Male,Master's,Cloud Architect,7.5,Mumbai,3271100.0
+25.0,Female,Bachelor's,UI/UX Designer,3.3,Bangalore,1144900.0
+24.0,Male,Master's,Machine Learning Engineer,3.3,Mumbai,1942100.0
+22.0,Female,Master's,QA Engineer,1.5,Chennai,875200.0
+30.0,Female,Master's,Business Analyst,6.9,Mumbai,1799800.0
+34.0,Female,High School,Cloud Architect,8.6,Bangalore,3247600.0
+30.0,Female,Bachelor's,Senior Software Engineer,5.7,Bangalore,2351800.0
+39.0,Female,Bachelor's,Cloud Architect,14.7,Bangalore,4537700.0
+24.0,Female,Bachelor's,Data Scientist,3.9,Bangalore,1692200.0
+28.0,Male,Bachelor's,Data Scientist,4.4,Mumbai,1896500.0
+31.0,Male,Bachelor's,Business Analyst,9.7,Mumbai,2071700.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.3,Pune,2230300.0
+25.0,Female,Bachelor's,Machine Learning Engineer,2.5,Hyderabad,1561300.0
+38.0,Male,Bachelor's,Cloud Architect,10.5,Mumbai,3772000.0
+31.0,Male,PhD,Full Stack Developer,4.2,Pune,1884400.0
+28.0,Male,Master's,UI/UX Designer,7.7,Mumbai,1886700.0
+25.0,Male,Bachelor's,DevOps Engineer,2.0,Hyderabad,1495400.0
+30.0,Male,Bachelor's,Data Analyst,7.9,Bangalore,1768600.0
+39.0,Female,Bachelor's,Product Manager,12.3,Hyderabad,3942400.0
+34.0,Male,Bachelor's,Senior Software Engineer,6.6,Bangalore,2668800.0
+30.0,Male,Bachelor's,Cloud Architect,4.5,Pune,2372300.0
+29.0,Male,Bachelor's,Full Stack Developer,6.9,Bangalore,1966400.0
+24.0,Male,Master's,Software Engineer,,Hyderabad,1708100.0
+33.0,Male,Master's,DevOps Engineer,12.1,Bangalore,3277100.0
+25.0,Male,Bachelor's,DevOps Engineer,3.0,Bangalore,1540300.0
+32.0,Male,Bachelor's,Senior Software Engineer,6.1,Chennai,2492500.0
+32.0,Male,Master's,Product Manager,4.0,Pune,2343000.0
+25.0,Male,Bachelor's,UI/UX Designer,1.3,Delhi-NCR,926200.0
+23.0,Female,Master's,Data Analyst,1.2,Chennai,1050200.0
+29.0,Female,Master's,Machine Learning Engineer,5.1,Hyderabad,2295400.0
+28.0,Male,Master's,QA Engineer,5.2,Pune,1406800.0
+37.0,Female,Bachelor's,Cloud Architect,11.5,Pune,3740800.0
+24.0,Male,Master's,Business Analyst,2.5,Mumbai,1422900.0
+29.0,Male,Bachelor's,Full Stack Developer,6.7,Bangalore,1853100.0
+,Female,Bachelor's,QA Engineer,5.7,Mumbai,1311400.0
+24.0,Female,Bachelor's,QA Engineer,3.3,Hyderabad,984300.0
+30.0,Male,PhD,Senior Software Engineer,5.6,Hyderabad,2689900.0
+26.0,Female,High School,Machine Learning Engineer,3.5,Bangalore,1744800.0
+30.0,Male,Master's,Product Manager,4.0,Hyderabad,2507500.0
+32.0,Male,Bachelor's,Senior Software Engineer,6.8,Delhi-NCR,2637400.0
+26.0,Female,Bachelor's,Business Analyst,2.0,Bangalore,1239300.0
+26.0,Male,Bachelor's,Software Engineer,5.2,Bangalore,1808900.0
+32.0,Male,Master's,Cloud Architect,4.7,Bangalore,2699900.0
+28.0,Male,Bachelor's,Software Engineer,7.2,Bangalore,2095700.0
+33.0,Female,Bachelor's,Machine Learning Engineer,11.9,Bangalore,3563200.0
+27.0,Male,Master's,Business Analyst,3.6,Bangalore,1486000.0
+24.0,Female,Bachelor's,Software Engineer,3.2,Mumbai,1300400.0
+30.0,Female,High School,DevOps Engineer,6.7,Mumbai,1974700.0
+31.0,Male,PhD,UI/UX Designer,4.6,Bangalore,1825200.0
+28.0,Female,High School,Business Analyst,7.8,Bangalore,1665500.0
+21.0,Male,Bachelor's,Full Stack Developer,0.9,Bangalore,973900.0
+25.0,Male,Master's,DevOps Engineer,3.3,Hyderabad,1648600.0
+26.0,Female,Master's,Data Scientist,5.8,Pune,2395300.0
+29.0,Male,Bachelor's,Machine Learning Engineer,5.0,Bangalore,2111300.0
+30.0,Male,Master's,Cloud Architect,5.3,Delhi-NCR,2778200.0
+33.0,Female,PhD,Senior Software Engineer,7.5,Hyderabad,3116800.0
+28.0,Male,Master's,Full Stack Developer,6.9,Hyderabad,2048100.0
+30.0,Male,Master's,Senior Software Engineer,4.0,Hyderabad,2227600.0
+26.0,Female,Bachelor's,Data Analyst,2.2,Mumbai,1049900.0
+33.0,Female,Bachelor's,Cloud Architect,6.2,Bangalore,2960300.0
+28.0,Female,Master's,Software Engineer,6.0,Chennai,1959900.0
+24.0,Female,Bachelor's,Data Analyst,1.3,Bangalore,949000.0
+25.0,Female,Bachelor's,Data Scientist,2.3,Pune,1448400.0
+24.0,Male,Bachelor's,DevOps Engineer,1.6,Hyderabad,1245900.0
+23.0,Female,Bachelor's,Full Stack Developer,0.7,Pune,969200.0
+30.0,Male,Bachelor's,Full Stack Developer,8.6,Delhi-NCR,2127300.0
+33.0,Male,Bachelor's,Senior Software Engineer,7.2,Pune,2602900.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.9,Bangalore,2364600.0
+35.0,Male,Bachelor's,Product Manager,10.3,Bangalore,3568200.0
+25.0,Female,Bachelor's,Business Analyst,2.8,Bangalore,1281400.0
+25.0,Female,Bachelor's,QA Engineer,3.1,Hyderabad,958500.0
+32.0,Female,,Senior Software Engineer,6.0,Hyderabad,2650500.0
+30.0,Male,Bachelor's,DevOps Engineer,8.0,Pune,2349500.0
+27.0,Female,Bachelor's,QA Engineer,6.4,Mumbai,1484200.0
+28.0,Male,Bachelor's,Business Analyst,7.8,Bangalore,1878800.0
+27.0,Female,Master's,Data Analyst,4.2,Pune,1487900.0
+27.0,Male,Bachelor's,Data Scientist,4.6,Delhi-NCR,1852600.0
+33.0,Male,PhD,Data Scientist,5.3,Pune,2450100.0
+23.0,Male,Bachelor's,Business Analyst,2.6,Delhi-NCR,1147700.0
+33.0,Male,Bachelor's,Senior Software Engineer,6.2,Delhi-NCR,2632900.0
+24.0,Female,Master's,Business Analyst,1.2,Mumbai,1212500.0
+26.0,Female,Master's,DevOps Engineer,2.0,Pune,1573000.0
+29.0,Male,Bachelor's,Machine Learning Engineer,7.6,Hyderabad,2634800.0
+24.0,Male,Bachelor's,Data Analyst,3.2,Hyderabad,1073000.0
+24.0,Male,Master's,DevOps Engineer,3.3,Bangalore,1693000.0
+25.0,Male,Bachelor's,Machine Learning Engineer,4.7,Delhi-NCR,1900800.0
+31.0,Other,Master's,Product Manager,4.0,Bangalore,2400900.0
+23.0,Female,Master's,DevOps Engineer,2.3,Hyderabad,1409100.0
+27.0,Male,Bachelor's,Data Scientist,3.5,Chennai,1752200.0
+31.0,Male,PhD,DevOps Engineer,3.0,Hyderabad,1781400.0
+28.0,Female,Bachelor's,Software Engineer,4.7,Hyderabad,1730500.0
+30.0,Female,PhD,UI/UX Designer,4.4,Hyderabad,1672500.0
+25.0,Female,Master's,UI/UX Designer,1.5,Bangalore,1277700.0
+26.0,Female,Master's,DevOps Engineer,3.5,Delhi-NCR,1711300.0
+28.0,Female,PhD,Business Analyst,2.0,Mumbai,1436200.0
+35.0,Female,Master's,Cloud Architect,7.6,Hyderabad,3252900.0
+30.0,Female,Bachelor's,Data Scientist,9.9,Delhi-NCR,2993800.0
+25.0,Female,Bachelor's,Data Scientist,4.4,Mumbai,1923400.0
+24.0,Female,Master's,Business Analyst,2.5,Delhi-NCR,1181300.0
+29.0,Male,Master's,QA Engineer,8.3,Chennai,1724800.0
+38.0,Male,PhD,Business Analyst,11.7,Pune,2702300.0
+29.0,Female,Bachelor's,UI/UX Designer,6.6,Hyderabad,1535400.0
+34.0,Female,Bachelor's,Senior Software Engineer,9.8,Hyderabad,3120400.0
+25.0,Male,Bachelor's,DevOps Engineer,4.6,Mumbai,1813000.0
+25.0,Male,High School,QA Engineer,2.7,Bangalore,954700.0
+26.0,Male,Master's,Business Analyst,2.4,Hyderabad,1375500.0
+24.0,Female,Master's,Software Engineer,,Pune,1621800.0
+34.0,Male,High School,Senior Software Engineer,6.8,Pune,2416900.0
+24.0,Male,Bachelor's,DevOps Engineer,3.1,Hyderabad,1489700.0
+34.0,Male,Master's,Cloud Architect,9.6,Hyderabad,3530500.0
+27.0,Male,Master's,Data Analyst,5.6,Delhi-NCR,1647900.0
+27.0,Female,Bachelor's,UI/UX Designer,4.5,Pune,1393100.0
+35.0,Female,Bachelor's,Senior Software Engineer,7.8,Bangalore,2799100.0
+27.0,Male,Bachelor's,Data Analyst,4.3,Mumbai,1251700.0
+34.0,Male,Bachelor's,Cloud Architect,8.7,Delhi-NCR,3359900.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.0,Pune,2083200.0
+26.0,Female,Bachelor's,Full Stack Developer,4.4,Hyderabad,1571700.0
+32.0,Female,Master's,Machine Learning Engineer,8.1,Pune,2838800.0
+24.0,Female,Bachelor's,Data Scientist,0.8,Mumbai,1274600.0
+28.0,Male,Bachelor's,Software Engineer,5.6,Hyderabad,1688700.0
+24.0,Female,Master's,Full Stack Developer,1.1,Hyderabad,1224200.0
+32.0,Male,PhD,Software Engineer,3.3,Bangalore,1929400.0
+27.0,Female,Bachelor's,Business Analyst,4.5,Mumbai,1302500.0
+32.0,Male,PhD,Software Engineer,5.0,Delhi-NCR,2105300.0
+23.0,Male,Bachelor's,Data Scientist,2.4,Hyderabad,1478700.0
+26.0,Male,Bachelor's,Business Analyst,3.8,Bangalore,1233200.0
+27.0,Female,Bachelor's,DevOps Engineer,6.9,Pune,2016200.0
+26.0,Male,Master's,Full Stack Developer,4.3,Hyderabad,1683700.0
+30.0,Female,Bachelor's,Product Manager,4.0,Delhi-NCR,2283100.0
+25.0,Female,Bachelor's,Full Stack Developer,2.0,Mumbai,1152700.0
+30.0,Male,Master's,QA Engineer,6.7,Pune,1477600.0
+30.0,Male,Master's,UI/UX Designer,9.2,Hyderabad,1887900.0
+49.0,Male,Master's,Senior Software Engineer,24.2,Hyderabad,5777400.0
+22.0,Male,Master's,Full Stack Developer,1.1,Delhi-NCR,1170000.0
+37.0,Other,Bachelor's,Product Manager,9.1,Bangalore,3339200.0
+23.0,Female,Bachelor's,Software Engineer,1.1,Bangalore,1155400.0
+36.0,Male,Master's,Product Manager,8.1,Pune,3191200.0
+29.0,Female,Bachelor's,Software Engineer,5.6,Mumbai,1829900.0
+24.0,Male,Bachelor's,Full Stack Developer,3.5,Bangalore,1431600.0
+33.0,Male,Master's,Product Manager,7.0,Chennai,2994500.0
+26.0,Female,Bachelor's,DevOps Engineer,2.6,Chennai,1382900.0
+29.0,Male,Bachelor's,Business Analyst,6.6,Delhi-NCR,1560000.0
+23.0,Female,Master's,UI/UX Designer,1.0,Hyderabad,1172600.0
+27.0,Female,Bachelor's,Full Stack Developer,5.1,Bangalore,1657600.0
+24.0,Female,Master's,DevOps Engineer,1.9,Hyderabad,1448100.0
+30.0,Male,Bachelor's,Software Engineer,8.8,Hyderabad,2335200.0
+36.0,Male,Bachelor's,Product Manager,8.5,Pune,3145600.0
+29.0,Male,Bachelor's,Data Scientist,7.7,Bangalore,2564900.0
+27.0,Female,Bachelor's,Machine Learning Engineer,3.4,Mumbai,1784500.0
+33.0,Male,Bachelor's,Cloud Architect,7.9,Chennai,3167400.0
+27.0,Male,Master's,Machine Learning Engineer,3.2,Pune,2044900.0
+36.0,Male,Bachelor's,Machine Learning Engineer,12.8,Delhi-NCR,3638000.0
+24.0,Female,Bachelor's,DevOps Engineer,2.8,Pune,1463900.0
+33.0,Male,Bachelor's,Cloud Architect,7.6,Hyderabad,3115100.0
+34.0,Female,Bachelor's,Cloud Architect,7.3,Hyderabad,2941400.0
+27.0,Female,Bachelor's,Data Analyst,5.0,Mumbai,1208000.0
+32.0,Male,Bachelor's,Senior Software Engineer,6.0,Bangalore,2596700.0
+25.0,Male,Master's,DevOps Engineer,1.1,Mumbai,1488700.0
+24.0,Male,Bachelor's,Full Stack Developer,2.8,Bangalore,1299600.0
+37.0,Male,Bachelor's,Senior Software Engineer,10.5,Mumbai,3190200.0
+25.0,Female,Master's,UI/UX Designer,1.9,Pune,1242400.0
+23.0,Male,Bachelor's,Data Analyst,0.7,Chennai,853100.0
+34.0,Male,Bachelor's,Senior Software Engineer,6.0,Hyderabad,2432900.0
+24.0,Male,Master's,Business Analyst,2.8,Bangalore,1366500.0
+34.0,Male,Master's,Product Manager,6.1,Hyderabad,2858600.0
+32.0,Male,Bachelor's,Product Manager,7.3,Bangalore,2961600.0
+25.0,Male,Master's,DevOps Engineer,1.6,Pune,1476800.0
+25.0,Male,Bachelor's,Software Engineer,4.7,Pune,1635700.0
+24.0,Female,Bachelor's,Machine Learning Engineer,2.8,Hyderabad,1663200.0
+23.0,Female,Bachelor's,QA Engineer,2.8,Bangalore,1078700.0
+26.0,Female,Bachelor's,Data Scientist,4.7,Mumbai,2077300.0
+30.0,Female,PhD,Software Engineer,3.3,Hyderabad,1865600.0
+26.0,Male,Master's,UI/UX Designer,5.7,Delhi-NCR,1594600.0
+29.0,Male,Bachelor's,DevOps Engineer,6.6,Chennai,2029500.0
+22.0,Male,High School,Data Scientist,1.1,Bangalore,1192700.0
+25.0,Female,Master's,Data Analyst,4.8,Pune,1381700.0
+25.0,Male,Bachelor's,UI/UX Designer,4.7,Delhi-NCR,1372700.0
+28.0,Female,Bachelor's,Data Scientist,6.9,Bangalore,2363500.0
+35.0,Other,PhD,Full Stack Developer,7.0,Hyderabad,2357500.0
+31.0,Female,PhD,Data Scientist,2.2,Bangalore,2041900.0
+28.0,Female,Master's,Full Stack Developer,4.6,Hyderabad,1673100.0
+40.0,Male,Master's,Product Manager,14.3,Bangalore,4595900.0
+24.0,Female,Master's,Business Analyst,3.4,Chennai,1340100.0
+32.0,Male,Bachelor's,Cloud Architect,7.0,Bangalore,3066600.0
+26.0,Male,Master's,Business Analyst,3.1,Delhi-NCR,1424900.0
+30.0,Female,Master's,Software Engineer,6.2,Bangalore,2205600.0
+34.0,Male,Master's,Senior Software Engineer,8.1,Mumbai,3088400.0
+29.0,Male,Master's,UI/UX Designer,5.2,Bangalore,1537100.0
+27.0,Male,Master's,Data Analyst,3.8,Bangalore,1538300.0
+23.0,Male,High School,QA Engineer,2.1,Pune,810800.0
+23.0,Male,Master's,Data Analyst,1.0,Delhi-NCR,1003400.0
+25.0,Female,Master's,Business Analyst,4.1,Mumbai,1488700.0
+25.0,Female,Master's,Machine Learning Engineer,2.0,Mumbai,1731400.0
+24.0,Female,Bachelor's,DevOps Engineer,2.8,Bangalore,1362600.0
+26.0,Female,Bachelor's,Full Stack Developer,2.6,Pune,1238100.0
+23.0,Male,Bachelor's,Machine Learning Engineer,1.6,Mumbai,1377400.0
+24.0,Male,Bachelor's,Machine Learning Engineer,2.5,Mumbai,1726700.0
+34.0,Male,High School,Senior Software Engineer,7.8,Mumbai,2745700.0
+29.0,Male,Bachelor's,Data Analyst,6.8,Mumbai,1476400.0
+24.0,Male,Master's,Machine Learning Engineer,2.5,Hyderabad,1785700.0
+29.0,Female,Bachelor's,Cloud Architect,4.0,Pune,2405800.0
+26.0,Female,High School,UI/UX Designer,5.7,Bangalore,1434700.0
+24.0,Female,Master's,Data Scientist,3.7,Bangalore,1982800.0
+28.0,Female,High School,DevOps Engineer,6.5,Chennai,1945200.0
+23.0,Female,Bachelor's,Data Analyst,2.2,Bangalore,1146800.0
+25.0,Male,Master's,QA Engineer,4.3,Delhi-NCR,1272900.0
+28.0,Male,Master's,QA Engineer,4.4,Delhi-NCR,1312500.0
+24.0,Female,Bachelor's,UI/UX Designer,3.7,Bangalore,1340300.0
+26.0,Male,Bachelor's,Machine Learning Engineer,2.2,Delhi-NCR,1519900.0
+25.0,Male,Master's,Machine Learning Engineer,2.6,Hyderabad,1777600.0
+32.0,Female,Bachelor's,Cloud Architect,6.4,Bangalore,2962300.0
+35.0,Male,Bachelor's,Product Manager,9.4,Hyderabad,3449100.0
+30.0,Male,Master's,Data Scientist,7.2,Bangalore,2619700.0
+29.0,Male,PhD,DevOps Engineer,0.7,Bangalore,1531700.0
+35.0,Female,Bachelor's,Full Stack Developer,11.6,Bangalore,2628000.0
+24.0,Male,Bachelor's,Data Scientist,2.9,Bangalore,1609300.0
+30.0,Male,Master's,Product Manager,5.4,Mumbai,2786600.0
+31.0,Male,High School,Machine Learning Engineer,8.2,Bangalore,2728400.0
+34.0,Female,PhD,Software Engineer,5.7,Hyderabad,2286400.0
+31.0,Female,Bachelor's,Cloud Architect,5.0,Bangalore,2579400.0
+32.0,Male,Bachelor's,DevOps Engineer,8.2,Delhi-NCR,2350000.0
+40.0,Male,Bachelor's,Senior Software Engineer,14.7,Pune,4039900.0
+26.0,Male,Bachelor's,Business Analyst,2.3,Mumbai,1089900.0
+26.0,Female,Bachelor's,Software Engineer,5.4,Hyderabad,1715200.0
+25.0,Female,Bachelor's,Machine Learning Engineer,1.1,Delhi-NCR,1268700.0
+32.0,Male,PhD,DevOps Engineer,3.1,Hyderabad,1992900.0
+27.0,Male,Bachelor's,Machine Learning Engineer,4.8,Hyderabad,2125400.0
+28.0,Female,Bachelor's,Data Scientist,7.8,Hyderabad,2525100.0
+30.0,Female,Master's,Business Analyst,7.1,Hyderabad,1663900.0
+35.0,Male,Bachelor's,Product Manager,7.9,Bangalore,3195200.0
+24.0,Male,Master's,Machine Learning Engineer,3.3,Bangalore,1988700.0
+34.0,Other,PhD,Product Manager,9.8,Hyderabad,3787000.0
+34.0,Male,Bachelor's,DevOps Engineer,11.5,Bangalore,2904700.0
+21.0,Male,Bachelor's,UI/UX Designer,0.5,Bangalore,859200.0
+29.0,Female,PhD,Cloud Architect,4.0,Hyderabad,2660300.0
+26.0,Male,Bachelor's,Full Stack Developer,5.0,Bangalore,1575300.0
+27.0,Female,Master's,Machine Learning Engineer,5.8,Pune,2381500.0
+34.0,Female,Bachelor's,Cloud Architect,6.8,Chennai,2886800.0
+25.0,Male,Bachelor's,Business Analyst,3.7,Hyderabad,1262700.0
+34.0,Male,Bachelor's,Cloud Architect,6.9,Pune,2994300.0
+23.0,Male,Bachelor's,DevOps Engineer,1.3,Bangalore,1300100.0
+27.0,Male,Master's,Business Analyst,4.7,Bangalore,1530900.0
+30.0,Female,PhD,QA Engineer,1.6,Hyderabad,1356300.0
+26.0,Female,Master's,Full Stack Developer,2.1,Delhi-NCR,1358900.0
+28.0,Male,PhD,Business Analyst,1.2,Bangalore,1420600.0
+27.0,Male,Master's,Data Scientist,3.2,Bangalore,1928600.0
+22.0,Female,Bachelor's,Software Engineer,1.9,Bangalore,1310900.0
+26.0,Female,Bachelor's,Software Engineer,2.9,Pune,1388300.0
+29.0,Female,Bachelor's,Senior Software Engineer,4.0,Pune,2171400.0
+26.0,Male,Bachelor's,QA Engineer,3.6,Hyderabad,1108400.0
+30.0,Male,Master's,Cloud Architect,5.5,Bangalore,2793800.0
+35.0,Female,Bachelor's,Cloud Architect,7.3,Mumbai,3088200.0
+33.0,Female,Bachelor's,Senior Software Engineer,,Hyderabad,2387400.0
+32.0,Female,Master's,Data Scientist,11.6,Chennai,3486200.0
+26.0,Female,Bachelor's,Machine Learning Engineer,5.6,Pune,2200200.0
+24.0,Female,Bachelor's,UI/UX Designer,0.7,Bangalore,1001000.0
+26.0,Male,Bachelor's,Data Analyst,4.9,Hyderabad,1379300.0
+33.0,Female,PhD,Cloud Architect,7.7,Mumbai,3509400.0
+29.0,Female,Master's,Software Engineer,8.3,Hyderabad,2367700.0
+29.0,Male,Bachelor's,Data Analyst,7.1,Chennai,1468800.0
+24.0,Male,Bachelor's,Data Analyst,3.0,Delhi-NCR,1029500.0
+24.0,Female,High School,Data Analyst,0.4,Mumbai,742100.0
+32.0,Female,PhD,Senior Software Engineer,5.8,Delhi-NCR,2747100.0
+30.0,Male,Bachelor's,DevOps Engineer,7.1,Pune,2222100.0
+36.0,Male,Bachelor's,Senior Software Engineer,10.7,Pune,3228500.0
+32.0,Male,Bachelor's,Senior Software Engineer,5.8,Hyderabad,2382600.0
+23.0,Male,Bachelor's,Data Scientist,1.4,Delhi-NCR,1274200.0
+32.0,Female,Bachelor's,Product Manager,5.4,Delhi-NCR,2601800.0
+34.0,Female,Master's,Product Manager,8.0,Hyderabad,3239900.0
+27.0,Male,Bachelor's,Data Scientist,4.2,Hyderabad,1837200.0
+29.0,Female,Master's,Machine Learning Engineer,8.9,Bangalore,3088000.0
+28.0,Female,Master's,Machine Learning Engineer,7.2,Bangalore,2648100.0
+29.0,Female,Bachelor's,Data Analyst,5.2,Chennai,1445600.0
+30.0,Male,Bachelor's,Data Analyst,6.8,Bangalore,1520800.0
+21.0,Female,Master's,Machine Learning Engineer,0.9,Pune,1321100.0
+27.0,Female,Bachelor's,Data Analyst,4.1,Pune,1277100.0
+26.0,Female,Master's,DevOps Engineer,2.1,Bangalore,1542400.0
+29.0,Female,Bachelor's,Software Engineer,5.5,Pune,1784000.0
+31.0,Female,Bachelor's,Cloud Architect,4.0,Hyderabad,2420700.0
+26.0,Female,Bachelor's,Data Scientist,5.5,Bangalore,2176800.0
+27.0,Female,Bachelor's,Business Analyst,4.9,Hyderabad,1374100.0
+41.0,Male,Master's,Product Manager,13.6,Mumbai,4448400.0
+25.0,Female,Bachelor's,Full Stack Developer,2.9,Pune,1233700.0
+25.0,Female,Bachelor's,Business Analyst,1.9,Chennai,1128500.0
+29.0,Male,Master's,Business Analyst,6.3,Pune,1781800.0
+33.0,Male,Bachelor's,Cloud Architect,5.8,Bangalore,2919400.0
+26.0,Male,Master's,Business Analyst,4.8,Mumbai,1639700.0
+29.0,Female,Master's,Senior Software Engineer,4.0,Bangalore,2191600.0
+31.0,Female,Bachelor's,Senior Software Engineer,6.6,Bangalore,2583500.0
+25.0,Male,Bachelor's,Full Stack Developer,4.2,Bangalore,1557200.0
+27.0,Female,Master's,Data Scientist,6.7,Bangalore,2512000.0
+28.0,Female,PhD,DevOps Engineer,1.7,Pune,1701700.0
+22.0,Female,Bachelor's,DevOps Engineer,1.9,Mumbai,1272700.0
+26.0,Male,Bachelor's,Full Stack Developer,2.9,Delhi-NCR,1376100.0
+28.0,Male,Bachelor's,Data Scientist,6.5,Mumbai,2265000.0
+35.0,Male,Master's,Business Analyst,11.8,Delhi-NCR,2444000.0
+29.0,Male,High School,Cloud Architect,4.7,Bangalore,2485200.0
+28.0,Male,Bachelor's,UI/UX Designer,5.2,Hyderabad,1373900.0
+25.0,Female,Master's,UI/UX Designer,2.3,Pune,1279100.0
+32.0,Male,Master's,Software Engineer,10.8,Bangalore,2812000.0
+27.0,Female,High School,Software Engineer,3.7,Bangalore,1552000.0
+36.0,Female,Bachelor's,Senior Software Engineer,11.0,Hyderabad,3207200.0
+30.0,Male,PhD,Data Scientist,2.7,Pune,2086700.0
+29.0,Male,Bachelor's,DevOps Engineer,8.7,Hyderabad,2320200.0
+26.0,Male,Master's,Full Stack Developer,5.4,Mumbai,1951800.0
+23.0,Male,Bachelor's,QA Engineer,2.0,Hyderabad,903700.0
+37.0,Male,Bachelor's,Data Scientist,15.1,Mumbai,3926400.0
+27.0,Female,Bachelor's,Machine Learning Engineer,4.1,Mumbai,2113700.0
+25.0,Male,Bachelor's,Full Stack Developer,2.8,Pune,1286100.0
+24.0,Male,Bachelor's,Data Analyst,3.5,Hyderabad,1181000.0
+24.0,Female,Bachelor's,UI/UX Designer,2.8,Hyderabad,1044600.0
+24.0,Female,Bachelor's,DevOps Engineer,2.8,Pune,1341300.0
+25.0,Female,Bachelor's,UI/UX Designer,2.9,Pune,1011900.0
+25.0,Female,Bachelor's,Software Engineer,2.9,Bangalore,1489400.0
+25.0,Female,Bachelor's,Data Scientist,3.3,Hyderabad,1576900.0
+32.0,Female,PhD,DevOps Engineer,3.5,Delhi-NCR,1966600.0
+28.0,Male,Master's,QA Engineer,7.8,Pune,1573000.0
+25.0,Female,Bachelor's,UI/UX Designer,3.4,Pune,1219400.0
+31.0,Female,Master's,Senior Software Engineer,4.5,Delhi-NCR,2285500.0
+25.0,Female,Bachelor's,Full Stack Developer,1.7,Bangalore,1191000.0
+32.0,Male,Master's,Senior Software Engineer,7.2,Hyderabad,2783300.0
+26.0,Female,Master's,Business Analyst,5.6,Delhi-NCR,1772700.0
+33.0,Other,PhD,Data Analyst,6.7,Pune,1926400.0
+28.0,Female,PhD,Data Scientist,2.7,Pune,1992500.0
+34.0,Male,Bachelor's,Product Manager,6.2,Pune,2701600.0
+38.0,Female,Bachelor's,Product Manager,11.7,Pune,3737600.0
+26.0,Female,Bachelor's,Full Stack Developer,4.4,Bangalore,1553600.0
+27.0,Female,Bachelor's,Data Scientist,3.4,Pune,1668000.0
+29.0,Female,PhD,Product Manager,4.0,Mumbai,2690900.0
+26.0,Male,Bachelor's,Machine Learning Engineer,3.8,Bangalore,1988800.0
+28.0,Male,High School,DevOps Engineer,6.6,Bangalore,2106100.0
+26.0,Male,Master's,DevOps Engineer,3.4,Hyderabad,1710600.0
+35.0,Male,PhD,Data Scientist,6.8,Delhi-NCR,2766300.0
+32.0,Female,Master's,Product Manager,6.2,Pune,2871200.0
+23.0,Male,Bachelor's,Machine Learning Engineer,1.4,Delhi-NCR,1382900.0
+30.0,Female,Bachelor's,Data Analyst,8.0,Chennai,1519400.0
+28.0,Male,Bachelor's,QA Engineer,6.0,Bangalore,1356700.0
+32.0,Female,High School,Product Manager,4.0,Bangalore,2240200.0
+31.0,Female,Master's,Data Analyst,10.5,Hyderabad,2016500.0
+26.0,Other,Bachelor's,Machine Learning Engineer,4.6,Delhi-NCR,2108700.0
+25.0,Male,Master's,UI/UX Designer,2.0,Bangalore,1286000.0
+32.0,Female,Bachelor's,Cloud Architect,4.4,Hyderabad,2350900.0
+27.0,Female,,Full Stack Developer,4.0,Delhi-NCR,1421900.0
+37.0,Male,Bachelor's,Product Manager,9.4,Bangalore,3375300.0
+36.0,Male,Master's,Senior Software Engineer,10.4,Chennai,3339000.0
+35.0,Male,High School,Senior Software Engineer,7.3,Bangalore,2740800.0
+26.0,Female,Master's,Machine Learning Engineer,3.2,Mumbai,1885700.0
+,Male,Bachelor's,Software Engineer,3.3,Pune,1470100.0
+34.0,Female,Bachelor's,Product Manager,7.1,Bangalore,2959100.0
+25.0,Female,Bachelor's,Full Stack Developer,3.5,Mumbai,1487300.0
+35.0,Male,Master's,Product Manager,10.8,Bangalore,3826700.0
+26.0,Female,Master's,QA Engineer,3.6,Bangalore,1337500.0
+26.0,Male,High School,Data Scientist,4.5,Bangalore,2011500.0
+23.0,Female,Bachelor's,DevOps Engineer,0.5,Delhi-NCR,1099400.0
+24.0,Female,High School,Business Analyst,1.2,Delhi-NCR,770900.0
+24.0,Male,Bachelor's,Full Stack Developer,1.6,Mumbai,1137300.0
+26.0,Female,Bachelor's,DevOps Engineer,2.7,Hyderabad,1426700.0
+22.0,Male,Bachelor's,DevOps Engineer,1.4,Chennai,1066700.0
+32.0,Male,PhD,Cloud Architect,4.5,Hyderabad,2929200.0
+23.0,Male,Bachelor's,DevOps Engineer,1.1,Hyderabad,1173000.0
+22.0,Male,Bachelor's,Data Analyst,0.7,Pune,808300.0
+23.0,Male,Bachelor's,Software Engineer,1.1,Mumbai,1078700.0
+27.0,Female,Master's,UI/UX Designer,5.2,Hyderabad,1512400.0
+26.0,Male,Bachelor's,Full Stack Developer,4.3,Pune,1496600.0
+25.0,Male,Bachelor's,Software Engineer,2.0,Hyderabad,1260100.0
+30.0,Male,PhD,Data Analyst,3.7,Hyderabad,1546600.0
+33.0,Female,Bachelor's,Cloud Architect,7.1,Bangalore,2970300.0
+34.0,Male,PhD,UI/UX Designer,7.7,Pune,2070600.0
+25.0,Male,Master's,Data Analyst,1.4,Bangalore,1061100.0
+28.0,Male,Bachelor's,Full Stack Developer,4.4,Delhi-NCR,1455000.0
+32.0,Male,Bachelor's,Product Manager,4.6,Bangalore,2446100.0
+28.0,Female,Master's,DevOps Engineer,5.9,Pune,2247800.0
+26.0,Female,Master's,Data Analyst,3.2,Bangalore,1314200.0
+30.0,Female,Bachelor's,Senior Software Engineer,4.0,Bangalore,2212300.0
+24.0,Male,High School,Business Analyst,1.8,Pune,858900.0
+32.0,Male,High School,Product Manager,4.0,Pune,2143700.0
+32.0,Female,PhD,Cloud Architect,4.0,Mumbai,2818200.0
+33.0,Female,Bachelor's,Senior Software Engineer,7.8,Pune,2692300.0
+31.0,Male,Bachelor's,Full Stack Developer,7.2,Pune,1921800.0
+30.0,Female,Master's,Full Stack Developer,7.9,Bangalore,2241400.0
+37.0,Female,Bachelor's,Cloud Architect,11.3,Pune,3898200.0
+30.0,Male,Bachelor's,Business Analyst,7.2,Bangalore,1836500.0
+35.0,Female,Bachelor's,Product Manager,7.8,Hyderabad,3144800.0
+40.0,Male,Bachelor's,Product Manager,12.6,Mumbai,4076200.0
+35.0,Female,Master's,Cloud Architect,7.9,Mumbai,3371300.0
+25.0,Male,Bachelor's,Machine Learning Engineer,4.1,Mumbai,2044500.0
+29.0,Female,Bachelor's,Data Scientist,7.0,Hyderabad,2319200.0
+25.0,Male,Bachelor's,UI/UX Designer,4.4,Mumbai,1211500.0
+30.0,Female,Bachelor's,QA Engineer,9.4,Hyderabad,1579000.0
+27.0,Female,Master's,DevOps Engineer,3.4,Bangalore,1859700.0
+38.0,Male,Master's,Product Manager,10.9,Pune,3770900.0
+25.0,Female,Bachelor's,Full Stack Developer,2.8,Chennai,1195900.0
+24.0,Female,Bachelor's,Full Stack Developer,3.1,Pune,1208100.0
+26.0,Male,Bachelor's,UI/UX Designer,4.6,Hyderabad,1310800.0
+26.0,Other,High School,Data Scientist,4.5,Mumbai,1919500.0
+23.0,Female,Bachelor's,Data Scientist,2.7,Bangalore,1550800.0
+37.0,Male,PhD,Data Analyst,9.1,Hyderabad,2108900.0
+32.0,Male,High School,Cloud Architect,6.8,Bangalore,2946900.0
+36.0,Female,Bachelor's,Product Manager,9.5,Pune,3408000.0
+29.0,Male,PhD,QA Engineer,2.5,Hyderabad,1284500.0
+22.0,Male,Master's,Business Analyst,1.7,Pune,1139800.0
+30.0,Male,Master's,Product Manager,4.0,Bangalore,2443700.0
+32.0,Female,PhD,Senior Software Engineer,7.6,Bangalore,3165200.0
+30.0,Male,Bachelor's,Data Scientist,7.4,Delhi-NCR,2547700.0
+32.0,Female,Bachelor's,Product Manager,6.3,Bangalore,2750400.0
+32.0,Female,Bachelor's,DevOps Engineer,9.6,Hyderabad,2527300.0
+32.0,Female,Master's,QA Engineer,,Pune,1793700.0
+36.0,Male,PhD,Senior Software Engineer,9.4,Mumbai,3439400.0
+32.0,Female,Master's,Product Manager,7.5,Delhi-NCR,3080600.0
+26.0,Female,Bachelor's,QA Engineer,5.8,Bangalore,1277900.0
+31.0,Female,Bachelor's,Data Scientist,7.4,Bangalore,2477600.0
+22.0,Other,Master's,UI/UX Designer,1.3,Pune,1038400.0
+29.0,Female,Bachelor's,QA Engineer,5.9,Delhi-NCR,1405400.0
+29.0,Male,Bachelor's,UI/UX Designer,5.1,Chennai,1330800.0
+27.0,Female,Bachelor's,Business Analyst,3.6,Bangalore,1261400.0
+42.0,Male,Bachelor's,Senior Software Engineer,14.9,Bangalore,4079900.0
+27.0,Female,Bachelor's,Machine Learning Engineer,3.7,Bangalore,1905900.0
+39.0,Male,Master's,Product Manager,12.6,Bangalore,4239600.0
+26.0,Female,Bachelor's,UI/UX Designer,3.5,Hyderabad,1219300.0
+24.0,Male,Bachelor's,Software Engineer,2.6,Mumbai,1365900.0
+25.0,Female,High School,QA Engineer,1.7,Mumbai,800000.0
+25.0,Male,Bachelor's,Full Stack Developer,2.4,Mumbai,1307000.0
+26.0,Male,Bachelor's,DevOps Engineer,3.6,Mumbai,1623400.0
+29.0,Male,Master's,QA Engineer,6.2,Pune,1490400.0
+24.0,Male,Bachelor's,Data Analyst,1.7,Hyderabad,917000.0
+32.0,Female,Bachelor's,Senior Software Engineer,4.0,Bangalore,2148900.0
+24.0,Male,Bachelor's,Machine Learning Engineer,1.4,Mumbai,1331900.0
+25.0,Female,Bachelor's,Software Engineer,3.0,Mumbai,1447700.0
+33.0,Female,Master's,Product Manager,5.7,Bangalore,2796500.0
+29.0,Female,Bachelor's,Full Stack Developer,7.7,Bangalore,2097300.0
+30.0,Male,Master's,Senior Software Engineer,5.6,Hyderabad,2517500.0
+34.0,Male,Master's,Senior Software Engineer,7.1,Chennai,2738800.0
+31.0,Female,Master's,Software Engineer,9.0,Mumbai,2394300.0
+24.0,Male,High School,Data Scientist,1.9,Chennai,1242800.0
+30.0,Female,Master's,Cloud Architect,4.3,Bangalore,2583600.0
+36.0,Female,Master's,Product Manager,9.4,Delhi-NCR,3530800.0
+29.0,Male,PhD,Machine Learning Engineer,3.1,Bangalore,2175500.0
+23.0,Female,Bachelor's,QA Engineer,1.6,Pune,868600.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.0,Bangalore,2097700.0
+28.0,Male,Bachelor's,Data Scientist,4.2,Bangalore,2047600.0
+31.0,Female,PhD,Software Engineer,5.9,Pune,2218500.0
+35.0,Female,Bachelor's,Product Manager,7.1,Hyderabad,2863800.0
+35.0,Female,Bachelor's,Cloud Architect,8.5,Bangalore,3536300.0
+37.0,Male,Bachelor's,Data Scientist,14.9,Hyderabad,3894300.0
+23.0,Male,Bachelor's,Business Analyst,0.6,Bangalore,1088600.0
+28.0,Female,Bachelor's,QA Engineer,4.6,Bangalore,1247700.0
+29.0,Female,Master's,UI/UX Designer,5.9,Hyderabad,1694800.0
+25.0,Female,Master's,Business Analyst,1.8,Bangalore,1315200.0
+31.0,Male,Bachelor's,Business Analyst,10.0,Chennai,2059000.0
+35.0,Male,PhD,Business Analyst,7.4,Hyderabad,2176300.0
+38.0,Male,Bachelor's,Product Manager,13.0,Bangalore,4101700.0
+28.0,Male,Bachelor's,DevOps Engineer,4.3,Bangalore,1766100.0
+33.0,Female,PhD,Cloud Architect,6.3,Bangalore,3165700.0
+34.0,Male,Bachelor's,Cloud Architect,9.4,Delhi-NCR,3564300.0
+36.0,Female,Bachelor's,Product Manager,9.2,Hyderabad,3277600.0
+34.0,Male,Bachelor's,Cloud Architect,7.2,Mumbai,3118600.0
+26.0,Male,Bachelor's,Full Stack Developer,4.2,Pune,1486100.0
+32.0,Female,Bachelor's,UI/UX Designer,9.9,Delhi-NCR,1993400.0
+22.0,Male,Master's,Software Engineer,1.4,Bangalore,1277900.0
+29.0,Female,Master's,Senior Software Engineer,4.0,Mumbai,2202100.0
+26.0,Male,Bachelor's,Data Analyst,5.0,Bangalore,1445600.0
+23.0,Female,Bachelor's,DevOps Engineer,2.5,Hyderabad,1362500.0
+34.0,Female,PhD,Cloud Architect,9.1,Mumbai,3754800.0
+35.0,Female,Bachelor's,Cloud Architect,9.5,Pune,3445300.0
+27.0,Male,Bachelor's,Data Scientist,6.5,Bangalore,2477400.0
+26.0,Female,Master's,Business Analyst,2.1,Hyderabad,1368500.0
+22.0,Male,Bachelor's,Machine Learning Engineer,1.1,Hyderabad,1366600.0
+34.0,Male,Bachelor's,Cloud Architect,7.1,Bangalore,3146800.0
+35.0,Female,Master's,Cloud Architect,10.7,Hyderabad,3798000.0
+31.0,Female,PhD,Cloud Architect,4.0,Hyderabad,2840300.0
+33.0,Female,Bachelor's,Senior Software Engineer,7.2,Chennai,2542100.0
+23.0,Male,Master's,Machine Learning Engineer,1.8,Bangalore,1544700.0
+22.0,Female,Bachelor's,Full Stack Developer,1.9,Pune,1178300.0
+28.0,Male,Bachelor's,Data Analyst,4.5,Bangalore,1413100.0
+24.0,Female,Bachelor's,UI/UX Designer,3.7,Hyderabad,1237000.0
+35.0,Female,Bachelor's,Senior Software Engineer,8.3,Bangalore,2799700.0
+27.0,Female,Master's,Data Scientist,4.4,Bangalore,2021700.0
+31.0,Male,Bachelor's,DevOps Engineer,7.0,Bangalore,2028300.0
+32.0,Male,Bachelor's,Full Stack Developer,10.0,Bangalore,2389500.0
+26.0,Male,Master's,Software Engineer,2.9,Hyderabad,1530500.0
+30.0,Female,Master's,Data Scientist,7.8,Hyderabad,2497600.0
+27.0,Male,Bachelor's,QA Engineer,6.8,Bangalore,1446700.0
+37.0,Female,Master's,Product Manager,10.1,Mumbai,3700200.0
+26.0,Male,Master's,Data Analyst,2.8,Bangalore,1271700.0
+32.0,Male,Bachelor's,Cloud Architect,5.5,Pune,2667000.0
+25.0,Male,Bachelor's,Business Analyst,4.3,Pune,1312300.0
+23.0,Male,Bachelor's,Data Analyst,1.7,Mumbai,1005600.0
+23.0,Female,Master's,Full Stack Developer,1.1,Hyderabad,1112200.0
+30.0,Male,PhD,QA Engineer,2.2,Delhi-NCR,1395900.0
+28.0,Male,Bachelor's,DevOps Engineer,7.1,Bangalore,2273600.0
+31.0,Female,Bachelor's,Product Manager,5.7,Hyderabad,2673800.0
+30.0,Male,Master's,Full Stack Developer,7.3,Bangalore,2195700.0
+32.0,Male,Bachelor's,Data Analyst,9.3,Bangalore,1802400.0
+25.0,Male,Master's,Data Analyst,3.3,Bangalore,1327400.0
+29.0,Male,Bachelor's,Full Stack Developer,7.0,Chennai,1959400.0
+26.0,Male,Master's,QA Engineer,3.3,Pune,1211600.0
+22.0,Female,Master's,DevOps Engineer,0.7,Mumbai,1282400.0
+22.0,Female,Bachelor's,Full Stack Developer,1.3,Bangalore,1069100.0
+34.0,Female,Bachelor's,Full Stack Developer,11.7,Pune,2624500.0
+29.0,Female,Master's,Business Analyst,6.3,Pune,1694100.0
+33.0,Male,Master's,Senior Software Engineer,7.3,Hyderabad,2854600.0
+36.0,Male,Master's,Cloud Architect,9.0,Hyderabad,3593300.0
+26.0,Male,Bachelor's,Data Analyst,4.4,Delhi-NCR,1327100.0
+25.0,Male,Bachelor's,Software Engineer,2.9,Hyderabad,1449800.0
+37.0,Female,Master's,Cloud Architect,9.4,Delhi-NCR,3628000.0
+22.0,Female,Master's,Data Analyst,0.5,Chennai,948400.0
+24.0,Female,Master's,Data Analyst,1.6,Mumbai,1141000.0
+23.0,Male,Bachelor's,Machine Learning Engineer,2.0,Pune,1498200.0
+30.0,Male,Bachelor's,Data Analyst,7.7,Chennai,1601200.0
+29.0,Male,Master's,Full Stack Developer,6.0,Bangalore,1900500.0
+36.0,Female,Master's,Cloud Architect,10.3,Bangalore,3897200.0
+28.0,Female,Bachelor's,QA Engineer,4.9,Delhi-NCR,1244200.0
+34.0,Other,Bachelor's,Data Scientist,13.8,Bangalore,3712900.0
+26.0,Male,Bachelor's,Software Engineer,2.7,Pune,1422200.0
+29.0,Male,Bachelor's,UI/UX Designer,5.2,Bangalore,1522700.0
+31.0,Male,Bachelor's,DevOps Engineer,9.0,Pune,2445300.0
+26.0,Female,High School,UI/UX Designer,2.1,Mumbai,975100.0
+31.0,Male,Master's,Product Manager,4.0,Delhi-NCR,2386900.0
+22.0,Male,Bachelor's,Data Analyst,1.0,Hyderabad,856400.0
+24.0,Female,Bachelor's,Software Engineer,3.3,Bangalore,1584400.0
+24.0,Female,Master's,Data Analyst,1.1,Mumbai,1126200.0
+26.0,Female,Bachelor's,Machine Learning Engineer,4.8,Pune,2087900.0
+41.0,Female,Master's,Data Scientist,17.9,Pune,4638400.0
+35.0,Other,Master's,Senior Software Engineer,10.1,Bangalore,3342000.0
+28.0,Male,Bachelor's,Full Stack Developer,5.5,Bangalore,1690400.0
+31.0,Female,Bachelor's,Business Analyst,9.5,Chennai,1907500.0
+32.0,Male,PhD,Full Stack Developer,4.0,Delhi-NCR,1891900.0
+33.0,Male,Bachelor's,Senior Software Engineer,5.6,Delhi-NCR,2504500.0
+27.0,Male,Bachelor's,Machine Learning Engineer,3.1,Hyderabad,1611800.0
+23.0,Male,Master's,DevOps Engineer,1.5,Mumbai,1521100.0
+24.0,Female,Bachelor's,Software Engineer,3.7,Pune,1381600.0
+30.0,Female,Bachelor's,DevOps Engineer,6.8,Hyderabad,2033700.0
+31.0,Other,Master's,Software Engineer,7.4,Chennai,2442700.0
+25.0,Female,Bachelor's,DevOps Engineer,3.5,Hyderabad,1540200.0
+36.0,Male,Master's,Senior Software Engineer,11.2,Hyderabad,3585100.0
+27.0,Male,Bachelor's,UI/UX Designer,4.2,Hyderabad,1286700.0
+28.0,Female,PhD,QA Engineer,1.1,Pune,1269300.0
+31.0,Female,Bachelor's,Senior Software Engineer,4.0,Delhi-NCR,2208100.0
+31.0,Male,Bachelor's,Senior Software Engineer,6.4,Bangalore,2534000.0
+26.0,Female,Master's,Software Engineer,3.4,Mumbai,1701200.0
+36.0,Female,Master's,Business Analyst,15.6,Delhi-NCR,2918800.0
+23.0,Male,Bachelor's,UI/UX Designer,0.9,Hyderabad,849200.0
+28.0,Female,Bachelor's,DevOps Engineer,4.9,Mumbai,1879400.0
+25.0,Male,Master's,QA Engineer,2.9,Bangalore,1314600.0
+26.0,Female,Bachelor's,Full Stack Developer,5.5,Mumbai,1718000.0
+24.0,Female,Master's,DevOps Engineer,1.1,Hyderabad,1261300.0
+29.0,Other,Bachelor's,Full Stack Developer,6.0,Hyderabad,1771700.0
+23.0,Female,Master's,QA Engineer,1.6,Bangalore,1064200.0
+28.0,Male,Master's,Business Analyst,5.3,Pune,1629300.0
+32.0,Female,High School,Product Manager,5.7,Hyderabad,2493200.0
+36.0,Female,Master's,Product Manager,8.0,Delhi-NCR,3179800.0
+23.0,Female,High School,Full Stack Developer,2.7,Chennai,1074200.0
+30.0,Male,Bachelor's,Data Analyst,9.8,Hyderabad,1807300.0
+31.0,Female,Bachelor's,Business Analyst,9.3,Pune,1899600.0
+29.0,Male,Bachelor's,Business Analyst,8.5,Hyderabad,1879000.0
+33.0,Male,Bachelor's,Senior Software Engineer,6.6,Chennai,2601600.0
+32.0,Male,Bachelor's,Product Manager,4.8,Bangalore,2479600.0
+37.0,Female,PhD,UI/UX Designer,8.6,Delhi-NCR,2253200.0
+23.0,Male,Bachelor's,UI/UX Designer,1.2,Hyderabad,997500.0
+26.0,Female,Bachelor's,DevOps Engineer,4.4,Pune,1687600.0
+35.0,Female,PhD,Product Manager,10.4,Pune,3938600.0
+32.0,Male,Bachelor's,Senior Software Engineer,6.3,Chennai,2524500.0
+30.0,Male,Bachelor's,Business Analyst,6.6,Pune,1716300.0
+29.0,Female,Bachelor's,QA Engineer,7.6,Pune,1335600.0
+28.0,Female,Bachelor's,Machine Learning Engineer,5.3,Bangalore,2100100.0
+27.0,Male,Master's,Full Stack Developer,3.9,Hyderabad,1483300.0
+26.0,Female,Master's,UI/UX Designer,4.7,Mumbai,1661400.0
+32.0,Male,PhD,Full Stack Developer,4.1,Bangalore,2068200.0
+25.0,Female,Master's,QA Engineer,2.5,Delhi-NCR,1081300.0
+25.0,Male,Master's,Machine Learning Engineer,2.4,Mumbai,1721700.0
+33.0,Male,Master's,Cloud Architect,7.0,Mumbai,3106700.0
+36.0,Male,Master's,Product Manager,8.5,Pune,3293100.0
+26.0,Male,Master's,Data Scientist,2.2,Bangalore,1703500.0
+26.0,Female,Master's,Business Analyst,2.9,Hyderabad,1325200.0
+24.0,Male,Master's,UI/UX Designer,3.8,Bangalore,1432400.0
+27.0,Female,Bachelor's,Business Analyst,6.1,Hyderabad,1493400.0
+26.0,Male,Bachelor's,UI/UX Designer,4.2,Mumbai,1372200.0
+28.0,Male,Bachelor's,UI/UX Designer,4.3,Bangalore,1256300.0
+25.0,Female,Bachelor's,Machine Learning Engineer,4.9,Bangalore,2166900.0
+26.0,Female,Bachelor's,Software Engineer,2.4,Mumbai,1451000.0
+39.0,Male,Bachelor's,Product Manager,13.8,Pune,4128300.0
+23.0,Female,Bachelor's,QA Engineer,2.1,Bangalore,1025200.0
+27.0,Female,Bachelor's,Data Analyst,4.6,Delhi-NCR,1327400.0
+28.0,Male,Bachelor's,Software Engineer,4.9,Bangalore,1743600.0
+25.0,Female,Bachelor's,Machine Learning Engineer,2.7,Hyderabad,1659800.0
+35.0,Female,Master's,Senior Software Engineer,10.1,Hyderabad,3317000.0
+23.0,Female,Bachelor's,Data Scientist,1.2,Hyderabad,1271700.0
+28.0,Male,Bachelor's,UI/UX Designer,7.5,Pune,1697000.0
+32.0,Female,Bachelor's,DevOps Engineer,9.0,Chennai,2447100.0
+30.0,Female,PhD,Full Stack Developer,2.6,Delhi-NCR,1604100.0
+24.0,Female,High School,DevOps Engineer,3.9,Bangalore,1459900.0
+26.0,Male,Bachelor's,Data Analyst,5.2,Bangalore,1265800.0
+30.0,Other,Bachelor's,Software Engineer,7.6,Bangalore,2155900.0
+28.0,Female,Bachelor's,Software Engineer,6.3,Mumbai,1902300.0
+31.0,Male,Master's,Senior Software Engineer,6.0,Bangalore,2791300.0
+32.0,Female,High School,Machine Learning Engineer,8.2,Chennai,2663400.0
+38.0,Female,Bachelor's,Product Manager,11.6,Delhi-NCR,3846600.0
+33.0,Male,Bachelor's,Senior Software Engineer,7.6,Hyderabad,2751400.0
+22.0,Male,Master's,Data Scientist,1.6,Hyderabad,1543200.0
+26.0,Male,Bachelor's,DevOps Engineer,4.7,Bangalore,1764000.0
+35.0,Female,PhD,Cloud Architect,8.4,Bangalore,3606500.0
+25.0,Male,High School,Business Analyst,3.4,Pune,1077500.0
+28.0,Male,Bachelor's,Full Stack Developer,4.7,Hyderabad,1510700.0
+33.0,Male,Bachelor's,Product Manager,5.8,Pune,2798700.0
+29.0,Male,High School,Machine Learning Engineer,7.5,Pune,2490600.0
+25.0,Male,Bachelor's,UI/UX Designer,3.8,Hyderabad,1178800.0
+25.0,Female,Bachelor's,DevOps Engineer,3.1,Delhi-NCR,1464800.0
+28.0,Male,Bachelor's,DevOps Engineer,5.8,Bangalore,1917300.0
+38.0,Male,Master's,Product Manager,11.7,Mumbai,3904600.0
+24.0,Female,Master's,QA Engineer,2.3,Bangalore,1158900.0
+26.0,Female,Master's,Machine Learning Engineer,2.6,Mumbai,1634900.0
+26.0,Male,Bachelor's,Software Engineer,2.9,Pune,1315000.0
+35.0,Male,Master's,Senior Software Engineer,10.9,Hyderabad,3412500.0
+27.0,Female,Master's,Data Analyst,5.3,Hyderabad,1417300.0
+32.0,Male,Bachelor's,Product Manager,4.0,Bangalore,2294300.0
+29.0,Female,Master's,Product Manager,4.7,Bangalore,2596100.0
+24.0,Female,Master's,DevOps Engineer,3.0,Delhi-NCR,1657200.0
+22.0,Male,Bachelor's,DevOps Engineer,1.2,Pune,1165100.0
+22.0,Female,Bachelor's,UI/UX Designer,1.4,Delhi-NCR,927100.0
+27.0,Male,Bachelor's,Business Analyst,5.7,Bangalore,1579200.0
+24.0,Male,High School,Business Analyst,3.7,Bangalore,1064000.0
+30.0,Male,Master's,QA Engineer,8.6,Pune,1693200.0
+35.0,Male,PhD,DevOps Engineer,6.9,Hyderabad,2484400.0
+24.0,Female,Bachelor's,Data Scientist,2.9,Hyderabad,1517000.0
+39.0,Female,Master's,Senior Software Engineer,11.8,Mumbai,3623700.0
+24.0,Male,Master's,DevOps Engineer,2.8,Mumbai,1717900.0
+29.0,Male,Bachelor's,Cloud Architect,4.6,Mumbai,2620100.0
+21.0,Female,Bachelor's,Software Engineer,0.4,Hyderabad,997500.0
+27.0,Female,Bachelor's,Data Scientist,6.7,Delhi-NCR,2238900.0
+40.0,Other,Bachelor's,Cloud Architect,12.6,Hyderabad,4163400.0
+31.0,Male,Bachelor's,Senior Software Engineer,4.6,Hyderabad,2227500.0
+24.0,Male,Bachelor's,Data Scientist,3.1,Bangalore,1666300.0
+27.0,Male,Bachelor's,DevOps Engineer,4.9,Bangalore,1955500.0
+37.0,Male,High School,Senior Software Engineer,9.0,Delhi-NCR,2845600.0
+24.0,Female,High School,Data Scientist,1.4,Bangalore,1233000.0
+34.0,Female,Master's,Business Analyst,12.7,Hyderabad,2410000.0
+32.0,Female,Bachelor's,Product Manager,7.0,Hyderabad,2868000.0
+25.0,Male,Master's,Data Scientist,4.0,Bangalore,2009300.0
+23.0,Male,Bachelor's,Full Stack Developer,1.5,Pune,1129100.0
+27.0,Male,Master's,Data Analyst,3.6,Bangalore,1445200.0
+25.0,Male,Bachelor's,Software Engineer,4.4,Bangalore,1513300.0
+33.0,Male,PhD,Full Stack Developer,4.6,Mumbai,2014900.0
+32.0,Female,Bachelor's,QA Engineer,9.4,Pune,1612900.0
+23.0,Male,Bachelor's,Business Analyst,1.1,Bangalore,981100.0
+28.0,Male,Bachelor's,Full Stack Developer,6.1,Bangalore,1732300.0
+24.0,Male,Bachelor's,Data Scientist,1.6,Pune,1304100.0
+25.0,Male,Bachelor's,Data Analyst,4.4,Delhi-NCR,1221000.0
+32.0,Female,Bachelor's,Software Engineer,10.4,Hyderabad,2530100.0
+27.0,Male,Master's,UI/UX Designer,4.1,Mumbai,1443500.0
+29.0,Male,PhD,Senior Software Engineer,4.0,Bangalore,2492200.0
+32.0,Female,Bachelor's,Cloud Architect,4.0,Bangalore,2411600.0
+35.0,Female,Master's,Product Manager,10.6,Mumbai,3797000.0
+26.0,Female,Bachelor's,Data Analyst,5.4,Pune,1337100.0
+25.0,Male,Master's,UI/UX Designer,3.0,Hyderabad,1401300.0
+37.0,Male,Bachelor's,Senior Software Engineer,9.1,Bangalore,3067500.0
+41.0,Female,Master's,Cloud Architect,14.6,Hyderabad,4688900.0
+26.0,Male,Master's,Machine Learning Engineer,3.7,Hyderabad,1995700.0
+29.0,Male,Bachelor's,Full Stack Developer,5.3,Mumbai,1691000.0
+31.0,Male,Master's,Cloud Architect,4.4,Bangalore,2818600.0
+29.0,Male,Master's,Cloud Architect,4.5,Mumbai,2670200.0
+27.0,Female,Master's,Data Scientist,3.0,Chennai,1765900.0
+24.0,Female,Bachelor's,DevOps Engineer,2.9,Bangalore,1394000.0
+26.0,Female,Master's,Data Analyst,2.3,Mumbai,1186900.0
+27.0,Male,Bachelor's,Business Analyst,6.4,Hyderabad,1565200.0
+36.0,Female,PhD,Software Engineer,9.5,Delhi-NCR,2739700.0
+33.0,Male,Bachelor's,Cloud Architect,6.5,Bangalore,2998400.0
+34.0,Male,Master's,Product Manager,9.7,Pune,3520800.0
+22.0,Female,Master's,UI/UX Designer,1.9,Mumbai,1259000.0
+34.0,Male,Bachelor's,Product Manager,7.7,Bangalore,3016700.0
+32.0,Male,Bachelor's,Cloud Architect,7.0,Bangalore,3058100.0
+36.0,Male,Master's,Senior Software Engineer,8.8,Hyderabad,3058500.0
+25.0,Male,Bachelor's,Full Stack Developer,2.4,Bangalore,1230300.0
+36.0,Female,PhD,Cloud Architect,9.7,Chennai,3958500.0
+31.0,Male,Master's,Senior Software Engineer,5.8,Hyderabad,2551800.0
+32.0,Male,Bachelor's,Cloud Architect,4.1,Bangalore,2404000.0
+28.0,Male,Master's,Business Analyst,4.3,Hyderabad,1451500.0
+25.0,Male,Master's,Data Scientist,2.1,Mumbai,1630400.0
+34.0,Female,PhD,QA Engineer,5.3,Bangalore,1692400.0
+27.0,Female,Bachelor's,Full Stack Developer,3.1,Mumbai,1396500.0
+24.0,Male,Bachelor's,QA Engineer,3.0,Delhi-NCR,1082700.0
+31.0,Male,High School,Senior Software Engineer,4.0,Delhi-NCR,2086900.0
+27.0,Female,Bachelor's,QA Engineer,6.3,Bangalore,1403900.0
+33.0,Female,Bachelor's,DevOps Engineer,11.8,Bangalore,2977000.0
+36.0,Female,Bachelor's,QA Engineer,14.2,Mumbai,2013300.0
+24.0,Female,Bachelor's,Data Scientist,1.0,Bangalore,1390800.0
+25.0,Female,Bachelor's,Business Analyst,2.2,Mumbai,1130000.0
+24.0,Male,High School,Software Engineer,2.4,Pune,1174000.0
+34.0,Male,Bachelor's,Cloud Architect,8.8,Pune,3210600.0
+24.0,Female,Master's,Business Analyst,1.2,Pune,1085900.0
+28.0,Male,Bachelor's,Business Analyst,4.4,Bangalore,1472200.0
+26.0,Male,Master's,Data Scientist,3.3,Chennai,1804200.0
+26.0,Female,Master's,Full Stack Developer,2.5,Pune,1469700.0
+34.0,Male,Master's,Data Analyst,12.8,Bangalore,2355000.0
+29.0,Male,Bachelor's,DevOps Engineer,6.0,Chennai,2069200.0
+24.0,Male,Master's,UI/UX Designer,1.5,Hyderabad,1123800.0
+31.0,Male,Master's,Data Analyst,9.0,Delhi-NCR,1909900.0
+24.0,Female,Bachelor's,Business Analyst,1.7,Delhi-NCR,1062800.0
+33.0,Female,Bachelor's,Cloud Architect,5.7,Hyderabad,2674500.0
+33.0,Female,Bachelor's,DevOps Engineer,9.1,Mumbai,2571300.0
+30.0,Female,Master's,Machine Learning Engineer,8.8,Mumbai,3047600.0
+26.0,Female,Bachelor's,Business Analyst,3.2,Hyderabad,1212300.0
+27.0,Male,Bachelor's,QA Engineer,6.9,Bangalore,1440400.0
+24.0,Male,Bachelor's,QA Engineer,2.6,Mumbai,922300.0
+24.0,Male,Bachelor's,Data Analyst,2.6,Bangalore,1045100.0
+27.0,Male,Master's,Business Analyst,3.9,Hyderabad,1438000.0
+30.0,Female,Master's,DevOps Engineer,6.6,Bangalore,2416900.0
+26.0,Male,Bachelor's,Full Stack Developer,2.2,Bangalore,1207300.0
+22.0,Male,Bachelor's,Software Engineer,1.8,Hyderabad,1178000.0
+26.0,Male,Master's,Machine Learning Engineer,2.6,Mumbai,1742200.0
+26.0,Male,Bachelor's,Data Analyst,2.3,Pune,1006300.0
+25.0,Male,Bachelor's,Software Engineer,2.9,Chennai,1329900.0
+35.0,Female,Master's,Product Manager,10.7,Pune,3675400.0
+30.0,Male,PhD,Machine Learning Engineer,3.8,Bangalore,2297700.0
+31.0,Female,Bachelor's,Data Scientist,7.6,Bangalore,2439400.0
+26.0,Male,Bachelor's,Data Scientist,4.8,Bangalore,1902200.0
+24.0,Female,Master's,DevOps Engineer,3.1,Hyderabad,1589000.0
+25.0,Male,Master's,Data Scientist,2.3,Mumbai,1697900.0
+35.0,Female,Bachelor's,Senior Software Engineer,8.8,Pune,2794600.0
+27.0,Male,Bachelor's,QA Engineer,3.7,Bangalore,1133100.0
+23.0,Female,Bachelor's,DevOps Engineer,2.9,Hyderabad,1500600.0
+30.0,Male,Bachelor's,Software Engineer,6.1,Mumbai,1868800.0
+30.0,Female,Bachelor's,Data Scientist,7.3,Bangalore,2631200.0
+32.0,Male,PhD,Data Scientist,4.6,Chennai,2439300.0
+34.0,Male,Master's,Senior Software Engineer,,Bangalore,2998800.0
+25.0,Other,Bachelor's,DevOps Engineer,3.9,Bangalore,1702700.0
+28.0,Male,Master's,Full Stack Developer,7.3,Hyderabad,2144000.0
+33.0,Female,Bachelor's,Full Stack Developer,9.5,Hyderabad,2248000.0
+31.0,Male,Bachelor's,Data Analyst,8.7,Mumbai,1653700.0
+34.0,Female,Master's,QA Engineer,13.7,Pune,2214100.0
+23.0,Other,Bachelor's,Software Engineer,2.9,Mumbai,1384900.0
+25.0,Male,Bachelor's,Full Stack Developer,2.7,Bangalore,1343500.0
+25.0,Female,Bachelor's,UI/UX Designer,3.6,Bangalore,1271600.0
+32.0,Female,Bachelor's,Cloud Architect,4.4,Mumbai,2452700.0
+27.0,Female,Bachelor's,Machine Learning Engineer,5.5,Bangalore,2240500.0
+23.0,Female,Bachelor's,Full Stack Developer,0.9,Pune,967100.0
+32.0,Female,High School,Product Manager,5.6,Pune,2361200.0
+27.0,Male,Bachelor's,Data Scientist,3.4,Bangalore,1801900.0
+27.0,Female,High School,UI/UX Designer,6.2,Mumbai,1389100.0
+23.0,Male,Bachelor's,DevOps Engineer,1.4,Mumbai,1307000.0
+23.0,Female,Bachelor's,QA Engineer,1.3,Hyderabad,844700.0
+26.0,Female,Master's,Full Stack Developer,4.2,Bangalore,1623900.0
+29.0,Female,PhD,Data Scientist,3.1,Bangalore,2026900.0
+31.0,Female,Bachelor's,Product Manager,4.1,Mumbai,2313500.0
+35.0,Male,Bachelor's,Cloud Architect,7.1,Pune,3105500.0
+27.0,Female,Master's,Software Engineer,6.2,Bangalore,2113900.0
+32.0,Male,Bachelor's,Cloud Architect,7.5,Bangalore,3139500.0
+26.0,Female,Bachelor's,Data Scientist,3.2,Bangalore,1716300.0
+31.0,Female,Master's,Cloud Architect,4.0,Pune,2534600.0
+34.0,Female,Bachelor's,Product Manager,7.8,Bangalore,3001100.0
+27.0,Female,Bachelor's,Data Analyst,5.2,Hyderabad,1307400.0
+32.0,Other,Master's,Product Manager,7.7,Bangalore,3216800.0
+32.0,Female,High School,Cloud Architect,4.0,Hyderabad,2360400.0
+29.0,Male,PhD,UI/UX Designer,3.9,Bangalore,1811600.0
+32.0,Male,Bachelor's,Software Engineer,9.8,Bangalore,2437000.0
+26.0,Male,Bachelor's,Business Analyst,2.8,Hyderabad,1280100.0
+24.0,Male,Bachelor's,Software Engineer,2.3,Pune,1269200.0
+27.0,Female,Bachelor's,DevOps Engineer,6.9,Hyderabad,2044700.0
+26.0,Female,Bachelor's,QA Engineer,4.6,Delhi-NCR,1224700.0
+34.0,Female,Master's,Senior Software Engineer,8.7,Pune,3125200.0
+29.0,Male,Master's,Business Analyst,6.4,Mumbai,1719400.0
+25.0,Male,Bachelor's,Data Scientist,3.0,Mumbai,1643300.0
+28.0,Female,Master's,Machine Learning Engineer,4.1,Mumbai,1993200.0
+23.0,Male,Bachelor's,Machine Learning Engineer,2.5,Bangalore,1560400.0
+33.0,Female,Bachelor's,Product Manager,8.2,Mumbai,3009600.0
+31.0,Female,Bachelor's,Cloud Architect,4.8,Pune,2606600.0
+27.0,Male,Bachelor's,Software Engineer,3.8,Pune,1534300.0
+28.0,Female,Bachelor's,Business Analyst,5.0,Bangalore,1488800.0
+27.0,Male,Master's,Business Analyst,5.9,Hyderabad,1653000.0
+26.0,Male,Master's,QA Engineer,2.4,Hyderabad,1138500.0
+23.0,Male,Bachelor's,Data Scientist,2.8,Hyderabad,1536300.0
+39.0,Female,Bachelor's,Senior Software Engineer,13.3,Chennai,3893300.0
+27.0,Male,Master's,Data Analyst,6.9,Bangalore,1603100.0
+32.0,Female,Bachelor's,UI/UX Designer,8.7,Hyderabad,1844800.0
+27.0,Male,Master's,Full Stack Developer,3.9,Delhi-NCR,1545800.0
+29.0,Female,Master's,Business Analyst,5.1,Mumbai,1649200.0
+30.0,Male,PhD,Cloud Architect,4.5,Mumbai,2852100.0
+29.0,Female,Bachelor's,Data Scientist,8.8,Bangalore,2733700.0
+25.0,Female,Bachelor's,UI/UX Designer,4.9,Pune,1346300.0
+26.0,Female,Bachelor's,Data Analyst,2.1,Bangalore,1051100.0
+30.0,Female,Bachelor's,DevOps Engineer,9.2,Bangalore,2445200.0
+29.0,Female,Master's,QA Engineer,6.4,Chennai,1423300.0
+26.0,Male,Master's,Full Stack Developer,3.8,Bangalore,1599300.0
+27.0,Female,Bachelor's,UI/UX Designer,4.6,Hyderabad,1410100.0
+32.0,Female,Bachelor's,Business Analyst,9.0,Delhi-NCR,1890500.0
+25.0,Female,Bachelor's,UI/UX Designer,3.6,Bangalore,1280000.0
+27.0,Male,Bachelor's,UI/UX Designer,3.1,Hyderabad,1221000.0
+23.0,Male,Bachelor's,Machine Learning Engineer,0.9,Hyderabad,1328900.0
+30.0,Female,Bachelor's,UI/UX Designer,7.5,Delhi-NCR,1690700.0
+28.0,Male,Master's,DevOps Engineer,5.4,Delhi-NCR,2022800.0
+25.0,Male,Bachelor's,UI/UX Designer,2.3,Pune,1082400.0
+33.0,Male,Bachelor's,Data Analyst,10.6,Pune,1831600.0
+38.0,Male,Master's,Senior Software Engineer,12.5,Pune,3716000.0
+28.0,Male,PhD,Data Analyst,2.0,Hyderabad,1391700.0
+35.0,Female,PhD,QA Engineer,8.0,Bangalore,1884200.0
+26.0,Female,High School,UI/UX Designer,4.1,Pune,1280600.0
+30.0,Other,Bachelor's,Senior Software Engineer,4.0,Pune,2007400.0
+29.0,Other,Bachelor's,Business Analyst,6.1,Mumbai,1634900.0
+25.0,Male,High School,DevOps Engineer,2.1,Delhi-NCR,1279500.0
+35.0,Female,Bachelor's,Cloud Architect,7.5,Delhi-NCR,3261800.0
+24.0,Male,Master's,Data Scientist,2.4,Chennai,1595000.0
+28.0,Male,Bachelor's,QA Engineer,7.2,Pune,1400200.0
+34.0,Male,Bachelor's,Cloud Architect,7.7,Pune,3028900.0
+23.0,Male,Master's,Data Analyst,2.9,Bangalore,1216100.0
+30.0,Male,Master's,Cloud Architect,4.0,Pune,2496900.0
+27.0,Female,Bachelor's,Data Scientist,4.8,Chennai,1923700.0
+39.0,Male,Bachelor's,Cloud Architect,11.6,Delhi-NCR,4076200.0
+25.0,Female,Bachelor's,UI/UX Designer,4.2,Bangalore,1369200.0
+37.0,Female,Bachelor's,Senior Software Engineer,10.2,Pune,3000300.0
+36.0,Female,Bachelor's,Business Analyst,14.0,Delhi-NCR,2560200.0
+37.0,Female,Master's,Product Manager,9.9,Hyderabad,3648500.0
+36.0,Male,Bachelor's,Product Manager,8.8,Pune,3208300.0
+36.0,Male,Bachelor's,Product Manager,8.7,Delhi-NCR,3119500.0
+26.0,Female,Bachelor's,Software Engineer,5.4,Mumbai,1746100.0
+25.0,Male,Master's,Full Stack Developer,4.6,Hyderabad,1618100.0
+39.0,Female,PhD,Business Analyst,10.4,Delhi-NCR,2519400.0
+32.0,Female,PhD,Senior Software Engineer,4.3,Delhi-NCR,2496600.0
+28.0,Female,Bachelor's,QA Engineer,6.4,Hyderabad,1404200.0
+34.0,Male,Bachelor's,Cloud Architect,8.5,Mumbai,3345800.0
+35.0,Female,Bachelor's,Product Manager,8.5,Bangalore,3178500.0
+24.0,Male,Bachelor's,QA Engineer,3.3,Bangalore,1173500.0
+36.0,Male,Master's,Cloud Architect,11.6,Delhi-NCR,4046800.0
+34.0,Male,PhD,Product Manager,6.0,Bangalore,3218900.0
+23.0,Male,Master's,Machine Learning Engineer,1.0,Pune,1439000.0
+27.0,Female,Master's,Data Scientist,5.0,Delhi-NCR,2293700.0
+24.0,Male,Bachelor's,Data Scientist,1.6,Delhi-NCR,1246000.0
+36.0,Male,Bachelor's,Senior Software Engineer,9.8,Hyderabad,3136100.0
+30.0,Female,PhD,Data Analyst,2.0,Bangalore,1442600.0
+37.0,Female,Master's,Product Manager,9.6,Bangalore,3637700.0
+30.0,Female,Bachelor's,Cloud Architect,5.6,Chennai,2667800.0
+26.0,Female,Bachelor's,Business Analyst,4.0,Delhi-NCR,1273900.0
+24.0,Female,Master's,Machine Learning Engineer,2.2,Mumbai,1708400.0
+25.0,Male,Master's,Data Analyst,4.5,Bangalore,1472100.0
+38.0,Male,Bachelor's,Cloud Architect,10.4,Pune,3634700.0
+23.0,Male,Bachelor's,Machine Learning Engineer,2.7,Bangalore,1681800.0
+25.0,Female,High School,Software Engineer,4.0,Delhi-NCR,1464300.0
+22.0,Male,Master's,Data Scientist,0.8,Bangalore,1371200.0
+31.0,Female,Bachelor's,Senior Software Engineer,4.0,Hyderabad,2061300.0
+42.0,Female,High School,Product Manager,16.4,Delhi-NCR,4657300.0
+26.0,Female,Bachelor's,Software Engineer,5.6,Bangalore,1926400.0
+27.0,Male,Bachelor's,UI/UX Designer,5.6,Chennai,1331900.0
+30.0,Female,Bachelor's,DevOps Engineer,9.8,Hyderabad,2676500.0
+24.0,Female,Bachelor's,Full Stack Developer,3.3,Pune,1223700.0
+26.0,Male,Bachelor's,Machine Learning Engineer,2.4,Delhi-NCR,1598400.0
+32.0,Female,Bachelor's,Product Manager,7.3,Mumbai,2959500.0
+25.0,Female,Master's,Business Analyst,2.4,Hyderabad,1241100.0
+23.0,Male,Master's,Software Engineer,1.2,Bangalore,1226700.0
+26.0,Female,Bachelor's,Machine Learning Engineer,5.8,Pune,2207800.0
+28.0,Female,Master's,Data Scientist,4.2,Pune,2044400.0
+26.0,Male,Bachelor's,Machine Learning Engineer,3.7,Mumbai,1940000.0
+25.0,Female,Master's,QA Engineer,1.1,Hyderabad,1005500.0
+27.0,Female,Bachelor's,Full Stack Developer,3.9,Bangalore,1449400.0
+30.0,Male,Bachelor's,QA Engineer,6.5,Delhi-NCR,1370600.0
+24.0,Female,Bachelor's,Business Analyst,1.8,Bangalore,1058900.0
+29.0,Male,Master's,Software Engineer,5.1,Bangalore,2011700.0
+24.0,Female,Bachelor's,Data Analyst,0.9,Bangalore,1007300.0
+27.0,Female,Bachelor's,Data Analyst,6.9,Pune,1439900.0
+24.0,Female,Bachelor's,Software Engineer,1.6,Chennai,1242900.0
+24.0,Female,Master's,Data Analyst,2.6,Hyderabad,1138300.0
+23.0,Male,Master's,Machine Learning Engineer,0.2,Mumbai,1380200.0
+27.0,Male,Bachelor's,Software Engineer,4.1,Delhi-NCR,1608600.0
+31.0,Male,Master's,DevOps Engineer,10.6,Bangalore,3052000.0
+23.0,Male,Bachelor's,Full Stack Developer,2.0,Bangalore,1214800.0
+29.0,Male,Bachelor's,Business Analyst,6.1,Mumbai,1625100.0
+36.0,Female,Bachelor's,Cloud Architect,8.7,Pune,3366900.0
+33.0,Female,Bachelor's,Product Manager,5.0,Pune,2456200.0
+31.0,Female,Bachelor's,Machine Learning Engineer,9.1,Delhi-NCR,2947900.0
+31.0,Male,PhD,Software Engineer,4.3,Pune,1993100.0
+33.0,Male,Master's,Cloud Architect,5.9,Delhi-NCR,2943300.0
+27.0,Female,Bachelor's,UI/UX Designer,5.2,Hyderabad,1413400.0
+26.0,Male,Bachelor's,Business Analyst,4.7,Mumbai,1465400.0
+25.0,Male,Bachelor's,Business Analyst,1.4,Pune,1000900.0
+32.0,Male,Bachelor's,DevOps Engineer,8.4,Pune,2354800.0
+38.0,Female,PhD,Product Manager,13.5,Bangalore,4572300.0
+33.0,Female,PhD,DevOps Engineer,7.2,Mumbai,2639400.0
+28.0,Male,Bachelor's,Data Scientist,5.1,Bangalore,2003400.0
+26.0,Male,Master's,QA Engineer,2.5,Pune,1076500.0
+33.0,Female,Bachelor's,Senior Software Engineer,7.7,Pune,2692000.0
+34.0,Female,Master's,Data Scientist,10.2,Mumbai,3203000.0
+32.0,Male,High School,Cloud Architect,7.9,Chennai,3031000.0
+25.0,Male,Bachelor's,Machine Learning Engineer,3.4,Bangalore,1777500.0
+28.0,Male,PhD,UI/UX Designer,2.8,Pune,1553800.0
+27.0,Female,Bachelor's,Software Engineer,5.4,Pune,1734700.0
+29.0,Female,High School,Data Scientist,7.4,Hyderabad,2381100.0
+25.0,Male,Master's,Business Analyst,1.4,Pune,1178000.0
+27.0,Female,Master's,Software Engineer,4.8,Mumbai,1895900.0
+32.0,Male,Bachelor's,Business Analyst,10.3,Bangalore,2058000.0
+35.0,Female,Master's,Product Manager,9.5,Mumbai,3529300.0
+26.0,Male,Master's,DevOps Engineer,2.3,Pune,1504000.0
+25.0,Female,Master's,Data Analyst,2.6,Hyderabad,1228900.0
+24.0,Female,Bachelor's,Full Stack Developer,0.8,Bangalore,1141100.0
+29.0,Female,PhD,QA Engineer,2.9,Bangalore,1578100.0
+34.0,Male,Bachelor's,Product Manager,6.0,Bangalore,2559800.0
+34.0,Male,Bachelor's,Senior Software Engineer,7.4,Pune,2600400.0
+24.0,Male,Master's,Business Analyst,2.3,Pune,1247000.0
+29.0,Male,Master's,QA Engineer,5.8,Bangalore,1416100.0
+25.0,Female,Bachelor's,UI/UX Designer,3.8,Hyderabad,1248000.0
+26.0,Male,Master's,Full Stack Developer,2.9,Chennai,1497800.0
+30.0,Other,Bachelor's,Machine Learning Engineer,9.2,Delhi-NCR,2984200.0
+33.0,Male,Bachelor's,DevOps Engineer,9.2,Mumbai,2688700.0
+24.0,Female,Master's,DevOps Engineer,0.9,Bangalore,1231400.0
+22.0,Female,Bachelor's,DevOps Engineer,0.4,Bangalore,1087800.0
+31.0,Female,Master's,Machine Learning Engineer,10.3,Bangalore,3302700.0
+22.0,Male,Master's,QA Engineer,1.3,Bangalore,1005300.0
+30.0,Male,Bachelor's,Product Manager,5.4,Mumbai,2616000.0
+29.0,Female,Bachelor's,Product Manager,4.9,Mumbai,2393300.0
+27.0,Male,Bachelor's,DevOps Engineer,3.9,Bangalore,1757900.0
+28.0,Male,Bachelor's,QA Engineer,6.5,Mumbai,1330600.0
+26.0,Male,Bachelor's,Business Analyst,3.8,Pune,1114500.0
+27.0,Male,Bachelor's,UI/UX Designer,6.1,Delhi-NCR,1515800.0
+30.0,Male,PhD,Senior Software Engineer,4.0,Bangalore,2554800.0
+24.0,Male,Bachelor's,QA Engineer,2.9,Bangalore,1059400.0
+27.0,Male,Master's,Software Engineer,5.7,Mumbai,2043600.0
+35.0,Other,Bachelor's,Product Manager,10.2,Hyderabad,3564400.0
+30.0,Male,PhD,Full Stack Developer,3.0,Pune,1721900.0
+41.0,Female,Bachelor's,Cloud Architect,15.9,Bangalore,4850500.0
+27.0,Male,High School,QA Engineer,3.6,Hyderabad,1085300.0
+25.0,Male,Master's,Data Scientist,2.1,Delhi-NCR,1576700.0
+28.0,Female,PhD,Software Engineer,0.7,Delhi-NCR,1542200.0
+24.0,Female,Bachelor's,Software Engineer,2.8,Pune,1357000.0
+35.0,Male,Master's,Cloud Architect,7.7,Pune,3307900.0
+27.0,Female,Master's,Machine Learning Engineer,6.3,Pune,2581100.0
+29.0,Male,Master's,Senior Software Engineer,4.3,Hyderabad,2296500.0
+31.0,Female,Bachelor's,Cloud Architect,6.7,Hyderabad,3028900.0
+27.0,Male,,Data Scientist,3.7,Chennai,1694500.0
+25.0,Male,Master's,DevOps Engineer,,Mumbai,1986500.0
+22.0,Male,Bachelor's,DevOps Engineer,1.7,Hyderabad,1270900.0
+25.0,Female,Master's,Data Scientist,2.1,Pune,1651800.0
+33.0,Female,Master's,UI/UX Designer,9.5,Delhi-NCR,2104400.0
+26.0,Male,Master's,Data Scientist,2.6,Hyderabad,1723400.0
+26.0,Female,Bachelor's,Business Analyst,5.2,Hyderabad,1428400.0
+31.0,Male,Master's,Product Manager,6.8,Hyderabad,3131500.0
+25.0,Male,,Software Engineer,3.7,Mumbai,1508700.0
+25.0,Male,Bachelor's,Full Stack Developer,4.7,Bangalore,1619400.0
+24.0,Male,High School,QA Engineer,3.8,Hyderabad,995100.0
+24.0,Female,Bachelor's,DevOps Engineer,3.4,Bangalore,1616600.0
+28.0,Female,Bachelor's,DevOps Engineer,4.3,Hyderabad,1628500.0
+26.0,Male,Bachelor's,DevOps Engineer,3.4,Pune,1623900.0
+25.0,Male,Bachelor's,DevOps Engineer,3.8,Pune,1530400.0
+36.0,Female,Bachelor's,Product Manager,11.3,Mumbai,3771300.0
+26.0,Female,Bachelor's,DevOps Engineer,2.0,Delhi-NCR,1368300.0
+24.0,Male,Bachelor's,Machine Learning Engineer,3.3,Hyderabad,1814000.0
+27.0,Female,Bachelor's,Machine Learning Engineer,4.4,Bangalore,2018100.0
+23.0,Female,Master's,Data Scientist,1.1,Hyderabad,1422000.0
+34.0,Male,Bachelor's,Full Stack Developer,11.5,Mumbai,2620300.0
+37.0,Male,Master's,Product Manager,11.4,Chennai,3843600.0
+29.0,Male,Bachelor's,Product Manager,4.2,Chennai,2308800.0
+29.0,Male,Bachelor's,Cloud Architect,4.7,Delhi-NCR,2436000.0
+23.0,Female,Bachelor's,Business Analyst,2.2,Bangalore,1137400.0
+25.0,Male,Master's,UI/UX Designer,4.2,Delhi-NCR,1372300.0
+35.0,Female,Bachelor's,Cloud Architect,7.7,Pune,3164600.0
+32.0,Female,Master's,Software Engineer,8.0,Bangalore,2340100.0
+29.0,Female,Bachelor's,UI/UX Designer,6.9,Mumbai,1474300.0
+25.0,Female,High School,DevOps Engineer,2.9,Pune,1430100.0
+22.0,Female,Bachelor's,UI/UX Designer,0.9,Mumbai,969200.0
+37.0,Male,Bachelor's,Cloud Architect,9.6,Hyderabad,3618100.0
+24.0,Male,Bachelor's,QA Engineer,2.2,Pune,982200.0
+26.0,Female,Bachelor's,QA Engineer,5.2,Bangalore,1253000.0
+25.0,Female,Bachelor's,Machine Learning Engineer,3.0,Delhi-NCR,1643400.0
+24.0,Male,Bachelor's,Business Analyst,2.2,Pune,1108800.0
+24.0,Female,Bachelor's,Software Engineer,3.0,Bangalore,1560900.0
+30.0,Male,Master's,Cloud Architect,4.7,Bangalore,2772500.0
+26.0,Male,Bachelor's,Data Scientist,2.4,Bangalore,1558700.0
+31.0,Male,Bachelor's,Business Analyst,10.1,Delhi-NCR,2091600.0
+37.0,Other,Bachelor's,Senior Software Engineer,9.7,Hyderabad,3100100.0
+22.0,Female,Master's,Data Analyst,0.9,Pune,964600.0
+35.0,Male,Bachelor's,Data Analyst,13.6,Bangalore,2311100.0
+28.0,Female,Bachelor's,Business Analyst,4.1,Bangalore,1511300.0
+29.0,Female,High School,Business Analyst,7.3,Hyderabad,1594500.0
+24.0,Male,Bachelor's,Data Analyst,1.3,Hyderabad,891700.0
+25.0,Male,Bachelor's,UI/UX Designer,1.9,Mumbai,1079900.0
+33.0,Male,PhD,Software Engineer,5.6,Pune,2162600.0
+24.0,Male,Master's,UI/UX Designer,3.5,Mumbai,1300800.0
+24.0,Female,Bachelor's,Machine Learning Engineer,0.7,Bangalore,1251000.0
+24.0,Male,Master's,UI/UX Designer,1.5,Hyderabad,1262600.0
+27.0,Female,Bachelor's,Data Scientist,6.2,Hyderabad,2246100.0
+29.0,Male,Bachelor's,Business Analyst,5.7,Hyderabad,1491700.0
+35.0,Female,Bachelor's,Full Stack Developer,12.5,Mumbai,2624600.0
+37.0,Other,Master's,Product Manager,11.5,Mumbai,3952000.0
+40.0,Female,Bachelor's,Senior Software Engineer,12.6,Pune,3612300.0
+27.0,Male,Bachelor's,Software Engineer,3.4,Hyderabad,1391500.0
+27.0,Female,Bachelor's,QA Engineer,3.3,Bangalore,1139400.0
+24.0,Male,,Software Engineer,1.2,Mumbai,1098900.0
+28.0,Female,Bachelor's,QA Engineer,5.7,Hyderabad,1385800.0
+22.0,Female,Bachelor's,Data Scientist,1.0,Bangalore,1236900.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.9,Pune,2231400.0
+27.0,Male,Bachelor's,Machine Learning Engineer,5.8,Delhi-NCR,2461900.0
+28.0,Other,Bachelor's,Data Analyst,5.1,Bangalore,1379900.0
+32.0,Female,Bachelor's,Senior Software Engineer,4.6,Bangalore,2369800.0
+25.0,Female,Bachelor's,DevOps Engineer,3.2,Pune,1545100.0
+26.0,Male,Master's,DevOps Engineer,2.5,Hyderabad,1634600.0
+33.0,Female,PhD,UI/UX Designer,4.2,Chennai,1730200.0
+36.0,Male,Master's,Product Manager,8.0,Delhi-NCR,3171100.0
+30.0,Male,Bachelor's,QA Engineer,7.1,Bangalore,1541800.0
+39.0,Female,PhD,QA Engineer,10.0,Mumbai,2133100.0
+31.0,Female,Master's,Senior Software Engineer,4.0,Bangalore,2301900.0
+32.0,Male,Master's,Cloud Architect,4.0,Delhi-NCR,2528200.0
+26.0,Male,Bachelor's,Machine Learning Engineer,5.9,Chennai,2087800.0
+27.0,Male,Bachelor's,Machine Learning Engineer,4.3,Chennai,1879800.0
+25.0,Male,Bachelor's,UI/UX Designer,2.2,Mumbai,1140700.0
+32.0,Male,Bachelor's,Senior Software Engineer,6.1,Bangalore,2462200.0
+33.0,Female,Bachelor's,Cloud Architect,8.1,Bangalore,3087800.0
+26.0,Female,Bachelor's,Data Analyst,2.0,Mumbai,1102400.0
+29.0,Female,Bachelor's,Product Manager,4.5,Bangalore,2390100.0
+32.0,Female,Bachelor's,Cloud Architect,4.4,Pune,2428400.0
+32.0,Male,Bachelor's,Machine Learning Engineer,10.4,Hyderabad,3127800.0
+27.0,Female,Master's,UI/UX Designer,4.1,Hyderabad,1427600.0
+34.0,Female,Bachelor's,Data Analyst,10.9,Chennai,1883100.0
+25.0,Female,Master's,DevOps Engineer,4.2,Mumbai,1859400.0
+24.0,Male,Bachelor's,Software Engineer,3.6,Bangalore,1446400.0
+33.0,Male,Bachelor's,Full Stack Developer,12.2,Hyderabad,2610800.0
+25.0,Male,Bachelor's,Data Scientist,1.5,Mumbai,1352300.0
+28.0,Male,Bachelor's,Business Analyst,4.6,Mumbai,1357300.0
+22.0,Female,Bachelor's,Machine Learning Engineer,1.8,Hyderabad,1394400.0
+27.0,Female,High School,DevOps Engineer,3.4,Chennai,1442000.0
+36.0,Male,Bachelor's,Senior Software Engineer,9.9,Hyderabad,3051700.0
+27.0,Male,Bachelor's,UI/UX Designer,4.4,Bangalore,1336700.0
+36.0,Male,Bachelor's,Senior Software Engineer,8.1,Delhi-NCR,2968800.0
+30.0,Male,Bachelor's,Cloud Architect,4.0,Bangalore,2431000.0
+25.0,Male,Bachelor's,Full Stack Developer,2.3,Bangalore,1320300.0
+29.0,Female,Bachelor's,Cloud Architect,4.7,Mumbai,2531600.0
+25.0,Female,Master's,Data Scientist,1.7,Hyderabad,1556200.0
+31.0,Female,Bachelor's,Machine Learning Engineer,8.6,Delhi-NCR,2844400.0
+26.0,Female,Bachelor's,DevOps Engineer,4.0,Bangalore,1761200.0
+38.0,Male,Bachelor's,Product Manager,12.0,Hyderabad,3813100.0
+29.0,Female,Bachelor's,Cloud Architect,4.0,Mumbai,2341500.0
+27.0,Male,Master's,Software Engineer,3.3,Mumbai,1613900.0
+28.0,Male,Master's,UI/UX Designer,4.8,Pune,1486700.0
+29.0,Female,Bachelor's,Software Engineer,6.4,Mumbai,2008700.0
+23.0,Female,Master's,Software Engineer,1.8,Bangalore,1427300.0
+29.0,Female,,Cloud Architect,4.4,Bangalore,2378600.0
+27.0,Male,Bachelor's,Machine Learning Engineer,5.2,Chennai,2165200.0
+29.0,Female,Bachelor's,Data Analyst,6.1,Hyderabad,1377400.0
+27.0,Female,Bachelor's,UI/UX Designer,3.3,Hyderabad,1200400.0
+22.0,Male,Master's,Data Scientist,1.8,Mumbai,1563800.0
+24.0,Male,Bachelor's,Data Analyst,1.8,Mumbai,1039700.0
+24.0,Male,Master's,Data Scientist,2.3,Pune,1619000.0
+26.0,Male,Master's,Data Analyst,5.9,Bangalore,1549000.0
+24.0,Female,Bachelor's,Full Stack Developer,3.5,Delhi-NCR,1447000.0
+36.0,Male,Master's,Cloud Architect,8.6,Hyderabad,3690100.0
+32.0,Female,Bachelor's,Cloud Architect,4.0,Pune,2360900.0
+34.0,Male,Master's,Cloud Architect,8.8,Hyderabad,3485000.0
+26.0,Female,Master's,UI/UX Designer,4.5,Pune,1469900.0
+23.0,Female,Bachelor's,UI/UX Designer,2.0,Delhi-NCR,964600.0
+28.0,Female,Bachelor's,Data Analyst,4.3,Bangalore,1351200.0
+32.0,Male,PhD,Senior Software Engineer,5.0,Bangalore,2842700.0
+26.0,Female,Master's,QA Engineer,2.3,Chennai,1091500.0
+28.0,Male,Master's,Machine Learning Engineer,4.2,Chennai,1987800.0
+29.0,Female,Bachelor's,UI/UX Designer,8.9,Bangalore,1814000.0
+31.0,Female,Bachelor's,Product Manager,6.0,Mumbai,2643400.0
+29.0,Male,Master's,Senior Software Engineer,4.5,Delhi-NCR,2446500.0
+25.0,Female,Bachelor's,Software Engineer,4.9,Delhi-NCR,1706000.0
+28.0,Male,High School,Business Analyst,6.0,Pune,1433400.0
+34.0,Male,PhD,UI/UX Designer,5.8,Mumbai,1919200.0
+25.0,Female,Bachelor's,UI/UX Designer,3.0,Mumbai,1193500.0
+34.0,Male,Master's,Product Manager,8.8,Bangalore,3405800.0
+37.0,Female,Bachelor's,Senior Software Engineer,9.8,Chennai,3166400.0
+37.0,Male,Master's,Cloud Architect,9.7,Mumbai,3738400.0
+36.0,Male,High School,UI/UX Designer,15.9,Pune,2524500.0
+33.0,Male,Master's,Cloud Architect,5.2,Pune,2791600.0
+25.0,Male,Bachelor's,Data Analyst,4.4,Hyderabad,1227200.0
+35.0,Male,Bachelor's,Product Manager,8.8,Pune,3164500.0
+26.0,Female,Bachelor's,Machine Learning Engineer,3.8,Hyderabad,1684300.0
+34.0,Female,Bachelor's,Product Manager,9.3,Hyderabad,3375700.0
+24.0,Female,Bachelor's,Machine Learning Engineer,0.7,Mumbai,1299200.0
+31.0,Female,PhD,QA Engineer,3.4,Hyderabad,1466300.0
+24.0,Female,Bachelor's,Business Analyst,1.8,Delhi-NCR,1124800.0
+26.0,Female,Master's,Data Analyst,4.9,Hyderabad,1473500.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.0,Delhi-NCR,2138500.0
+32.0,Male,Master's,DevOps Engineer,11.9,Mumbai,3060200.0
+30.0,Female,Bachelor's,Data Scientist,6.1,Chennai,2055800.0
+32.0,Female,PhD,Software Engineer,3.7,Pune,1930700.0
+29.0,Male,Bachelor's,QA Engineer,7.3,Delhi-NCR,1495300.0
+25.0,Male,Bachelor's,Data Scientist,4.8,Pune,1897900.0
+32.0,Female,Bachelor's,Product Manager,7.1,Hyderabad,2999500.0
+28.0,Female,Bachelor's,Data Analyst,7.2,Hyderabad,1500800.0
+31.0,Male,Bachelor's,Software Engineer,8.4,Bangalore,2278900.0
+26.0,Female,Bachelor's,Machine Learning Engineer,3.0,Mumbai,1732700.0
+33.0,Female,PhD,Full Stack Developer,4.0,Mumbai,1839400.0
+31.0,Male,PhD,QA Engineer,3.6,Pune,1555800.0
+26.0,Male,Bachelor's,Machine Learning Engineer,5.4,Hyderabad,2104000.0
+31.0,Female,Bachelor's,Senior Software Engineer,4.7,Bangalore,2231400.0
+29.0,Male,High School,Cloud Architect,4.0,Pune,2204300.0
+38.0,Male,High School,Cloud Architect,10.5,Mumbai,3631100.0
+29.0,Female,Bachelor's,Data Analyst,7.6,Delhi-NCR,1586500.0
+34.0,Male,Bachelor's,Product Manager,6.1,Bangalore,2695100.0
+24.0,Male,Bachelor's,Software Engineer,2.0,Bangalore,1289900.0
+35.0,Male,Bachelor's,Cloud Architect,9.5,Bangalore,3461100.0
+25.0,Female,Bachelor's,Full Stack Developer,1.5,Delhi-NCR,1096100.0
+21.0,Female,Master's,Machine Learning Engineer,0.8,Pune,1254800.0
+23.0,Female,Bachelor's,UI/UX Designer,0.1,Delhi-NCR,860500.0
+29.0,Male,Bachelor's,Cloud Architect,4.0,Hyderabad,2367200.0
+31.0,Male,Master's,Cloud Architect,5.3,Hyderabad,2749300.0
+36.0,Female,Master's,Product Manager,8.5,Pune,3406200.0
+31.0,Male,Master's,Full Stack Developer,8.5,Mumbai,2351400.0
+29.0,Female,PhD,Data Scientist,3.7,Bangalore,2177100.0
+25.0,Female,Bachelor's,Full Stack Developer,3.6,Bangalore,1394300.0
+26.0,Male,Bachelor's,Software Engineer,4.9,Mumbai,1639600.0
+30.0,Female,Bachelor's,Senior Software Engineer,,Bangalore,2111300.0
+30.0,Male,Bachelor's,Senior Software Engineer,4.7,Bangalore,2256600.0
+38.0,Female,Bachelor's,Product Manager,12.3,Pune,3862700.0
+24.0,Male,Master's,UI/UX Designer,2.6,Hyderabad,1298600.0
+36.0,Female,Master's,DevOps Engineer,13.6,Bangalore,3550700.0
+30.0,Female,Bachelor's,Full Stack Developer,9.7,Bangalore,2360900.0
+32.0,Male,Master's,Product Manager,7.2,Pune,3124000.0
+28.0,Female,Master's,UI/UX Designer,5.7,Bangalore,1705800.0
+28.0,Female,Bachelor's,DevOps Engineer,4.7,Bangalore,1824000.0
+24.0,Female,Bachelor's,QA Engineer,1.7,Pune,949800.0
+32.0,Female,Bachelor's,Product Manager,4.0,Mumbai,2360800.0
+27.0,Male,Bachelor's,DevOps Engineer,3.4,Bangalore,1661300.0
+32.0,Male,Master's,Product Manager,4.4,Bangalore,2530500.0
+24.0,Female,Master's,DevOps Engineer,3.1,Bangalore,1635400.0
+34.0,Male,Bachelor's,Senior Software Engineer,9.1,Chennai,2987100.0
+25.0,Female,Bachelor's,Data Analyst,3.7,Delhi-NCR,1185100.0
+27.0,Male,Bachelor's,UI/UX Designer,5.2,Delhi-NCR,1346000.0
+25.0,Female,Bachelor's,Machine Learning Engineer,1.0,Chennai,1271500.0
+42.0,Male,Bachelor's,Machine Learning Engineer,20.3,Delhi-NCR,5282000.0
+23.0,Female,Bachelor's,Business Analyst,2.9,Chennai,1267800.0
+27.0,Female,Bachelor's,Business Analyst,6.1,Hyderabad,1510000.0
+25.0,Male,Bachelor's,UI/UX Designer,4.4,Hyderabad,1291600.0
+25.0,Female,Master's,Data Scientist,2.5,Bangalore,1740400.0
+26.0,Male,Bachelor's,Software Engineer,3.4,Bangalore,1428600.0
+34.0,Female,Bachelor's,Software Engineer,10.4,Hyderabad,2526200.0
+26.0,Female,Master's,Data Scientist,2.1,Bangalore,1702000.0
+27.0,Female,High School,UI/UX Designer,3.0,Mumbai,1085800.0
+29.0,Male,Bachelor's,UI/UX Designer,5.7,Pune,1476800.0
+33.0,Male,Bachelor's,Cloud Architect,5.9,Hyderabad,2764000.0
+22.0,Female,Bachelor's,UI/UX Designer,1.1,Hyderabad,828100.0
+26.0,Female,Bachelor's,Business Analyst,4.9,Bangalore,1531800.0
+31.0,Male,Bachelor's,Product Manager,4.0,Chennai,2363400.0
+33.0,Male,Bachelor's,Cloud Architect,8.5,Pune,3386500.0
+27.0,Male,Master's,Data Analyst,4.0,Bangalore,1479900.0
+26.0,Male,Master's,Software Engineer,2.6,Pune,1497000.0
+35.0,Male,Bachelor's,Cloud Architect,8.5,Hyderabad,3338500.0
+24.0,Female,Master's,Full Stack Developer,3.4,Bangalore,1594600.0
+26.0,Male,Bachelor's,QA Engineer,4.9,Hyderabad,1313200.0
+32.0,Female,PhD,Software Engineer,5.8,Delhi-NCR,2284500.0
+23.0,Other,Master's,Software Engineer,0.9,Pune,1228700.0
+29.0,Female,Bachelor's,Business Analyst,6.7,Bangalore,1661000.0
+34.0,Other,PhD,UI/UX Designer,5.7,Mumbai,1920900.0
+31.0,Male,Bachelor's,Full Stack Developer,8.5,Pune,2017800.0
+32.0,Female,Master's,Cloud Architect,4.3,Chennai,2552300.0
+26.0,Male,Master's,UI/UX Designer,2.6,Bangalore,1262200.0
+36.0,Male,Bachelor's,Product Manager,8.6,Hyderabad,3307600.0
+31.0,Male,Master's,Product Manager,6.8,Pune,2928600.0
+31.0,Female,High School,Cloud Architect,4.0,Hyderabad,2335500.0
+35.0,Male,PhD,Data Scientist,8.2,Hyderabad,2915500.0
+23.0,Male,Bachelor's,Machine Learning Engineer,0.9,Hyderabad,1368600.0
+30.0,Female,Bachelor's,UI/UX Designer,8.2,Hyderabad,1805300.0
+34.0,Female,Bachelor's,Senior Software Engineer,9.6,Bangalore,3002000.0
+29.0,Male,Bachelor's,Software Engineer,6.6,Mumbai,2014700.0
+39.0,Male,PhD,Product Manager,13.0,Chennai,4282400.0
+26.0,Male,Bachelor's,QA Engineer,4.6,Mumbai,1247300.0
+24.0,Female,Bachelor's,Data Analyst,3.8,Hyderabad,1108600.0
+27.0,Female,Master's,Software Engineer,4.1,Bangalore,1869100.0
+24.0,Male,Bachelor's,Software Engineer,3.9,Pune,1569400.0
+30.0,Female,Bachelor's,Product Manager,4.0,Hyderabad,2352800.0
+30.0,Female,PhD,UI/UX Designer,3.0,Bangalore,1674800.0
+36.0,Male,Bachelor's,Senior Software Engineer,10.3,Hyderabad,3194400.0
+25.0,Male,Bachelor's,UI/UX Designer,3.8,Bangalore,1311000.0
+31.0,Female,Master's,Software Engineer,9.0,Bangalore,2606300.0
+28.0,Male,Master's,UI/UX Designer,4.3,Chennai,1465900.0
+35.0,Female,Master's,Cloud Architect,7.3,Mumbai,3219500.0
+29.0,Female,Bachelor's,QA Engineer,8.1,Pune,1445100.0
+27.0,Female,Bachelor's,Software Engineer,6.8,Delhi-NCR,1979000.0
+26.0,Male,Bachelor's,QA Engineer,2.4,Pune,974300.0
+27.0,Male,Master's,UI/UX Designer,5.6,Pune,1625600.0
+35.0,Female,Master's,Product Manager,8.0,Hyderabad,3162800.0
+25.0,Male,Bachelor's,UI/UX Designer,4.7,Mumbai,1402100.0
+26.0,Male,Bachelor's,Full Stack Developer,3.4,Bangalore,1443700.0
+26.0,Female,Bachelor's,UI/UX Designer,4.2,Bangalore,1424300.0
+32.0,Male,High School,Product Manager,4.0,Bangalore,2343700.0
+29.0,Male,Master's,Product Manager,4.0,Pune,2355000.0
+27.0,Male,PhD,Machine Learning Engineer,1.4,Bangalore,1903700.0
+34.0,Female,Bachelor's,Senior Software Engineer,7.2,Bangalore,2702900.0
+26.0,Male,Bachelor's,Machine Learning Engineer,3.1,Chennai,1803900.0
+22.0,Male,Bachelor's,Software Engineer,0.7,Hyderabad,1041300.0
+30.0,Female,Bachelor's,Product Manager,4.0,Bangalore,2324800.0
+28.0,Male,Bachelor's,Full Stack Developer,7.5,Mumbai,2070700.0
+28.0,Female,Bachelor's,Data Analyst,7.8,Pune,1522000.0
+33.0,Female,High School,UI/UX Designer,10.4,Bangalore,1981200.0
+29.0,Female,Bachelor's,UI/UX Designer,6.4,Bangalore,1584600.0
+25.0,Male,Bachelor's,Business Analyst,1.5,Delhi-NCR,1000700.0
+32.0,Female,Master's,Product Manager,6.1,Hyderabad,2888300.0
+28.0,Female,Bachelor's,Full Stack Developer,5.2,Delhi-NCR,1657000.0
+27.0,Male,Bachelor's,Software Engineer,5.5,Bangalore,1822100.0
+29.0,Male,Bachelor's,Product Manager,4.0,Bangalore,2384100.0
+25.0,Male,Bachelor's,Data Analyst,1.6,Bangalore,1005800.0
+26.0,Female,Master's,Full Stack Developer,3.2,Bangalore,1646400.0
+29.0,Male,Bachelor's,Senior Software Engineer,4.3,Bangalore,2205400.0
+29.0,Male,Master's,Machine Learning Engineer,8.0,Mumbai,2879200.0
+35.0,Male,Master's,Machine Learning Engineer,12.6,Hyderabad,3754900.0
+24.0,Female,Bachelor's,Machine Learning Engineer,2.7,Bangalore,1657100.0
+29.0,Male,Master's,UI/UX Designer,6.4,Mumbai,1907800.0
+27.0,Female,Master's,QA Engineer,4.8,Bangalore,1266400.0
+32.0,Male,Bachelor's,Cloud Architect,4.0,Pune,2302100.0
+25.0,Female,Bachelor's,Full Stack Developer,1.7,Pune,1212600.0
+32.0,Male,Bachelor's,Senior Software Engineer,5.4,Bangalore,2301000.0
+39.0,Female,Master's,Product Manager,11.4,Hyderabad,3814900.0
+25.0,Female,Bachelor's,Business Analyst,1.2,Hyderabad,915900.0
+24.0,Male,Bachelor's,Data Analyst,2.4,Pune,1010300.0
+24.0,Male,Master's,Data Analyst,3.3,Chennai,1310700.0
+24.0,Female,Bachelor's,DevOps Engineer,3.8,Hyderabad,1593200.0
+26.0,Female,Bachelor's,QA Engineer,3.8,Mumbai,1213500.0
+25.0,Male,Bachelor's,DevOps Engineer,1.4,Chennai,1313000.0
+30.0,Male,Bachelor's,UI/UX Designer,9.3,Bangalore,1824800.0
+30.0,Female,Bachelor's,Product Manager,4.0,Delhi-NCR,2362800.0
+27.0,Male,Bachelor's,Machine Learning Engineer,3.3,Mumbai,1841500.0
+36.0,Male,Bachelor's,Cloud Architect,9.4,Hyderabad,3649800.0
+30.0,Male,Bachelor's,Cloud Architect,5.5,Hyderabad,2615700.0
+26.0,Male,Bachelor's,Machine Learning Engineer,3.2,Chennai,1660900.0
+32.0,Male,Master's,Senior Software Engineer,4.0,Chennai,2256800.0
+26.0,Female,Bachelor's,Business Analyst,3.4,Mumbai,1250800.0
+34.0,Female,Bachelor's,Senior Software Engineer,7.7,Bangalore,2819500.0
+26.0,Male,Bachelor's,Data Scientist,2.2,Pune,1574500.0
+26.0,Male,Bachelor's,Software Engineer,3.2,Hyderabad,1369400.0
+29.0,Female,Bachelor's,Data Scientist,7.3,Delhi-NCR,2353500.0
+28.0,Male,Bachelor's,Machine Learning Engineer,4.0,Mumbai,1905600.0
+32.0,Female,Bachelor's,Machine Learning Engineer,10.9,Pune,3336000.0
+30.0,Male,PhD,Software Engineer,1.2,Hyderabad,1571800.0
+28.0,Male,Master's,Data Analyst,4.4,Pune,1407000.0
+24.0,Other,Master's,QA Engineer,3.6,Bangalore,1236500.0
+28.0,Male,Bachelor's,QA Engineer,6.0,Bangalore,1327900.0
+26.0,Female,Bachelor's,QA Engineer,4.2,Pune,1224900.0
+32.0,Male,PhD,Business Analyst,6.2,Mumbai,2067600.0
+24.0,Female,Bachelor's,QA Engineer,3.3,Pune,986300.0
+28.0,Male,Bachelor's,Full Stack Developer,6.3,Bangalore,1906700.0
+34.0,Female,PhD,Data Scientist,7.7,Pune,2930800.0
+23.0,Male,Bachelor's,QA Engineer,2.0,Mumbai,1017900.0
+24.0,Male,Bachelor's,Machine Learning Engineer,3.5,Hyderabad,1709700.0
+28.0,Female,Master's,UI/UX Designer,4.8,Delhi-NCR,1509500.0
+23.0,Male,Bachelor's,Software Engineer,2.9,Bangalore,1377100.0
+33.0,Male,PhD,Business Analyst,7.0,Bangalore,2137400.0
+28.0,Male,Master's,QA Engineer,6.6,Bangalore,1539200.0
+22.0,Female,Bachelor's,Software Engineer,1.6,Bangalore,1163100.0
+24.0,Female,Bachelor's,Data Analyst,3.4,Mumbai,1091400.0
+31.0,Female,Master's,Machine Learning Engineer,8.2,Pune,2886700.0
+26.0,Female,Master's,DevOps Engineer,2.0,Bangalore,1606900.0
+25.0,Female,Master's,Data Scientist,3.2,Hyderabad,1737600.0
+23.0,Female,Bachelor's,UI/UX Designer,2.1,Bangalore,1150000.0
+36.0,Male,PhD,Cloud Architect,11.3,Mumbai,4182500.0
+24.0,Male,High School,Data Scientist,2.5,Delhi-NCR,1451100.0
+32.0,Male,Bachelor's,Data Analyst,9.6,Delhi-NCR,1824600.0
+23.0,Male,Bachelor's,Full Stack Developer,2.9,Bangalore,1281400.0
+30.0,Female,PhD,Product Manager,4.5,Mumbai,2692900.0
+27.0,Male,Bachelor's,Software Engineer,3.1,Pune,1397400.0
+26.0,Male,Bachelor's,DevOps Engineer,4.8,Mumbai,1888400.0
+23.0,Female,Bachelor's,DevOps Engineer,1.8,Bangalore,1388100.0
+35.0,Male,Bachelor's,Cloud Architect,7.8,Hyderabad,3257800.0
+24.0,Female,Bachelor's,Business Analyst,2.3,Bangalore,1270400.0
+33.0,Male,PhD,Full Stack Developer,5.6,Bangalore,2279200.0
+27.0,Female,Bachelor's,QA Engineer,3.8,Bangalore,1263100.0
+24.0,Female,Bachelor's,Data Analyst,1.0,Mumbai,936900.0
+29.0,Male,High School,Full Stack Developer,7.1,Bangalore,1748000.0
+23.0,Male,Bachelor's,Data Analyst,2.1,Bangalore,1063400.0
+28.0,Male,High School,Full Stack Developer,6.7,Delhi-NCR,1683700.0
+39.0,Male,Master's,Cloud Architect,14.2,Delhi-NCR,4632600.0
+32.0,Male,Bachelor's,Data Analyst,8.8,Hyderabad,1657800.0
+26.0,Male,Bachelor's,Full Stack Developer,2.8,Pune,1302000.0
+33.0,Female,High School,Cloud Architect,5.4,Hyderabad,2569600.0
+26.0,Male,Master's,Data Analyst,2.7,Bangalore,1322400.0
+24.0,Female,Bachelor's,Data Scientist,3.8,Pune,1641500.0
+38.0,Female,PhD,Full Stack Developer,9.1,Hyderabad,2578500.0
+26.0,Female,Bachelor's,Full Stack Developer,5.6,Delhi-NCR,1541100.0
+31.0,Female,Bachelor's,Senior Software Engineer,5.4,Hyderabad,2436000.0
+33.0,Male,Bachelor's,Senior Software Engineer,7.3,Pune,2652200.0
+23.0,Male,Master's,UI/UX Designer,2.9,Hyderabad,1324700.0
+33.0,Female,Master's,Cloud Architect,6.5,Delhi-NCR,3035800.0
+36.0,Male,Master's,QA Engineer,13.6,Delhi-NCR,2368300.0
+25.0,Female,Master's,Full Stack Developer,1.4,Bangalore,1340100.0
+37.0,Female,Bachelor's,Senior Software Engineer,11.4,Bangalore,3403100.0
+31.0,Female,Bachelor's,Data Analyst,7.9,Chennai,1635500.0
+30.0,Female,Bachelor's,Full Stack Developer,7.1,Bangalore,1945200.0
+24.0,Female,Bachelor's,Business Analyst,2.7,Bangalore,1245200.0
+26.0,Female,Master's,Business Analyst,4.3,Delhi-NCR,1409000.0
+23.0,Male,Master's,Machine Learning Engineer,2.7,Hyderabad,1826000.0
+34.0,Female,PhD,Machine Learning Engineer,8.2,Bangalore,3183900.0
+22.0,Male,Bachelor's,QA Engineer,0.9,Delhi-NCR,907100.0
+32.0,Female,Master's,Product Manager,4.1,Hyderabad,2416800.0
+25.0,Female,Bachelor's,Data Scientist,1.4,Bangalore,1428400.0
+29.0,Male,Bachelor's,UI/UX Designer,5.3,Delhi-NCR,1489600.0
+34.0,Male,Bachelor's,Senior Software Engineer,7.6,Delhi-NCR,2871200.0
+28.0,Female,Bachelor's,QA Engineer,4.2,Delhi-NCR,1150100.0
+27.0,Female,Master's,Business Analyst,4.0,Hyderabad,1336600.0
+23.0,Female,Master's,Data Scientist,2.1,Hyderabad,1505300.0
+26.0,Male,Master's,Data Analyst,4.1,Hyderabad,1280700.0
+23.0,Female,Bachelor's,Software Engineer,2.4,Pune,1347600.0
+26.0,Female,High School,Machine Learning Engineer,2.8,Mumbai,1491100.0
+29.0,Male,Bachelor's,Product Manager,4.0,Pune,2288000.0
+24.0,Male,Bachelor's,Machine Learning Engineer,3.4,Bangalore,1712100.0
+24.0,Female,Master's,QA Engineer,1.9,Bangalore,1055800.0
+26.0,Male,Bachelor's,DevOps Engineer,2.6,Pune,1283600.0
+25.0,Male,Bachelor's,Data Analyst,3.5,Bangalore,1228700.0
+32.0,Female,Bachelor's,Cloud Architect,5.2,Bangalore,2731700.0
+27.0,Male,Bachelor's,DevOps Engineer,3.7,Hyderabad,1597300.0
+29.0,Female,PhD,Machine Learning Engineer,0.9,Hyderabad,1567500.0
+37.0,Male,Bachelor's,Cloud Architect,9.0,Mumbai,3555000.0
+26.0,Female,Master's,Data Scientist,3.1,Bangalore,1909900.0
+39.0,Female,Bachelor's,Senior Software Engineer,11.0,Pune,3530800.0
+36.0,Male,Master's,Senior Software Engineer,10.9,Bangalore,3507400.0
+25.0,Male,Master's,Data Analyst,1.9,Bangalore,1141800.0
+30.0,Male,Bachelor's,Full Stack Developer,6.5,Pune,1833600.0
+23.0,Female,Master's,Data Scientist,1.8,Pune,1555100.0
+26.0,Male,Bachelor's,Business Analyst,2.6,Hyderabad,1135300.0
+27.0,Male,Master's,QA Engineer,3.1,Bangalore,1206300.0
+32.0,Female,Bachelor's,Full Stack Developer,10.7,Bangalore,2579600.0
+32.0,Female,Bachelor's,Full Stack Developer,8.2,Delhi-NCR,2110100.0
+26.0,Male,Master's,UI/UX Designer,4.3,Mumbai,1447900.0
+33.0,Female,High School,Product Manager,5.0,Hyderabad,2291000.0
+29.0,Female,Bachelor's,Senior Software Engineer,4.0,Hyderabad,2117000.0
+27.0,Male,Bachelor's,Machine Learning Engineer,4.9,Pune,2088300.0
+36.0,Female,PhD,UI/UX Designer,8.2,Mumbai,2218700.0
+27.0,Male,Bachelor's,Full Stack Developer,3.0,Delhi-NCR,1311000.0
+28.0,Male,Master's,UI/UX Designer,6.2,Hyderabad,1758500.0
+24.0,Female,Bachelor's,Software Engineer,2.1,Bangalore,1477500.0
+30.0,Male,Master's,Senior Software Engineer,4.7,Hyderabad,2390100.0
+24.0,Male,Bachelor's,Business Analyst,3.6,Bangalore,1347400.0
+26.0,Male,Bachelor's,QA Engineer,5.9,Bangalore,1491000.0
+35.0,Male,Master's,Cloud Architect,9.4,Mumbai,3709100.0
+29.0,Female,Bachelor's,Cloud Architect,4.0,Bangalore,2312200.0
+31.0,Male,Master's,Cloud Architect,4.9,Pune,2718000.0
+30.0,Female,PhD,Cloud Architect,5.3,Hyderabad,3033900.0
+32.0,Male,Master's,Senior Software Engineer,7.3,Hyderabad,2804100.0
+22.0,Female,Master's,DevOps Engineer,1.9,Hyderabad,1415000.0
+26.0,Male,Bachelor's,Business Analyst,4.6,Hyderabad,1427000.0
+34.0,Female,PhD,Software Engineer,6.7,Delhi-NCR,2431000.0
+33.0,Female,Bachelor's,Cloud Architect,6.0,Bangalore,2787600.0
+40.0,Female,High School,Product Manager,12.3,Bangalore,3967500.0
+29.0,Male,Master's,Senior Software Engineer,4.0,Mumbai,2278400.0
+34.0,Male,Bachelor's,Cloud Architect,6.2,Pune,2895100.0
+28.0,Female,Bachelor's,Business Analyst,6.3,Bangalore,1600400.0
+24.0,Male,Bachelor's,Software Engineer,2.4,Bangalore,1242300.0
+22.0,Female,Bachelor's,QA Engineer,1.7,Pune,898900.0
+34.0,Female,PhD,UI/UX Designer,6.4,Mumbai,2009200.0
+30.0,Female,Bachelor's,Product Manager,5.7,Hyderabad,2686900.0
+24.0,Male,Bachelor's,Data Scientist,1.9,Pune,1403400.0
+25.0,Male,Master's,Data Scientist,2.8,Hyderabad,1806800.0
+29.0,Female,Master's,Machine Learning Engineer,5.9,Bangalore,2490200.0
+24.0,Female,Bachelor's,QA Engineer,2.7,Hyderabad,985000.0
+27.0,Female,Bachelor's,DevOps Engineer,4.2,Delhi-NCR,1728700.0
+32.0,Female,Bachelor's,Product Manager,4.0,Hyderabad,2330000.0
+35.0,Female,Bachelor's,Senior Software Engineer,7.4,Bangalore,2840200.0
+28.0,Male,Master's,Business Analyst,5.3,Hyderabad,1697300.0
+34.0,Female,Bachelor's,Business Analyst,10.8,Pune,2101600.0
+26.0,Female,Bachelor's,Business Analyst,2.2,Bangalore,1184100.0
+29.0,Male,Master's,Data Scientist,5.5,Bangalore,2413500.0
+37.0,Male,PhD,Cloud Architect,9.6,Mumbai,4039300.0
+25.0,Female,Bachelor's,DevOps Engineer,3.1,Bangalore,1686900.0
+29.0,Male,High School,Software Engineer,5.1,Pune,1581600.0
+36.0,Female,Bachelor's,Full Stack Developer,14.2,Hyderabad,2962800.0
+26.0,Male,Master's,Machine Learning Engineer,4.2,Bangalore,2106200.0
+28.0,Male,Bachelor's,Software Engineer,5.3,Hyderabad,1847500.0
+32.0,Female,PhD,Machine Learning Engineer,4.4,Bangalore,2340100.0
+24.0,Female,High School,Data Analyst,3.4,Pune,1068500.0
+22.0,Male,Master's,Full Stack Developer,1.0,Delhi-NCR,1257400.0
+26.0,Female,Bachelor's,Data Scientist,3.7,Delhi-NCR,1710700.0
+32.0,Male,PhD,Data Scientist,3.4,Hyderabad,2034000.0
+26.0,Male,Bachelor's,DevOps Engineer,2.9,Delhi-NCR,1505200.0
+24.0,Male,Master's,DevOps Engineer,3.4,Delhi-NCR,1683800.0
+27.0,Male,Bachelor's,UI/UX Designer,3.6,Bangalore,1346800.0
+31.0,Female,Bachelor's,Cloud Architect,4.7,Pune,2502300.0
+27.0,Female,Bachelor's,Full Stack Developer,3.0,Hyderabad,1269500.0
+30.0,Male,Bachelor's,Data Analyst,6.3,Bangalore,1595500.0
+41.0,Female,Master's,Senior Software Engineer,13.7,Hyderabad,4048700.0
+34.0,Female,Master's,Product Manager,,Mumbai,3310200.0
+26.0,Male,Master's,Software Engineer,3.9,Delhi-NCR,1738200.0
+25.0,Male,Bachelor's,Software Engineer,4.0,Bangalore,1636800.0
+26.0,Female,Bachelor's,Business Analyst,3.9,Delhi-NCR,1332900.0
+24.0,Female,Bachelor's,DevOps Engineer,3.4,Hyderabad,1480900.0
+32.0,Female,Master's,Product Manager,6.1,Bangalore,2950900.0
+33.0,Male,Master's,Machine Learning Engineer,9.0,Hyderabad,3009500.0
+25.0,Male,Bachelor's,Business Analyst,3.1,Delhi-NCR,1268600.0
+29.0,Female,Bachelor's,Data Analyst,5.7,Bangalore,1519200.0
+22.0,Female,Bachelor's,UI/UX Designer,1.0,Pune,744000.0
+29.0,Female,PhD,DevOps Engineer,3.2,Mumbai,1898300.0
+26.0,Male,Master's,Machine Learning Engineer,4.0,Hyderabad,1950900.0
+28.0,Female,Master's,Software Engineer,5.0,Bangalore,1956800.0
+33.0,Female,High School,Product Manager,7.5,Chennai,2750900.0
+23.0,Female,Bachelor's,UI/UX Designer,2.2,Pune,973000.0
+22.0,Female,Bachelor's,Data Analyst,1.2,Hyderabad,975000.0
+27.0,Male,Bachelor's,Machine Learning Engineer,3.8,Bangalore,1902900.0
+35.0,Male,Bachelor's,Cloud Architect,8.1,Pune,3195400.0
+26.0,Female,Master's,Full Stack Developer,4.3,Bangalore,1669900.0
+23.0,Female,Master's,UI/UX Designer,1.4,Bangalore,1200500.0
+29.0,Male,Master's,Data Analyst,5.1,Hyderabad,1505700.0
+25.0,Female,Bachelor's,UI/UX Designer,2.0,Pune,1075200.0
+30.0,Male,Bachelor's,Cloud Architect,4.0,Pune,2375900.0
+26.0,Female,Master's,Software Engineer,2.9,Hyderabad,1602600.0
+37.0,Male,PhD,UI/UX Designer,11.9,Mumbai,2559500.0
+28.0,Male,Master's,QA Engineer,4.0,Hyderabad,1213000.0
+26.0,Male,Bachelor's,UI/UX Designer,2.8,Bangalore,1198200.0
+26.0,Male,Master's,Software Engineer,2.7,Mumbai,1511700.0
+29.0,Female,Bachelor's,Product Manager,4.0,Bangalore,2297400.0
+33.0,Male,Master's,Senior Software Engineer,5.3,Delhi-NCR,2459900.0
+28.0,Female,Bachelor's,Data Analyst,7.4,Delhi-NCR,1632700.0
+28.0,Female,Master's,Data Scientist,4.9,Bangalore,2207200.0
+27.0,Female,Master's,Full Stack Developer,4.4,Chennai,1594700.0
+29.0,Male,Bachelor's,Senior Software Engineer,4.0,Bangalore,2130400.0
+31.0,Male,Master's,Product Manager,4.0,Mumbai,2497600.0
+33.0,Male,Bachelor's,Senior Software Engineer,6.4,Hyderabad,2560400.0
+28.0,Male,Master's,Full Stack Developer,6.5,Bangalore,2143300.0
+25.0,Male,Bachelor's,Machine Learning Engineer,4.1,Pune,1884000.0
+28.0,Female,Bachelor's,QA Engineer,5.8,Bangalore,1394100.0
+25.0,Male,Bachelor's,Software Engineer,1.3,Delhi-NCR,1149000.0
+29.0,Male,Bachelor's,DevOps Engineer,5.5,Pune,1851400.0
+37.0,Female,PhD,UI/UX Designer,9.7,Hyderabad,2286000.0
+26.0,Male,Bachelor's,Data Scientist,5.3,Chennai,1950800.0
+26.0,Female,Bachelor's,UI/UX Designer,2.5,Bangalore,1118300.0
+27.0,Male,Master's,Business Analyst,4.5,Pune,1540300.0
+30.0,Male,Bachelor's,Software Engineer,6.9,Hyderabad,1890700.0
+22.0,Male,Master's,DevOps Engineer,1.5,Mumbai,1345500.0
+26.0,Male,Bachelor's,Data Analyst,3.1,Bangalore,1178400.0
+27.0,Female,Master's,Business Analyst,5.9,Hyderabad,1727000.0
+32.0,Female,Bachelor's,Cloud Architect,4.0,Chennai,2520800.0
+22.0,Female,Bachelor's,Machine Learning Engineer,1.2,Delhi-NCR,1292500.0
+24.0,Male,Bachelor's,DevOps Engineer,1.8,Bangalore,1261400.0
+28.0,Male,Bachelor's,Machine Learning Engineer,4.7,Hyderabad,2076500.0
+29.0,Male,Master's,UI/UX Designer,6.5,Pune,1652000.0
+23.0,Female,Bachelor's,Machine Learning Engineer,0.7,Hyderabad,1263600.0
+24.0,Other,Master's,Business Analyst,2.9,Delhi-NCR,1294800.0
+30.0,Male,Master's,Cloud Architect,4.0,Bangalore,2632800.0
+32.0,Female,Master's,Product Manager,7.9,Bangalore,3279400.0
+31.0,Male,Bachelor's,Senior Software Engineer,4.1,Bangalore,2166300.0
+29.0,Female,High School,Cloud Architect,4.8,Delhi-NCR,2324200.0
+32.0,Female,PhD,Full Stack Developer,4.1,Bangalore,1994700.0
+30.0,Female,Bachelor's,Machine Learning Engineer,9.1,Delhi-NCR,2927800.0
+24.0,Female,Bachelor's,Machine Learning Engineer,1.8,Pune,1387000.0
+25.0,Male,Bachelor's,Data Analyst,1.5,Delhi-NCR,915000.0
+25.0,Male,Bachelor's,Data Analyst,4.4,Hyderabad,1201700.0
+26.0,Male,Master's,DevOps Engineer,3.1,Hyderabad,1723000.0
+32.0,Female,Master's,Full Stack Developer,9.0,Bangalore,2494200.0
+30.0,Female,Bachelor's,Product Manager,4.6,Delhi-NCR,2370800.0
+25.0,Female,Bachelor's,UI/UX Designer,1.3,Mumbai,914300.0
+29.0,Male,Bachelor's,Business Analyst,5.6,Bangalore,1585200.0
+31.0,Male,Master's,Business Analyst,7.7,Bangalore,2022000.0
+23.0,Female,Bachelor's,Software Engineer,2.2,Mumbai,1261600.0
+37.0,Female,Bachelor's,Senior Software Engineer,10.4,Delhi-NCR,3328900.0
+25.0,Male,Bachelor's,QA Engineer,2.8,Delhi-NCR,1189400.0
+33.0,Male,Master's,Product Manager,7.1,Bangalore,3035300.0
+24.0,Female,High School,Business Analyst,1.6,Delhi-NCR,922600.0
+27.0,Female,Master's,Full Stack Developer,3.8,Bangalore,1623700.0
+34.0,Male,Master's,Senior Software Engineer,9.6,Hyderabad,3260300.0
+33.0,Female,Bachelor's,Product Manager,5.4,Pune,2451800.0
+26.0,Male,Master's,Machine Learning Engineer,2.3,Hyderabad,1753400.0
+24.0,Female,Bachelor's,Full Stack Developer,3.6,Bangalore,1343800.0
+33.0,Male,Master's,Senior Software Engineer,6.7,Bangalore,2804300.0
+30.0,Male,PhD,UI/UX Designer,3.5,Mumbai,1727900.0
+24.0,Female,Bachelor's,Machine Learning Engineer,2.1,Mumbai,1553100.0
+25.0,Other,Master's,Data Analyst,3.1,Delhi-NCR,1296300.0
+31.0,Male,Master's,DevOps Engineer,9.8,Hyderabad,2702100.0
+25.0,Male,Master's,Machine Learning Engineer,2.9,Delhi-NCR,1832200.0
+39.0,Female,Bachelor's,Product Manager,14.3,Bangalore,4401200.0
+36.0,Female,Bachelor's,Cloud Architect,8.1,Delhi-NCR,3297000.0
+22.0,Male,Bachelor's,Data Scientist,1.2,Bangalore,1352400.0
+25.0,Female,Bachelor's,DevOps Engineer,1.4,Hyderabad,1363300.0
+24.0,Female,Bachelor's,UI/UX Designer,1.7,Pune,1027600.0
+31.0,Male,Bachelor's,Product Manager,4.0,Bangalore,2383800.0
+27.0,Female,Master's,UI/UX Designer,6.4,Pune,1654500.0
+24.0,Male,Master's,Data Analyst,2.9,Pune,1376400.0
+29.0,Male,Bachelor's,Full Stack Developer,5.6,Bangalore,1685600.0
+,Female,Bachelor's,Business Analyst,2.7,Mumbai,1160600.0
+36.0,Male,Master's,Cloud Architect,8.9,Delhi-NCR,3589500.0
+35.0,Female,High School,Cloud Architect,8.0,Delhi-NCR,3167400.0
+29.0,Male,Master's,Cloud Architect,4.4,Bangalore,2656600.0
+23.0,Male,Bachelor's,Machine Learning Engineer,2.2,Mumbai,1616500.0
+33.0,Female,Master's,QA Engineer,11.6,Bangalore,2039100.0
+25.0,Male,Bachelor's,Machine Learning Engineer,1.9,Hyderabad,1462000.0
+33.0,Male,Master's,Cloud Architect,8.0,Pune,3363800.0
+36.0,Male,Bachelor's,Product Manager,10.6,Chennai,3430700.0
+23.0,Male,Bachelor's,Software Engineer,2.8,Mumbai,1490300.0
+32.0,Male,Master's,Machine Learning Engineer,10.8,Mumbai,3599800.0
+30.0,Female,Bachelor's,Data Scientist,7.5,Mumbai,2530400.0
+26.0,Female,Bachelor's,Software Engineer,4.1,Bangalore,1669700.0
+25.0,Female,Bachelor's,DevOps Engineer,1.5,Mumbai,1123800.0
+33.0,Male,High School,Cloud Architect,5.4,Bangalore,2603000.0
+32.0,Female,High School,Product Manager,4.2,Hyderabad,2253800.0
+25.0,Female,Master's,Data Analyst,2.4,Bangalore,1319600.0
+31.0,Male,Master's,Product Manager,4.0,Pune,2364800.0
+29.0,Female,Bachelor's,Data Scientist,8.4,Pune,2633200.0
+25.0,Female,Bachelor's,UI/UX Designer,3.3,Hyderabad,1248200.0
+23.0,Male,High School,Machine Learning Engineer,1.1,Pune,1254600.0
+26.0,Male,Master's,UI/UX Designer,4.8,Bangalore,1508200.0
+32.0,Other,Bachelor's,Cloud Architect,4.0,Delhi-NCR,2408600.0
+27.0,Male,Master's,Data Scientist,3.7,Pune,1858000.0
+36.0,Male,PhD,Software Engineer,8.0,Mumbai,2626800.0
+34.0,Male,Master's,Cloud Architect,6.1,Mumbai,3183400.0
+28.0,Male,Master's,Full Stack Developer,5.2,Pune,1590000.0
+36.0,Male,PhD,Product Manager,8.2,Hyderabad,3550400.0
+23.0,Male,Bachelor's,Machine Learning Engineer,2.5,Pune,1661000.0
+23.0,Female,Bachelor's,Software Engineer,2.9,Delhi-NCR,1316900.0
+26.0,Male,Master's,Software Engineer,3.7,Mumbai,1761100.0
+22.0,Female,Bachelor's,Data Scientist,1.8,Delhi-NCR,1404800.0
+25.0,Male,Bachelor's,UI/UX Designer,3.0,Hyderabad,1150600.0
+27.0,Male,Bachelor's,DevOps Engineer,6.2,Delhi-NCR,2024000.0
+28.0,Male,Bachelor's,Software Engineer,6.6,Mumbai,1971700.0
+30.0,Male,Master's,Product Manager,4.5,Hyderabad,2455800.0
+35.0,Male,Bachelor's,Product Manager,9.2,Bangalore,3305700.0
+24.0,Female,Master's,Data Scientist,2.2,Hyderabad,1523200.0
+29.0,Male,Bachelor's,UI/UX Designer,6.4,Mumbai,1513400.0
+38.0,Male,Bachelor's,Product Manager,12.4,Hyderabad,3832000.0
+26.0,Male,High School,Data Scientist,2.8,Mumbai,1691900.0
+26.0,Other,Master's,UI/UX Designer,5.8,Pune,1711500.0
+25.0,Male,Master's,Machine Learning Engineer,2.7,Pune,1873500.0
+32.0,Female,Bachelor's,Product Manager,4.0,Hyderabad,2259300.0
+29.0,Female,Bachelor's,Business Analyst,5.9,Delhi-NCR,1537200.0
+35.0,Female,PhD,Senior Software Engineer,7.6,Pune,3064300.0
+25.0,Male,Bachelor's,Full Stack Developer,2.2,Pune,1253800.0
+25.0,Male,Bachelor's,UI/UX Designer,1.6,Mumbai,1059900.0
+27.0,Male,Bachelor's,Software Engineer,3.7,Hyderabad,1561500.0
+31.0,Male,PhD,QA Engineer,5.9,Pune,1695200.0
+28.0,Female,Bachelor's,UI/UX Designer,5.3,Hyderabad,1427500.0
+29.0,Male,Bachelor's,Business Analyst,7.2,Bangalore,1706100.0
+30.0,Male,PhD,Machine Learning Engineer,3.7,Delhi-NCR,2257400.0
+34.0,Female,Master's,Cloud Architect,7.6,Mumbai,3211800.0
+36.0,Male,Bachelor's,QA Engineer,12.8,Bangalore,2054200.0
+25.0,Female,Bachelor's,Machine Learning Engineer,3.2,Delhi-NCR,1780900.0
+30.0,Female,High School,Software Engineer,6.1,Delhi-NCR,1867100.0
+26.0,Male,Bachelor's,Data Analyst,3.0,Hyderabad,1048300.0
+36.0,Male,Bachelor's,Senior Software Engineer,9.9,Hyderabad,3199400.0
+28.0,Female,Bachelor's,QA Engineer,4.2,Hyderabad,1108200.0
+21.0,Male,Master's,Full Stack Developer,0.9,Pune,1155600.0
+23.0,Female,Bachelor's,Data Scientist,1.6,Bangalore,1428600.0
+25.0,Male,Bachelor's,Business Analyst,4.2,Delhi-NCR,1253800.0
+22.0,Female,High School,Data Scientist,1.3,Bangalore,1325700.0
+37.0,Male,PhD,Software Engineer,8.2,Bangalore,2633100.0
+29.0,Female,Bachelor's,Product Manager,4.0,Hyderabad,2317200.0
+25.0,Female,Bachelor's,QA Engineer,3.2,Bangalore,1038200.0
+32.0,Male,High School,Cloud Architect,4.0,Pune,2143700.0
+23.0,Male,Master's,Machine Learning Engineer,2.2,Hyderabad,1492900.0
+30.0,Male,PhD,Product Manager,4.0,Mumbai,2757500.0
+22.0,Male,Bachelor's,UI/UX Designer,0.8,Hyderabad,810300.0
+26.0,Female,Bachelor's,Machine Learning Engineer,5.2,Bangalore,2135000.0
+32.0,Male,Master's,Business Analyst,8.2,Mumbai,2049800.0
+26.0,Female,High School,Software Engineer,2.4,Delhi-NCR,1260000.0
+34.0,Female,Bachelor's,Senior Software Engineer,7.4,Hyderabad,2772300.0
+25.0,Female,Bachelor's,Business Analyst,4.9,Mumbai,1481600.0
+26.0,Male,Master's,QA Engineer,2.4,Delhi-NCR,1232000.0
+21.0,Female,Master's,UI/UX Designer,0.7,Chennai,968200.0
+26.0,Female,Bachelor's,Data Scientist,3.2,Mumbai,1771200.0
+29.0,Female,Master's,DevOps Engineer,8.0,Delhi-NCR,2406400.0
+25.0,Male,Bachelor's,Machine Learning Engineer,2.2,Chennai,1492400.0
+36.0,Male,Bachelor's,Product Manager,11.1,Mumbai,3739800.0
+30.0,Male,High School,Machine Learning Engineer,8.6,Pune,2681300.0
+33.0,Female,Bachelor's,Software Engineer,12.0,Bangalore,2906800.0
+31.0,Male,Master's,QA Engineer,9.1,Delhi-NCR,1759700.0
+25.0,Female,Bachelor's,Full Stack Developer,3.2,Delhi-NCR,1421100.0
+34.0,Male,Bachelor's,Senior Software Engineer,6.0,Pune,2386700.0
+26.0,Female,Master's,Machine Learning Engineer,4.6,Bangalore,2236000.0
+35.0,Male,PhD,DevOps Engineer,8.9,Bangalore,2942300.0
+30.0,Female,Bachelor's,Product Manager,5.0,Pune,2453500.0
+30.0,Female,Master's,Senior Software Engineer,4.0,Delhi-NCR,2171700.0
+30.0,Female,Bachelor's,Product Manager,4.0,Bangalore,2424000.0
+28.0,Male,Master's,Data Scientist,4.1,Hyderabad,2026700.0
+37.0,Male,Bachelor's,Cloud Architect,9.0,Pune,3325900.0
+33.0,Male,Master's,Senior Software Engineer,7.1,Pune,2850500.0
+23.0,Male,Bachelor's,Data Scientist,2.3,Pune,1478400.0
+30.0,Female,PhD,Senior Software Engineer,4.0,Delhi-NCR,2458100.0
+27.0,Female,Master's,UI/UX Designer,4.6,Bangalore,1611800.0
+35.0,Male,Master's,Cloud Architect,8.3,Mumbai,3400000.0
+28.0,Male,Bachelor's,Data Scientist,5.1,Bangalore,2121300.0
+32.0,Female,Master's,QA Engineer,8.2,Delhi-NCR,1744200.0
+24.0,Female,High School,Data Analyst,3.7,Chennai,1055500.0
+24.0,Female,Master's,Machine Learning Engineer,2.6,Mumbai,1855000.0
+30.0,Female,Bachelor's,Data Scientist,8.4,Pune,2607100.0
+28.0,Female,PhD,QA Engineer,1.5,Pune,1345200.0
+25.0,Female,Master's,UI/UX Designer,2.1,Hyderabad,1094300.0
+24.0,Female,Master's,Machine Learning Engineer,2.6,Pune,1682900.0
+26.0,Male,Master's,Business Analyst,3.1,Chennai,1396200.0
+24.0,Male,Bachelor's,UI/UX Designer,2.4,Mumbai,1010700.0
+30.0,Female,Bachelor's,Software Engineer,7.7,Bangalore,2196400.0
+34.0,Female,Bachelor's,Business Analyst,11.3,Chennai,2103000.0
+32.0,Female,Bachelor's,Product Manager,4.0,Delhi-NCR,2376000.0
+30.0,Female,Bachelor's,Machine Learning Engineer,8.7,Hyderabad,2818400.0
+27.0,Male,Bachelor's,Machine Learning Engineer,4.4,Pune,2043300.0
+26.0,Male,Master's,Software Engineer,3.0,Pune,1455800.0
+26.0,Male,Master's,Data Scientist,3.1,Hyderabad,1858600.0
+24.0,Female,Bachelor's,UI/UX Designer,2.2,Mumbai,1158900.0
+28.0,Male,Bachelor's,DevOps Engineer,6.1,Hyderabad,1943200.0
+26.0,Female,Bachelor's,Business Analyst,2.3,Chennai,1085300.0
+22.0,Male,Bachelor's,Business Analyst,0.4,Pune,893300.0
+34.0,Male,Master's,UI/UX Designer,10.9,Bangalore,2233000.0
+37.0,Male,Bachelor's,Cloud Architect,12.7,Bangalore,4157400.0
+25.0,Female,Master's,Software Engineer,2.4,Bangalore,1562900.0
+25.0,Female,High School,QA Engineer,1.7,Bangalore,893200.0
+44.0,Female,PhD,Machine Learning Engineer,15.2,Chennai,4524400.0
+35.0,Male,Bachelor's,Senior Software Engineer,7.1,Bangalore,2826900.0
+32.0,Female,Master's,Senior Software Engineer,6.8,Pune,2697800.0
+32.0,Male,Master's,Senior Software Engineer,4.0,Mumbai,2172800.0
+26.0,Female,Bachelor's,Machine Learning Engineer,3.5,Pune,1740000.0
+35.0,Female,Bachelor's,Cloud Architect,9.0,Hyderabad,3498300.0
+25.0,Female,Bachelor's,Software Engineer,3.5,Mumbai,1544900.0
+26.0,Other,Master's,Software Engineer,3.4,Mumbai,1708300.0
+43.0,Male,Bachelor's,Product Manager,17.2,Bangalore,4881200.0
+28.0,Male,Bachelor's,Full Stack Developer,4.1,Bangalore,1507700.0
+37.0,Male,Bachelor's,Cloud Architect,10.1,Bangalore,3806600.0
+28.0,Female,High School,Full Stack Developer,7.0,Bangalore,1825800.0
+33.0,Female,Bachelor's,Business Analyst,9.0,Hyderabad,2072900.0
+28.0,Female,High School,Software Engineer,4.2,Chennai,1464400.0
+36.0,Male,Bachelor's,Cloud Architect,10.5,Chennai,3704800.0
+26.0,Male,Master's,Full Stack Developer,4.2,Hyderabad,1722000.0
+23.0,Male,Master's,Business Analyst,1.7,Mumbai,1101700.0
+22.0,Female,Bachelor's,Business Analyst,1.7,Bangalore,1020800.0
+23.0,Female,Bachelor's,Software Engineer,2.5,Hyderabad,1230400.0
+33.0,Female,High School,QA Engineer,12.6,Bangalore,2018000.0
+29.0,Male,Bachelor's,Software Engineer,8.0,Hyderabad,2132700.0
+25.0,Female,Bachelor's,QA Engineer,3.0,Hyderabad,1022900.0
+30.0,Female,Master's,Senior Software Engineer,5.1,Bangalore,2506300.0
+32.0,Female,Bachelor's,Cloud Architect,6.6,Delhi-NCR,2876800.0
+26.0,Male,Bachelor's,DevOps Engineer,3.1,Delhi-NCR,1542600.0
+29.0,Male,Bachelor's,Machine Learning Engineer,7.0,Mumbai,2614800.0
+21.0,Male,Bachelor's,Machine Learning Engineer,0.6,Bangalore,1277800.0
+37.0,Male,Bachelor's,Product Manager,10.9,Bangalore,3676400.0
+,Female,Master's,QA Engineer,3.8,Pune,1328800.0
+27.0,Female,Master's,Full Stack Developer,4.6,Pune,1865900.0
+31.0,Female,Bachelor's,Senior Software Engineer,5.5,Mumbai,2327100.0
+34.0,Female,Master's,Senior Software Engineer,6.4,Bangalore,2815700.0
+23.0,Male,High School,Full Stack Developer,2.2,Chennai,1095900.0
+26.0,Female,Bachelor's,Software Engineer,2.2,Bangalore,1344000.0
+25.0,Female,Bachelor's,Machine Learning Engineer,4.4,Hyderabad,1862000.0
+24.0,Female,Master's,Machine Learning Engineer,2.0,Hyderabad,1702500.0
+42.0,Male,Bachelor's,Machine Learning Engineer,18.9,Delhi-NCR,4966900.0
+35.0,Male,Bachelor's,Senior Software Engineer,7.4,Mumbai,2799500.0
+30.0,Female,Master's,Cloud Architect,5.5,Hyderabad,2747200.0
+24.0,Male,Bachelor's,Full Stack Developer,2.6,Pune,1214200.0
+26.0,Female,Bachelor's,QA Engineer,5.6,Hyderabad,1298800.0
+32.0,Male,Bachelor's,Senior Software Engineer,4.6,Mumbai,2266500.0
+29.0,Female,Master's,Product Manager,4.4,Pune,2388300.0
+32.0,Female,Master's,Product Manager,5.5,Mumbai,2888100.0
+23.0,Female,Bachelor's,Software Engineer,1.7,Mumbai,1182400.0
+29.0,Female,Master's,Machine Learning Engineer,6.3,Delhi-NCR,2451100.0
+33.0,Male,Master's,UI/UX Designer,11.1,Hyderabad,2266300.0
+25.0,Male,Bachelor's,Data Scientist,2.6,Chennai,1569400.0
+25.0,Male,Master's,QA Engineer,2.4,Pune,1039100.0
+32.0,Male,Master's,Cloud Architect,4.7,Mumbai,2787000.0
+27.0,Female,Bachelor's,Data Scientist,6.2,Hyderabad,2292600.0
+25.0,Female,Bachelor's,Full Stack Developer,2.5,Chennai,1301700.0
+27.0,Male,Master's,Business Analyst,3.5,Delhi-NCR,1434100.0
+25.0,Male,Bachelor's,Full Stack Developer,1.6,Delhi-NCR,1113100.0
+25.0,Male,Bachelor's,Business Analyst,1.2,Pune,951800.0
+27.0,Male,Master's,DevOps Engineer,6.5,Hyderabad,2171300.0
+22.0,Male,Bachelor's,UI/UX Designer,0.8,Bangalore,939300.0
+39.0,Female,High School,Cloud Architect,11.1,Pune,3744200.0
+30.0,Male,Bachelor's,Senior Software Engineer,5.2,Hyderabad,2251700.0
+28.0,Male,Master's,Data Analyst,5.3,Bangalore,1505000.0
+27.0,Female,Master's,DevOps Engineer,3.1,Delhi-NCR,1685900.0
+36.0,Male,Master's,Senior Software Engineer,11.9,Pune,3591300.0
+23.0,Female,Bachelor's,Data Scientist,2.7,Bangalore,1642800.0
+25.0,Male,Bachelor's,UI/UX Designer,3.1,Chennai,1207800.0
+34.0,Female,Bachelor's,Product Manager,7.2,Hyderabad,2979000.0
+33.0,Female,Bachelor's,Full Stack Developer,9.7,Chennai,2127600.0
+25.0,Male,Bachelor's,Business Analyst,1.8,Delhi-NCR,1035000.0
+26.0,Female,Master's,DevOps Engineer,4.4,Mumbai,1941900.0
+29.0,Male,Master's,Full Stack Developer,6.6,Pune,2042000.0
+21.0,Female,Bachelor's,QA Engineer,0.6,Delhi-NCR,766700.0
+25.0,Female,Bachelor's,DevOps Engineer,3.3,Chennai,1636200.0
+28.0,Female,Master's,Machine Learning Engineer,4.4,Bangalore,2092400.0
+38.0,Male,Bachelor's,Senior Software Engineer,11.1,Bangalore,3429300.0
+33.0,Female,High School,Senior Software Engineer,5.5,Mumbai,2294600.0
+28.0,Other,Bachelor's,Machine Learning Engineer,5.6,Mumbai,2232000.0
+32.0,Female,High School,Machine Learning Engineer,10.8,Pune,3103700.0
+35.0,Male,Master's,Senior Software Engineer,7.2,Pune,2896400.0
+34.0,Male,PhD,UI/UX Designer,6.6,Chennai,1941100.0
+26.0,Female,Master's,Machine Learning Engineer,3.0,Chennai,1801700.0
+27.0,Male,Bachelor's,Business Analyst,5.0,Delhi-NCR,1384900.0
+24.0,Female,Bachelor's,Business Analyst,3.1,Hyderabad,1149800.0
+26.0,Female,High School,Data Scientist,3.0,Hyderabad,1560200.0
+26.0,Male,Bachelor's,Software Engineer,4.6,Bangalore,1687500.0
+32.0,Female,Bachelor's,Data Scientist,8.1,Bangalore,2723400.0
+37.0,Female,Master's,Data Analyst,13.4,Pune,2350200.0
+23.0,Male,Bachelor's,Full Stack Developer,2.1,Bangalore,1345500.0
+26.0,Male,Master's,Full Stack Developer,2.6,Hyderabad,1451000.0
+42.0,Male,Bachelor's,Data Analyst,18.7,Bangalore,2782600.0
+29.0,Female,Master's,Machine Learning Engineer,8.6,Bangalore,3019300.0
+34.0,Male,PhD,Senior Software Engineer,7.1,Chennai,3075500.0
+22.0,Female,Master's,Data Scientist,1.6,Pune,1521400.0
+22.0,Female,Bachelor's,DevOps Engineer,0.9,Pune,1074100.0
+29.0,Male,Bachelor's,Full Stack Developer,6.2,Hyderabad,1918700.0
+24.0,Male,Bachelor's,UI/UX Designer,2.3,Delhi-NCR,983500.0
+26.0,Male,Bachelor's,DevOps Engineer,4.6,Delhi-NCR,1598500.0
+31.0,Female,Bachelor's,QA Engineer,7.8,Bangalore,1466800.0
+26.0,Female,Master's,DevOps Engineer,2.5,Bangalore,1731300.0
+22.0,Female,Bachelor's,Full Stack Developer,1.7,Delhi-NCR,1159400.0
+31.0,Male,Bachelor's,Business Analyst,8.6,Bangalore,1925500.0
+25.0,Male,Master's,Data Analyst,1.9,Pune,1166200.0
+38.0,Female,Bachelor's,Full Stack Developer,17.4,Delhi-NCR,3391600.0
+25.0,Female,Master's,UI/UX Designer,1.8,Hyderabad,1183400.0
+38.0,Male,Master's,Senior Software Engineer,13.4,Hyderabad,3839400.0
+27.0,Female,Master's,Full Stack Developer,4.3,Bangalore,1736000.0
+32.0,Male,Master's,Product Manager,4.2,Hyderabad,2571800.0
+32.0,Female,Master's,Senior Software Engineer,4.9,Bangalore,2442600.0
+42.0,Male,Master's,Cloud Architect,15.2,Hyderabad,4795100.0
+26.0,Male,Master's,Machine Learning Engineer,3.6,Hyderabad,1912700.0
+25.0,Female,Bachelor's,Business Analyst,1.8,Pune,975000.0
+26.0,Female,Master's,UI/UX Designer,4.7,Mumbai,1531800.0
+36.0,Male,Master's,Software Engineer,14.3,Bangalore,3485300.0
+25.0,Male,Master's,UI/UX Designer,3.7,Mumbai,1533700.0
+32.0,Female,Bachelor's,Cloud Architect,5.0,Delhi-NCR,2695400.0
+37.0,Female,Bachelor's,Senior Software Engineer,9.6,Mumbai,3305000.0
+23.0,Male,Bachelor's,Business Analyst,2.2,Pune,1010500.0
+31.0,Male,PhD,DevOps Engineer,3.6,Bangalore,2083000.0
+28.0,Male,Bachelor's,QA Engineer,4.3,Pune,1114200.0
+24.0,Male,Master's,Full Stack Developer,2.0,Pune,1276800.0
+31.0,Female,Bachelor's,Data Analyst,8.4,Delhi-NCR,1615700.0
+25.0,Male,Bachelor's,DevOps Engineer,4.9,Pune,1763000.0
+26.0,Male,Bachelor's,QA Engineer,4.7,Delhi-NCR,1344200.0
+36.0,Male,Bachelor's,Cloud Architect,10.1,Bangalore,3798400.0
+25.0,Female,Bachelor's,Data Scientist,4.8,Bangalore,1900500.0
+27.0,Male,Bachelor's,Data Analyst,3.7,Pune,1030500.0
+24.0,Male,Master's,Machine Learning Engineer,1.9,Pune,1608000.0
+32.0,Male,Bachelor's,Product Manager,6.3,Mumbai,2793200.0
+29.0,Male,Bachelor's,DevOps Engineer,5.2,Hyderabad,1976000.0
+30.0,Male,Bachelor's,Data Scientist,7.8,Pune,2510700.0
+25.0,Male,Bachelor's,Business Analyst,4.1,Chennai,1294600.0
+31.0,Female,PhD,Software Engineer,4.6,Hyderabad,2075400.0
+31.0,Male,Bachelor's,Senior Software Engineer,4.7,Delhi-NCR,2232000.0
+33.0,Male,Master's,Cloud Architect,6.5,Hyderabad,3097500.0
+26.0,Male,Master's,UI/UX Designer,3.6,Pune,1404800.0
+25.0,Other,Master's,Data Scientist,3.6,Mumbai,1982300.0
+21.0,Female,High School,Data Analyst,0.9,Delhi-NCR,844900.0
+29.0,Male,Bachelor's,Cloud Architect,4.3,Bangalore,2560000.0
+28.0,Male,Master's,Full Stack Developer,6.2,Chennai,1975400.0
+32.0,Female,Bachelor's,Cloud Architect,7.7,Delhi-NCR,3116400.0
+34.0,Male,Bachelor's,Cloud Architect,7.0,Chennai,2972800.0
+23.0,Male,Bachelor's,UI/UX Designer,2.5,Chennai,985000.0
+26.0,Male,Bachelor's,UI/UX Designer,2.1,Hyderabad,1041000.0
+27.0,Male,Bachelor's,Data Scientist,6.0,Delhi-NCR,2251400.0
+31.0,Female,Bachelor's,Cloud Architect,4.0,Mumbai,2420600.0
+30.0,Male,Bachelor's,DevOps Engineer,7.8,Bangalore,2348100.0
+32.0,Male,Bachelor's,Product Manager,6.0,Hyderabad,2661900.0
+31.0,Female,High School,UI/UX Designer,9.1,Delhi-NCR,1739600.0
+32.0,Male,Bachelor's,Senior Software Engineer,6.9,Bangalore,2632700.0
+30.0,Male,Master's,QA Engineer,8.4,Pune,1702600.0
+29.0,Female,PhD,Data Scientist,1.5,Bangalore,1798100.0
+26.0,Female,Bachelor's,Data Analyst,5.4,Hyderabad,1303400.0
+23.0,Male,Bachelor's,Data Scientist,1.1,Mumbai,1237300.0
+33.0,Male,Bachelor's,Cloud Architect,6.7,Mumbai,2914800.0
+26.0,Female,Bachelor's,Business Analyst,2.2,Hyderabad,1170100.0
+34.0,Male,Bachelor's,Product Manager,8.4,Mumbai,3129500.0
+24.0,Male,Bachelor's,Business Analyst,1.1,Pune,884600.0
+29.0,Male,Bachelor's,QA Engineer,6.1,Mumbai,1304100.0
+29.0,Male,PhD,QA Engineer,2.1,Mumbai,1433000.0
+33.0,Male,Bachelor's,Product Manager,5.2,Bangalore,2553600.0
+27.0,Female,Bachelor's,Business Analyst,5.4,Pune,1490100.0
+33.0,Female,Bachelor's,Senior Software Engineer,5.4,Mumbai,2468700.0
+22.0,Female,Bachelor's,UI/UX Designer,0.7,Mumbai,963500.0
+30.0,Female,Bachelor's,Business Analyst,7.1,Pune,1656300.0
+30.0,Female,Bachelor's,Machine Learning Engineer,7.9,Hyderabad,2636400.0
+39.0,Male,Bachelor's,Cloud Architect,12.8,Hyderabad,4252000.0
+32.0,Male,High School,Product Manager,4.9,Pune,2295900.0
+23.0,Male,High School,QA Engineer,2.6,Bangalore,898300.0
+26.0,Male,Bachelor's,UI/UX Designer,3.5,Bangalore,1345500.0
+29.0,Female,Master's,Business Analyst,7.3,Mumbai,1874700.0
+25.0,Male,Bachelor's,Machine Learning Engineer,2.7,Mumbai,1649300.0
+24.0,Female,Master's,Data Scientist,3.0,Mumbai,1945900.0
+21.0,Female,Master's,UI/UX Designer,0.7,Hyderabad,954700.0
+24.0,Male,Master's,Business Analyst,1.3,Bangalore,1237600.0
+26.0,Male,Bachelor's,DevOps Engineer,4.2,Delhi-NCR,1675900.0
+28.0,Female,Bachelor's,Business Analyst,6.5,Pune,1551000.0
+30.0,Male,Master's,Full Stack Developer,8.4,Pune,2196000.0
+22.0,Female,Bachelor's,Software Engineer,1.4,Hyderabad,1050900.0
+33.0,Male,PhD,Product Manager,6.1,Bangalore,3165200.0
+27.0,Male,Master's,Machine Learning Engineer,3.8,Pune,2026300.0
+28.0,Male,Bachelor's,Machine Learning Engineer,7.1,Hyderabad,2505700.0
+29.0,Male,Bachelor's,Senior Software Engineer,4.0,Mumbai,2020600.0
+24.0,Female,Bachelor's,DevOps Engineer,3.4,Hyderabad,1507800.0
+28.0,Male,Bachelor's,Data Scientist,4.3,Bangalore,1914800.0
+28.0,Male,PhD,Data Scientist,0.5,Hyderabad,1600600.0
+23.0,Male,Bachelor's,QA Engineer,2.7,Hyderabad,920400.0
+30.0,Female,PhD,Data Analyst,4.4,Bangalore,1672400.0
+27.0,Female,Master's,Software Engineer,4.6,Mumbai,1810800.0
+26.0,Female,Bachelor's,Data Analyst,3.8,Chennai,1104800.0
+25.0,Male,Bachelor's,Data Scientist,2.4,Bangalore,1599700.0
+25.0,Female,Bachelor's,Data Scientist,2.1,Bangalore,1584100.0
+25.0,Male,Bachelor's,Data Analyst,4.4,Pune,1262800.0
+31.0,Male,Bachelor's,UI/UX Designer,9.2,Pune,1786000.0
+25.0,Male,Bachelor's,DevOps Engineer,4.6,Bangalore,1766500.0
+24.0,Male,Bachelor's,Data Analyst,3.4,Bangalore,1225900.0
+26.0,Female,Bachelor's,Data Scientist,5.1,Pune,1931500.0
+29.0,Male,PhD,DevOps Engineer,2.6,Pune,1828700.0
+29.0,Female,Master's,Data Analyst,6.4,Pune,1623800.0
+26.0,Female,Bachelor's,Machine Learning Engineer,4.4,Bangalore,1953000.0
+24.0,Male,Master's,Machine Learning Engineer,2.0,Pune,1640100.0
+32.0,Female,Bachelor's,Cloud Architect,4.8,Mumbai,2620100.0
+31.0,Female,Master's,Cloud Architect,4.4,Delhi-NCR,2585200.0
+35.0,Female,PhD,Senior Software Engineer,8.0,Hyderabad,3137700.0
+33.0,Male,PhD,Cloud Architect,7.6,Delhi-NCR,3498500.0
+28.0,Male,Master's,Full Stack Developer,5.2,Mumbai,1779900.0
+28.0,Female,Master's,UI/UX Designer,4.2,Bangalore,1550500.0
+25.0,Male,High School,Data Scientist,3.2,Pune,1517100.0
+28.0,Female,Bachelor's,Data Scientist,5.5,Hyderabad,2067300.0
+22.0,Female,Bachelor's,QA Engineer,0.8,Delhi-NCR,760700.0
+31.0,Female,Bachelor's,Cloud Architect,4.4,Bangalore,2549200.0
+24.0,Male,Bachelor's,UI/UX Designer,1.9,Bangalore,1131400.0
+23.0,Male,Bachelor's,Full Stack Developer,1.1,Bangalore,1050200.0
+25.0,Female,Master's,Machine Learning Engineer,2.7,Pune,1771800.0
+27.0,Female,High School,Software Engineer,4.5,Hyderabad,1628000.0
+34.0,Male,High School,Senior Software Engineer,6.9,Hyderabad,2570100.0
+22.0,Male,Bachelor's,Data Scientist,1.4,Delhi-NCR,1144100.0
+22.0,Male,Bachelor's,Software Engineer,0.6,Mumbai,1109900.0
+24.0,Male,Bachelor's,Full Stack Developer,2.7,Bangalore,1488500.0
+32.0,Male,Bachelor's,Product Manager,4.0,Pune,2325400.0
+25.0,Female,Bachelor's,UI/UX Designer,2.6,Hyderabad,1153700.0
+31.0,Female,PhD,Business Analyst,5.2,Chennai,1929300.0
+37.0,Female,High School,Senior Software Engineer,9.2,Bangalore,2885100.0
+34.0,Male,Master's,Data Scientist,12.3,Pune,3487400.0
+23.0,Male,Master's,Machine Learning Engineer,2.7,Bangalore,1944600.0
+27.0,Female,Bachelor's,QA Engineer,3.0,Bangalore,1075900.0
+34.0,Female,Bachelor's,Cloud Architect,8.1,Bangalore,3310600.0
+36.0,Male,High School,Cloud Architect,10.7,Pune,3655200.0
+29.0,Female,PhD,Software Engineer,1.2,Mumbai,1595500.0
+39.0,Male,Master's,Senior Software Engineer,12.8,Bangalore,3873700.0
+32.0,Female,PhD,Data Analyst,5.5,Delhi-NCR,1845900.0
+28.0,Male,Bachelor's,Data Scientist,6.1,Bangalore,2229300.0
+36.0,Male,PhD,Product Manager,9.4,Chennai,3628100.0
+35.0,Male,Master's,Cloud Architect,7.7,Pune,3371400.0
+26.0,Female,Bachelor's,Full Stack Developer,2.3,Bangalore,1236600.0
+26.0,Male,Bachelor's,Software Engineer,3.6,Bangalore,1503300.0
+27.0,Male,Bachelor's,DevOps Engineer,6.3,Bangalore,2141500.0
+23.0,Female,Bachelor's,DevOps Engineer,2.6,Bangalore,1525800.0
+22.0,Male,Bachelor's,Software Engineer,0.5,Delhi-NCR,1065900.0
+39.0,Female,Bachelor's,Product Manager,11.9,Chennai,3830300.0
+26.0,Female,Bachelor's,Machine Learning Engineer,2.4,Pune,1558500.0
+28.0,Female,Master's,DevOps Engineer,6.8,Bangalore,2262600.0
+24.0,Female,High School,Data Analyst,2.1,Chennai,925900.0
+23.0,Male,Bachelor's,Software Engineer,2.4,Mumbai,1336300.0
+35.0,Male,Master's,Senior Software Engineer,9.0,Chennai,3130500.0
+28.0,Male,Bachelor's,Data Scientist,7.4,Pune,2344200.0
+35.0,Female,PhD,Product Manager,10.8,Delhi-NCR,3921100.0
+30.0,Female,Bachelor's,QA Engineer,7.1,Bangalore,1580500.0
+25.0,Male,Bachelor's,Business Analyst,2.1,Bangalore,1129600.0
+23.0,Female,Master's,Machine Learning Engineer,1.4,Pune,1613400.0
+31.0,Male,Master's,Cloud Architect,4.0,Hyderabad,2532700.0
+24.0,Female,Master's,Data Scientist,0.7,Mumbai,1460200.0
+25.0,Female,Master's,UI/UX Designer,4.5,Chennai,1398500.0
+22.0,Female,Master's,Data Analyst,1.1,Mumbai,1035200.0
+24.0,Female,Bachelor's,UI/UX Designer,3.9,Delhi-NCR,1303300.0
+29.0,Female,Bachelor's,Full Stack Developer,5.6,Hyderabad,1707600.0
+31.0,Male,Bachelor's,Machine Learning Engineer,10.3,Bangalore,3180700.0
+30.0,Female,Bachelor's,QA Engineer,7.0,Hyderabad,1317300.0
+26.0,Male,Bachelor's,QA Engineer,3.5,Pune,1054000.0
+34.0,Female,Bachelor's,Senior Software Engineer,7.7,Mumbai,2902700.0
+34.0,Male,High School,Senior Software Engineer,8.3,Delhi-NCR,2738500.0
+27.0,Male,Bachelor's,Data Scientist,3.2,Hyderabad,1732100.0
+25.0,Male,Bachelor's,Machine Learning Engineer,3.2,Bangalore,1764500.0
+32.0,Male,Bachelor's,Cloud Architect,7.0,Bangalore,3016200.0
+35.0,Male,Bachelor's,Cloud Architect,7.2,Chennai,3079400.0
+28.0,Male,Bachelor's,DevOps Engineer,4.9,Hyderabad,1820300.0
+29.0,Female,Bachelor's,DevOps Engineer,8.9,Hyderabad,2468500.0
+33.0,Male,Master's,Cloud Architect,6.4,Mumbai,3063700.0
+34.0,Female,Bachelor's,Cloud Architect,6.9,Hyderabad,2937200.0
+28.0,Female,Bachelor's,DevOps Engineer,4.5,Bangalore,1875800.0
+33.0,Other,Master's,Senior Software Engineer,7.3,Bangalore,2875200.0
+30.0,Female,Bachelor's,Software Engineer,9.7,Delhi-NCR,2441800.0
+23.0,Female,Master's,Machine Learning Engineer,1.8,Bangalore,1628600.0
+32.0,Female,PhD,Data Analyst,4.0,Bangalore,1687200.0
+27.0,Female,Bachelor's,Data Analyst,3.4,Bangalore,1140100.0
+32.0,Female,Bachelor's,Cloud Architect,4.0,Pune,2360900.0
+27.0,Female,Master's,QA Engineer,4.8,Bangalore,1266400.0
+25.0,Male,Master's,Data Analyst,4.5,Bangalore,1472100.0
+27.0,Male,Master's,Data Analyst,4.9,Mumbai,1493600.0
+25.0,Female,Master's,DevOps Engineer,4.3,Bangalore,2051800.0
+24.0,Male,Master's,Data Scientist,2.3,Pune,1619000.0
+33.0,Male,Master's,Machine Learning Engineer,9.0,Hyderabad,3009500.0
+33.0,Male,PhD,Business Analyst,7.0,Bangalore,2137400.0
+25.0,Male,Bachelor's,Business Analyst,2.7,Hyderabad,1165200.0
+35.0,Male,Master's,Cloud Architect,10.0,Hyderabad,3663200.0
+34.0,Female,Bachelor's,Senior Software Engineer,9.8,Hyderabad,3120400.0
+37.0,Male,High School,Senior Software Engineer,9.3,Bangalore,2926500.0
+34.0,Female,Bachelor's,Product Manager,6.9,Pune,2794200.0
+28.0,Female,Master's,Data Analyst,4.9,Hyderabad,1593100.0
+25.0,Female,Master's,Data Scientist,3.2,Hyderabad,1737600.0
